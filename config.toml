@@ -1,0 +1,12 @@
+baseUrl="https://vitcerny.xyz"
+languageCode = "en-us"
+title = "Vít Černý"
+defaultContentLanguage = "en"
+[params]
+  description = "Personal website of Vít Černý"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

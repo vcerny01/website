@@ -1,0 +1,10 @@
+.container {
+    margin-top: 1rem;
+    margin-left: -0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    margin: 1rem;
+    max-width: 400px;
+}
