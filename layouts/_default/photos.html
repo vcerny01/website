@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 
+{{ $link := ( printf "%s%s" "data/gallery/" .Params.data )}}
+{{ $data := getJSON $link}}
+
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
-    <link rel='stylesheet' type='text/css' href="/css/list.css">
+    <link rel='stylesheet' type='text/css' href="/css/photos.css">
     {{partial "favicon.html" .}}
-    <title>{{.Params.title}}</title>
+    <title>{{ $data.name}}</title>
     <!-- Gallery specific things -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 	<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
@@ -15,45 +18,38 @@
 <body>
     <header>
         {{partial "navbar.html" .}}
-        <h1>{{.Params.title}}</h1>
+        <h1>{{ $data.name}}</h1>
     </header>
     <section>
         {{.Content}}
     </section>
-<article>
-	{{ $link := .Params.data }}
-	{{ $data := getJSON $link}}
-	{{range }}
-</article>
-
-
-
-
-	<!-- <a
-	class="glightbox"
-  href="https://images.unsplash.com/photo-1644605578454-ada630784e38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=802&q=80"
-  data-title="Title"
-  data-type="image"
-  data-effect="fade"
-  data-width="900px"
-  data-height="auto"
-  data-zoomable="true"
-  data-draggable="true">
-  <img style="max-width: 300px;" src="https://images.unsplash.com/photo-1644605578454-ada630784e38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=802&q=80">
-  </a> -->
+    		
+	 <article>
+		{{$path := (printf "%s%s" "static/images/gallery/" $data.dir)}}
+		{{range (readDir $path) }}
+			{{$name := .Name}}
+			{{$filename := printf "%s/%s" (replace $path "static" "") .Name}}
+			{{$desc := ""}}
+			{{$name = (replace $name ".jpg" "")}}
+			{{range $data.descriptions}}
+				{{range $ek, $ev := .}}
+					{{if eq $ek $name}}
+						{{$desc = $ev}}
+					{{end}}
+				{{end}}
+			{{end}}
+				<div class="gallery">
+					<a href="{{$filename}}" class="glightbox" data-title="{{$name}}. {{$desc}}">
+					<img src="{{$filename}}" alt="{{$desc}}">
+					</a>
+				</div>
+		{{end}}
+	</article>
     <script>
     	const lightbox = GLightbox({
     		touchNavigation: true,
     		loop: true,
     	});
     </script>
-</div>
 </body>
-
-
-
-
-
-
-
-
+</html>
