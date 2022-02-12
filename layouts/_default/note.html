@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+
+<head>
+    {{partial "meta-head" .}}
+    {{partial "default-style.html" .}}
+    <link rel='stylesheet' type='text/css' href="/css/note.css">
+    {{partial "favicon.html" .}}
+    <title>{{.Params.title}}</title>
+</head>
+
+<body>
+    <header>
+        {{partial "navbar.html" .}}
+        <h1>{{.Params.title}}</h1>
+    </header>
+    <div class="metadata">
+        <div class="metainfo">
+            <div><span>Series:</span> <a href="/notes/{{.Params.series | urlize}}">{{.Params.series}}</a></div>
+            <div><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+        </div>
+        <div class="metafilter">
+            {{partial "block-filter.html" .}}
+        </div>
+    </div>
+    <article>
+        {{.Content}}
+    </article>
+    <script defer>
+        var blocks = document.querySelectorAll("li");
+        for(let i = 0; i < blocks.length; i++){
+            if(blocks[i].querySelector("img") != null){
+                blocks[i].style.listStyleType = "none";
+            }
+        }
+    </script>
+</body>
+
+</html>

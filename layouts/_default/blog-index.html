@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+    {{partial "meta-head" .}}
+    {{partial "default-style.html" .}}
+    <link rel="stylesheet" type="text/css" href="/css/list.css">
+    {{partial "favicon.html" .}}
+    <title>{{.Params.title}}</title>
+</head>
+
+<body>
+    <header>
+        {{partial "navbar.html" .}}
+        <h1>{{.Params.title}}</h1>
+    </header>
+    <section>
+       {{.Content}}
+    </section>
+    <div>
+        {{partial "list-filter.html" .}}
+        <ul id="listToFilter">
+            {{range (where .Site.RegularPages ".Params.layout" .Params.index).ByDate.Reverse}}
+            <li>{{time.Format "Jan 2, 2006" .Params.date}} - <a href="{{.Params.RelPermalink}}">{{.Params.title}}</a></li>
+            {{end}}
+        </ul>
+    </div>
+</body>
+</html>

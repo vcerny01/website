@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
-    <link rel='stylesheet' type='text/css' href="/css/home/about.css">
+    <link rel='stylesheet' type='text/css' href="/css/note.css">
     {{partial "favicon.html" .}}
     <title>{{.Params.title}}</title>
 </head>
@@ -12,8 +13,5 @@
         {{partial "navbar.html" .}}
         <h1>{{.Params.title}}</h1>
     </header>
-    <article>
-        {{.Content}}
-    </article>
 </body>
 </html>

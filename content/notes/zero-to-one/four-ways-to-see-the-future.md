@@ -1,0 +1,71 @@
+---
+date: '2022-02-11'
+layout: note
+series: Zero to One
+title: Four Ways to See the Future
+---
+
+- We can see future either as definite or indefinite
+    - **Definite** view
+        - Favors firm convictions
+            - > Instead of pursuing many-sided mediocrity and calling it “well-roundedness,” a definite person determines the one best thing to do and then does it. Instead of working tirelessly to make herself indistinguishable, she strives to be great at something substantive—to be a monopoly of one. 
+            - > This is not what young people do today, because everyone around them has long since lost faith in a definite world.
+    - **Indefinite** view
+        - Process trumps substance: when people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various options
+            - > This describes Americans today. In middle school, we’re encouraged to start hoarding “extracurricular activities.” In high school, ambitious students compete even harder to appear omnicompetent. By the time a student gets to college, he’s spent a decade curating a bewilderingly diverse résumé to prepare for a completely unknowable future. Come what may, he’s ready—for nothing in particular.
+    - We should treat future as definite 
+        - > From the Renaissance and the Enlightenment to the mid-20th century, Luck was something to be mastered, dominated, and controlled; everyone agreed that you should do what you could, not focus on what you couldn’t.
+            - > Ralph Waldo Emerson captured this ethos when he wrote: “Shallow men believe in luck, believe in circumstances.… Strong men believe in cause and effect.”
+            - > In 1912, after he became the first explorer to reach the South Pole, Roald Amundsen wrote: “Victory awaits him who has everything in order—luck, people call it.”
+            - > No one pretended that misfortune didn’t exist, but prior generations believed in making their own luck by working hard.
+- ### Four worldviews:
+    - > You can also expect the future to be either better or worse than the present. Optimists welcome the future; pessimists fear it. Combining these possibilities yields four views:
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FZByEdnI7jI.png?alt=media&token=6f16b495-25ba-49a8-b65b-692660ef86cb)
+    - Indefinite pessimism
+        - > Every culture has a myth of decline from some golden age, and almost all peoples throughout history have been pessimists. Even today pessimism still dominates huge parts of the world.
+        - > An indefinite pessimist looks out onto a bleak future, but he has no idea what to do about it.
+        - > This describes Europe since the early 1970s, when the continent succumbed to undirected bureaucratic drift.
+    - Definite pessimism
+        - > A definite pessimist believes the future can be known, but since it will be bleak, he must prepare for it.
+        - China is a very good example of this worldview
+            - > Perhaps surprisingly, China is probably the most definitely pessimistic place in the world today. When Americans see the Chinese economy grow ferociously fast (10% per year since 2000), we imagine a confident country mastering its future. But that’s because Americans are still optimists, and we project our optimism onto China. From China’s viewpoint, economic growth cannot come fast enough. Every other country is afraid that China is going to take over the world; China is the only country afraid that it won’t.
+            - > China can grow so fast only because its starting base is so low.
+            - > The easiest way for China to grow is to relentlessly copy what has already worked in the West. And that’s exactly what it’s doing: executing definite plans by burning ever more coal to build ever more factories and skyscrapers. 
+            - > But with a huge population pushing resource prices higher, there’s no way Chinese living standards can ever actually catch up to those of the richest countries, and the Chinese know it.
+    - Definite Optimism
+        - > To a definite optimist, the future will be better than the present if he plans and works to make it better.
+        - > From the 17th century through the 1950s and ’60s, definite optimists led the Western world.
+    - Indefinite Optimism
+        - > To an indefinite optimist, the future will be better, but he doesn’t know how exactly, so he won’t make any specific plans. He expects to profit from the future but sees no reason to design it concretely. 
+        - > Instead of working for years to build a new product, indefinite optimists rearrange already-invented ones.
+        - > After a brief pessimistic phase in the 1970s, indefinite optimism has dominated American thinking ever since 1982, when a long bull market began and finance eclipsed engineering as the way to approach the future.
+- ### Our world of indefinite optimism
+    - Naive optimism of the boomers
+        - > Recent graduates’ parents often cheer them on the established path. The strange history of the Baby Boom produced a generation of indefinite optimists so used to effortless progress that they feel entitled to it. Whether you were born in 1945 or 1950 or 1955, things got better every year for the first 18 years of your life, and it had nothing to do with you. Technological advance seemed to accelerate automatically, so the Boomers grew up with great expectations but few specific plans for how to fulfill them.
+        - > Then, when technological progress stalled in the 1970s, increasing income inequality came to the rescue of the most elite Boomers. Every year of adulthood continued to get automatically better and better for the rich and successful. The rest of their generation was left behind, but the wealthy Boomers who shape public opinion today see little reason to question their naïve optimism. Since tracked careers worked for them, they can’t imagine that they won’t work for their kids, too
+    - Indefinite Finance
+        - > While a definitely optimistic future would need engineers to design underwater cities and settlements in space, an indefinitely optimistic future calls for more bankers and lawyers.
+        - > Finance epitomizes indefinite thinking because it’s the only way to make money when you have no idea how to create wealth. If they don’t go to law school, bright college graduates head to Wall Street precisely because they have no real plan for their careers.
+        - The indefiniteness of finance can be bizarre
+            - > Think about what happens when successful entrepreneurs sell their company. What do they do with the money? In a financialized world, it unfolds like this:
+                - 1. The founders don’t know what to do with it, so they give it to a large bank.
+                - 2. The bankers don’t know what to do with it, so they diversify by spreading it across a portfolio of institutional investors.
+                - 3. Institutional investors don’t know what to do with their managed capital, so they diversify by amassing a portfolio of stocks.
+                - 4. Companies try to increase their share price by generating free cash flows. If they do, they issue dividends or buy back shares and the cycle repeats.
+            - > At no point does anyone in the chain know what to do with money in the real economy. But in an indefinite world, people actually prefer unlimited optionality; money is more valuable than anything you could possibly do with it. <mark>Only in a definite future is money a means to an end, not the end itself.</mark>
+    - Indefinite Politics
+        - > Politicians have always been officially accountable to the public at election time, but today they are attuned to what the public thinks at every moment.
+        - > We are more fascinated today by statistical predictions of what the country will be thinking in a few weeks’ time than by visionary predictions of what the country will look like 10 or 20 years from now.
+        - > [A]ccording to the indefinite logic of entitlement spending, we can make things better just by sending out more checks.
+    - Indefinite philosophy
+        - > You can see the shift to an indefinite attitude not just in politics but in the political philosophers whose ideas underpin both left and right.
+        - > The philosophy of the ancient world was pessimistic: Plato, Aristotle, Epicurus, and Lucretius all accepted strict limits on human potential. The only question was how best to cope with our tragic fate.
+        - > Modern philosophers have been mostly optimistic. From Herbert Spencer on the right and Georg Wilhelm Friedrich Hegel in the center to Karl Marx on the left, the 19th century shared a belief in progress. (Remember Marx and Engels’s encomium to the technological triumphs of capitalism from this page.) These thinkers expected material advances to fundamentally change human life for the better: they were definite optimists.
+        - > In the late 20th century, indefinite philosophies came to the fore. The two dominant political thinkers, John Rawls and Robert Nozick, are usually seen as stark opposites: on the egalitarian left, Rawls was concerned with questions of fairness and distribution; on the libertarian right, Nozick focused on maximizing individual freedom. They both believed that people could get along with each other peacefully, so unlike the ancients, they were optimistic. But unlike Spencer or Marx, Rawls and Nozick were indefinite optimists: they didn’t have any specific vision of the future.
+    - Darwinism as a metaphor for indefinite optimism
+        - > But indefinite optimism seems inherently unsustainable: how can the future get better if no one plans for it?
+        - > Actually, most everybody in the modern world has already heard an answer to this question: progress without planning is what we call “evolution.” Darwin himself wrote that life tends to “progress” without anybody intending it. Every living thing is just a random iteration on some other organism, and the best iterations win.
+        - > <mark>Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.</mark>
+            - Steve Jobs's way of doing business is a great example of intelligent design (definite optimism)
+                - > But the most important lesson to learn from Jobs has nothing to do with aesthetics. The greatest thing Jobs designed was his business. Apple imagined and executed definite multi-year plans to create new products and distribute them effectively. Forget “minimum viable products”—ever since he started Apple in 1976, Jobs saw that you can change the world through careful planning, not by listening to focus group feedback or copying others’ successes.
+                - > <mark>Long-term planning is often undervalued by our indefinite short-term world.</mark>

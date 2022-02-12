@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+
+<head>
+    {{partial "meta-head" .}}
+    {{partial "default-style.html" .}}
+    <link rel='stylesheet' type='text/css' href="/css/list.css">
+    {{partial "favicon.html" .}}
+    <title>{{.Params.title}}</title>
+</head>
+
+<body>
+    <header>
+        {{partial "navbar.html" .}}
+        <h1>{{.Params.title}}</h1>
+    </header>
+    <section>
+        {{.Content}}
+    </section>
+    <div>
+        {{partial "list-filter.html" .}}
+        <ul id="listToFilter" style="padding-inline-start:0;">
+        {{range where .Site.Pages ".Params.source" (lower .Params.title)}}
+            <li class="source-item">
+                <a href="{{.Page.RelPermalink}}"><img src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;"><span style="display: none;">{{.Params.title}}</span></a></li>
+        {{end}}
+        </ul>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<div class="filter-field">
+    <input id="filter" onkeyup="filterArticle()" , placeholder="Filter blocks">
+    <script defer>
+        function filterArticle() {
+            var input, filter, parent, children, i, txtValue;
+            input = document.getElementById("filter");
+            filter = input.value.toLowerCase();
+            parent = document.querySelector("article");
+            children = parent.getElementsByTagName("li");
+            var passed = [];
+            for (i = 0; i < children.length; i++) {
+                txtValue = children[i].textContent;
+                if (txtValue.toLowerCase().indexOf(filter) > -1) {
+                    children[i].style.display = "";
+                    passed.push(children[i]);
+                } else {
+                    children[i].style.display = "none";
+                }
+            }
+            // show children blocks of passed blocks as well
+            for (i = 0; i < passed.length; i++){
+                children = passed[i].getElementsByTagName("li");
+                var j;
+                for (j = 0; j < children.length; j++){
+                    children[j].style.display = "";
+                }
+            }
+        }
+    </script>
+</div>

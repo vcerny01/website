@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+    {{partial "meta-head" .}}
+    {{partial "default-style.html" .}}
+    {{partial "favicon.html" .}}
+    <title>{{.Params.title}}</title>
+</head>
+
+<body>
+    <header>
+        {{partial "navbar.html" .}}
+        <h1>{{.Params.title}}</h1>
+    </header>
+    <section>
+        {{if .Params.date}}
+        <div class="pubInfo">
+            <span style="color:gray; font-size: 0.9em;">Published:</span>&ensp;{{ time.Format "Jan 2, 2006" .Params.date}}
+        </div>
+        {{end}}
+        {{if .Params.toc}}
+        <div class="toc">
+            <strong style="text-align: center;">Table of Contents</strong>
+            {{.TableOfContents}}
+        </div>
+        {{end}}
+    </section>
+    <article>
+        {{.Content}}
+    </article>
+</body>
+</html>

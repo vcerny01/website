@@ -1,17 +1,20 @@
+/* CORE */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 :root {
     --bg-color: #1E1E21;
     --secondary-bg-color: #313244;
-    --hover-bg-color: ##4A4A4D;
+    --terciary-bg-color: #3D3A42;
     --text-color: #EDEEFF;
     --link-color: #CFA616;
+    --secondary-link-color: #FCB465;
 }
 
 body {
     padding: 0 1rem 1rem;
     max-width: 1000px;
     margin: auto;
+    margin-bottom: 700px;
     background-color: var(--bg-color);
     color: var(--text-color);
     font-family: 'IBM Plex Sans', sans-serif;
@@ -26,16 +29,89 @@ a:hover {
     text-decoration: underline;
 }
 
+/* GENERAL STYLING */
+article {
+    max-width: 800px;
+    margin:  auto;
+}
+
+p {
+    margin-left: 1rem;
+}
+
 h1 {
     text-align: center;
     font-size: 2.2em;
     padding: 0.5rem;
 }
 
-h1 {
+.pubInfo {
+    width: fit-content;
+    float: right;
+    margin-right: auto;
+    padding: 10px;
+    border-left: 2px solid var(--secondary-bg-color);
+    /*float: right;*/
 }
 
+.toc {
+    margin-right: 0;
+    margin-top: 1rem;
+    width: fit-content;
+    padding: 1rem;
+    border-top: 2px solid var(--secondary-bg-color);
+}
+.toc ul {
+    list-style-type: decimal;
+    counter-reset: item;
+    padding-inline-start: 20px;
+}
+.toc ul li {
+    display:  block;
+}
+.toc ul li a {
+    color: var(--secondary-link-color);
+}
+.toc ul li:before {
+    content:  counters(item, ".") ". ";
+    counter-increment: item;
+    font-size: 0.9em;
+    color: gray;
+}
+
+/* NAVBAR */
 .navbar {
     padding: 0.8rem 0.5rem 0.5rem;
     border-bottom: 1px solid var(--secondary-bg-color);
+}
+.site{color: var(--text-color)}
+.site:hover{text-decoration: none;}
+
+.drop{ color: var(--link-color) }
+.drop:hover { text-decoration: underline; }
+.dropdown {
+    display: inline-block;
+    cursor: pointer;
+    width: fit-content;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin-left: -1rem;
+    z-index: 1;
+    background-color: var(--secondary-bg-color);
+    width: fit-content;
+}
+.dropdown-content a {
+    text-align: center;
+    padding: 12px 16px;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: var(--terciary-bg-color);
+    color: var(--link-color);
+    border-color: var(--light-link-color)
+}
+.dropdown:hover .dropdown-content {
+    display: block;
 }
