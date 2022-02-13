@@ -16,15 +16,38 @@
     <p style="font-size: 1.4em; margin-left: 15vw; margin-top: 4rem; margin-bottom: 3rem;">Hey, this is my website! 👋</p> 
     <div class="container">
         <div class="column">
-            <h3>Where can you find me</h3>f
+            <h3>Where can you find me</h3>
             <ul>
                 <li>Posting hot takes on <a href="https://twitter.com/VitCerny1"><strong>Twitter</strong></a></li>
                 <li>Sharing my projects at <a href="https://github.com/vcerny01"><strong>GitHub</strong></a></li>
-                <li>...and on this site. Get updated with my RSS <a href="/feed.xml"><strong>feed</strong></a></li>
+                <li>...and on this site. Get updated with my RSS feeds
+                    <ul>
+                        <li>For <a href="/articles/index.xml"><strong>articles</strong></a></li>
+                        <li>For <a href="/gallery/index.xml"><strong>photos</strong></a>
+                    </ul>
+                </li>
             </ul>
         </div>
+        <div class="column">
+            <h2>UNDER CONSTRUCTION!</h2>
+            <img style="max-width: 400px;" src="/images/main/vaporwave.gif">
         <div clas="column">
             <h3>Recent posts</h3>
+            <ul>
+                {{range (first 3 (where .Site.RegularPages ".Page.Params.layout" "not in" (slice "note" "source")).ByDate.Reverse)}}
+                    <li>{{time.Format "Jan 2" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
+                {{end}}
+            </ul>
+        </div>
+        <!-- <div class="column">
+            <h3>What can you find here</h3>
+            <ul>
+                <li>My <a href="/notes"><strong>notes</strong></a></li>
+                <li>My <a href="/articles"><strong>articles</strong></a></li>
+            </ul>
+        </div> -->
+        <div class="column">
+            <a class="twitter-timeline" data-width="400" data-height="500" data-dnt="true" data-theme="dark" href="https://twitter.com/VitCerny1?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     </div>
 </body>

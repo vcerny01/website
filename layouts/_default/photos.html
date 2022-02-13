@@ -18,7 +18,8 @@
 <body>
     <header>
         {{partial "navbar.html" .}}
-        <h1>{{ $data.name}}</h1>
+        <h1>{{ .Params.title }}</h1>
+        {{partial "date.html" .}}
     </header>
     <section>
         {{.Content}}
@@ -40,7 +41,7 @@
 			{{end}}
 				<div class="gallery">
 					<a href="{{$filename}}" class="glightbox" data-title="{{$name}}. {{$desc}}">
-					<img src="{{$filename}}" alt="{{$desc}}">
+						<img src="{{$filename}}" alt="{{$desc}}">
 					</a>
 				</div>
 		{{end}}
@@ -48,7 +49,7 @@
     <script>
     	const lightbox = GLightbox({
     		touchNavigation: true,
-    		loop: true,
+    		loop: false,
     	});
     </script>
 </body>

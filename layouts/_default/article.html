@@ -5,6 +5,9 @@
     {{partial "default-style.html" .}}
     {{partial "favicon.html" .}}
     <title>{{.Params.title}}</title>
+    {{if .Params.math}}
+        {{partial "math.html" .}}
+    {{end}}
 </head>
 
 <body>
@@ -14,9 +17,7 @@
     </header>
     <section>
         {{if .Params.date}}
-        <div class="pubInfo">
-            <span style="color:gray; font-size: 0.9em;">Published:</span>&ensp;{{ time.Format "Jan 2, 2006" .Params.date}}
-        </div>
+            {{partial "date.html" .}}
         {{end}}
         {{if .Params.toc}}
         <div class="toc">
@@ -28,5 +29,6 @@
     <article>
         {{.Content}}
     </article>
+    {{partial "footer.html" .}}
 </body>
 </html>
