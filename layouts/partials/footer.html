@@ -1,0 +1,24 @@
+<div class="footer">
+	<div style="font-size: 1.5em;">---</div>
+	<div>Thanks for reading!</div>
+	<button onclick="hrefToClipBoard()">Copy the link to share</button>
+	<div>Donate XMR: <br>
+	<span style="color: gray; font-size: 0.8em;">42ybQnyjZLM82oLUUMSomc3YSF7LYYDQEjg72ZU1vqMUhjSrAqdqhfEfD27rZapvFq7Ciiop5e72hYeCBovnbLc5FHGdLcV</span></div>
+	<div>
+		<a href="https://twitter.com/VitCerny1"><img src="/images/main/twitter-logo.png"></a>&emsp;
+		<a href="https://github.com/vcerny01"><img src="/images/main/github-logo.png"></a>
+	</div>
+</div>
+
+<script>
+ function hrefToClipBoard(text)
+ {
+     var inputc = document.body.appendChild(document.createElement("input"));
+     inputc.value = window.location.href;
+     inputc.focus();
+     inputc.select();
+     document.execCommand('copy');
+     inputc.parentNode.removeChild(inputc);
+     alert("URL \"" + window.location.href + "\" has been copied to the clipboard");
+ }
+</script>

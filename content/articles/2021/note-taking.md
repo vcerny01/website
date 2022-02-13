@@ -125,4 +125,4 @@ Compared to other apps, my workflow with Roam is more focused and clean.
 
 ---
 
-Regardless of how you take your notes, I highly encourage you to make some of your notes public or write something. It's a [positive feedback loop](https://fs.blog/2011/10/mental-model-feedback-loops/).
+Regardless of how you take your notes, I highly encourage you to make some of your notes [public](https://www.swyx.io/learn-in-public/).

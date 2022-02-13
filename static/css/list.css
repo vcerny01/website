@@ -8,6 +8,10 @@
 	border-bottom: 2.5px solid var(--secondary-bg-color);
 }
 
+header {
+    margin-bottom: 4rem;
+}
+
 section {
     margin-bottom: 4rem;
 }
