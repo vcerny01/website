@@ -27,6 +27,7 @@
     <article>
         {{.Content}}
     </article>
+    {{partial "footer.html" .}}
     <script defer>
         var blocks = document.querySelectorAll("li");
         for(let i = 0; i < blocks.length; i++){
