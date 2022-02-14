@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 
-{{ $link := ( printf "%s%s" "data/gallery/" .Params.data )}}
-{{ $data := getJSON $link}}
-
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
     <link rel='stylesheet' type='text/css' href="/css/photos.css">
     {{partial "favicon.html" .}}
-    <title>{{ $data.name}}</title>
+    <title>{{ .Params.title}}</title>
     <!-- Gallery specific things -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
 	<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
@@ -26,13 +23,14 @@
     </section>
     		
 	 <article>
-		{{$path := (printf "%s%s" "static/images/gallery/" $data.dir)}}
-		{{range (readDir $path) }}
-			{{$name := .Name}}
-			{{$filename := printf "%s/%s" (replace $path "static" "") .Name}}
+		{{$path := (printf "%s%s" "static/images/gallery/" .Params.data)}}
+		{{$contents := readDir $path}}
+		{{range seq (len $contents)}}
+			{{$name := (printf "%s%s" (string .) ".webp")}}
+			{{$filename := printf "%s/%s" (replace $path "static" "") $name}}
 			{{$desc := ""}}
 			{{$name = (replace $name ".jpg" "")}}
-			{{range $data.descriptions}}
+			{{range $.Params.descriptions}}
 				{{range $ek, $ev := .}}
 					{{if eq $ek $name}}
 						{{$desc = $ev}}
@@ -40,7 +38,7 @@
 				{{end}}
 			{{end}}
 				<div class="gallery">
-					<a href="{{$filename}}" class="glightbox" data-title="{{$name}}. {{$desc}}">
+					<a href="{{$filename}}" class="glightbox" data-title="{{$desc}}">
 						<img src="{{$filename}}" alt="{{$desc}}">
 					</a>
 				</div>
