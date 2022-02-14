@@ -21,11 +21,19 @@
         {{partial "list-filter.html" .}}
         <ul id="listToFilter" style="padding-inline-start:0;">
         {{range where .Site.Pages ".Params.source" (lower .Params.title)}}
+            {{if .Params.cover}}
             <li class="source-item">
                 <a href="{{.Page.RelPermalink}}"><img src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;"><span style="display: none;">{{.Params.title}}</span></a></li>
+            {{end}}
+            {{if not .Params.cover}}
+            <li class="source-item">
+                <a class="no-image-link" href="{{.Page.RelPermalink}}">{{.Params.title}}</a>
+            </li>
+            {{end}}
         {{end}}
         </ul>
     </div>
+    {{partial "analytics.html" .}}
 </body>
 
 </html>

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+
+
 #filter {
 	display: block;
 	padding: 0.5rem;
@@ -52,8 +55,15 @@ li {
     background-color: var(--terciary-bg-color);
 }
 
-.source-item a {
-    font-size: 0px;
-    width: 0px;
-    height: 0px;
+.no-image-link {
+    font-family: 'IBM Plex Serif', serif;
+    background-color: #141417;
+    font-weight: 600;
+    display: block;
+    padding: 2rem;
+    color: var(--text-color);
+    font-size: 2em;
+}
+.no-image-link:hover {
+    text-decoration: none;
 }
