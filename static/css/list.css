@@ -23,10 +23,15 @@ section {
     outline: none;
 }
 
-#listToFilter {
-    display: table;
-    margin: 0 auto;
+
+
+.list-image {
+    padding-inline-start:0;
+    display: flex;
     margin-top: 2.5rem;
+    margin: 1rem;
+    flex-direction: row;
+    justify-content: center;
 }
 
 ul {
@@ -37,6 +42,7 @@ li {
 }
 
 .source-item {
+    margin: 1em;
     width: 10rem;
     list-style: none;
     padding: 10px;

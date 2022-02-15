@@ -1,8 +1,9 @@
 blockquote {
     background-color: var(--secondary-bg-color);
-    border-radius: 5px;
-    padding: 5px 10px 5px;
+    border-left: var(--terciary-bg-color) solid 5px;
     width: fit-content;
+    padding: 1px;
+    padding-right: 10%;
     margin: 0;
 }
 

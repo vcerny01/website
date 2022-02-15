@@ -20,6 +20,10 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
+input:focus {
+    outline: none;
+}
+
 a {
     color: var(--link-color);
     text-decoration: none;

@@ -19,7 +19,7 @@
     </section>
     <div>
         {{partial "list-filter.html" .}}
-        <ul id="listToFilter" style="padding-inline-start:0;">
+        <ul id="listToFilter" class="list-image">
         {{range where .Site.Pages ".Params.source" (lower .Params.title)}}
             {{if .Params.cover}}
             <li class="source-item">

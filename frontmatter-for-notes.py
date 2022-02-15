@@ -15,6 +15,7 @@ def parse_arguments():
     parser.add_argument("-f", "--file", type=str, help="Target filename", required=False)
     parser.add_argument("-d", "--directory", type=str, help="Target directory", required=False)
     parser.add_argument("-t", "--time", type=str, help="Date for the note", required=False)
+    parser.add_argument("-s", "--series", type=str, help="Series of the note", required=True)
     return parser.parse_args()
 
 
