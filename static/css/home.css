@@ -1,7 +1,7 @@
 .container {
     justify-content: center;
     gap: 5rem;
-    margin-top:  0rem;
+    margin-top:  2rem;
     margin-left:2vw;
     display: flex;
     flex-wrap: wrap;
@@ -21,7 +21,7 @@ li {
     padding-top: 5px;
 }
 
-@media only screen and (max-width:  850px){
+@media only screen and (max-width:  800px){
     .container {
         justify-content: flex-start;
         gap: 0rem;
