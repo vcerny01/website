@@ -13,14 +13,21 @@ li {
 }
 
 img {
-    max-width: 400px;
+    display: inline-block;
+    overflow-inline: hidden;
+    width: 60vw;
+    max-width: 350px;
     border: 2px solid gray;
     padding: 1px;
     margin: 1.5rem 1rem 1rem;
 }
 
 img:hover {
-    max-width: 100%
+    position: relative;
+    left: -3rem;
+    margin:  none;
+    max-width: 100%;
+    width: 100%;
 }
 
 li < img {
@@ -64,3 +71,4 @@ ol {
 	border: 0px;
 	border-bottom: 2px solid var(--secondary-bg-color);
 }
+
