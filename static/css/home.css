@@ -1,13 +1,19 @@
 .container {
     justify-content: center;
     gap: 5rem;
-    margin-top:  2rem;
+    margin-top:  3rem;
     margin-left:2vw;
     display: flex;
     flex-wrap: wrap;
 }
 .column {
-    max-width: 400px
+    border-left: var(--terciary-bg-color) solid 3px;
+    border-top:  var(--terciary-bg-color) solid 3px;
+    padding: 0 1rem 0;
+    padding-bottom: 0;
+    margin-bottom: 2rem;
+    max-width: 400px;
+    width:fit-content;
 }
 
 h3 {
@@ -27,7 +33,8 @@ li {
         gap: 0rem;
     }
     .column {
+        flex-wrap: nowrap;
         max-width: 100%;
-        width: 100%;
+        width: 90%;
     }
 }

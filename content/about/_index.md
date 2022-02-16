@@ -4,22 +4,23 @@ title: About
 ---
 
 ## About me
+<img src="/images/main/me.png" style="float:right; max-width: 140px">
 
 I'm a high school student interested in technology, music, history and everything contrarian.
 
 ## Why I made this website
 
-This is my small place on the internet. I share my thoughts, notes, photos... here. 
+This is my place on the internet. Here I share my thoughts, notes, photos, etc. 
 
-In the February of 2022 I decided to remake my website from scratch to make it more usable for sharing my notes here on the regular basis. I use the awesome [Hugo](https://gohugo.io/) SSG. ([Repo](https://github.com/vcerny01/website) of my website is available on GitHub (everything is very much tailored for my needs, so you'd probably have a bad time making a theme out of it))
+In the February of 2022, I decided to remake my website from scratch to make it more usable for sharing my notes regularly. I use the [Hugo](https://gohugo.io/) SSG. ([Repo](https://github.com/vcerny01/website) of my website is available on GitHub)
 
-I don't really enjoy doing frontend stuff, but it's still fun doing webdev for myself.
+I don't particularly enjoy doing frontend stuff, but it's still fun doing web dev for myself.
 
 ## Legal
 
-To make use of my photos, contact me. Otherwise refer to the GPL v3 license under which I release my content for this website.
+To make use of my photos, contact me. Otherwise, refer to the GPL v3 license under which I release this website.
 
-Sometimes I use citations extensively in my notes. If you think your rights have been violated, contact me. 
+Sometimes I use citations extensively in my notes. If you think anything is violating your rights, contact me. 
 
 ## Contact
 
