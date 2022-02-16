@@ -10,6 +10,7 @@
     {{end}}
 </head>
 
+
 <body>
     <header>
         {{partial "navbar.html" .}}
@@ -17,7 +18,9 @@
     </header>
     <section>
         {{if .Params.date}}
+        <div {{if not .Params.toc}} style="width: 100%; min-height: 4rem;"{{end}}>
             {{partial "date.html" .}}
+        </div>
         {{end}}
         {{if .Params.toc}}
         <div class="toc">

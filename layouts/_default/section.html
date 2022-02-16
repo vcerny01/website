@@ -22,7 +22,7 @@
         <h4>All items:</h4>
         {{partial "list-filter.html" .}}
         <ul  id="listToFilter" style="display: table; margin: 0 auto; margin-top: 2.5rem;">
-        {{range .Site.RegularPages}}
+        {{range .Site.Pages}}
         {{if eq .Page.Params.series $.Page.Params.title}}
             <li><a href="{{.Page.RelPermalink}}">{{.Page.Params.title}}</a></li>
         {{end}}

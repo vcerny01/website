@@ -12,4 +12,4 @@ title: Steve Jobs
    - **Published**: 2011
    - [TOC](https://library.villanova.edu/Find/Record/1339444/TOC)
 
-Good biography, certainly worth your time. Also an interesting overview of some technological innovation in the second half of the 20th century. Notes I made are rather practical, except for the note about Jobs himself. (It was the first year of covid, so I wrote a long note about him) 
+Good biography, certainly worth your time. Also an interesting overview of some technological innovation in the second half of the 20th century. Notes I made are rather practical, except for the note about Jobs himself.

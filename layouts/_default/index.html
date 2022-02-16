@@ -13,7 +13,8 @@
     <header>
         {{partial "navbar.html" .}}
     </header>
-        <p style="font-size: 1.1em;margin-top: 2rem;">Hey! </p>
+        <p style="font-size: 1.2em;margin-top: 2rem;">Hey! </p>
+        <p>I share things I learn and make here in public using the hypertext.</p>
     <div class="container">
         <div class="column">
         <h3>Links</h3>
@@ -35,6 +36,7 @@
                     <li>{{time.Format "Jan 2" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
                 {{end}}
             </ul>
+            <p style="font-size: 0.75em"><a href="/about/updates-on-notes">Why are new notes not included here?</a></p>
         </div>
         <!-- <div class="column">
             <h3>What can you find here</h3>

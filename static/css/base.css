@@ -38,6 +38,10 @@ article {
     margin:  auto;
 }
 
+section {
+    width: 100%;
+}
+
 p {
     margin-left: 1rem;
 }
@@ -55,6 +59,10 @@ h1 {
     text-align: center;
     font-size: 2.2em;
     padding: 0.5rem;
+}
+
+header {
+    margin-bottom: 2rem;
 }
 
 /* FOOTER */

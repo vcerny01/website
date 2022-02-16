@@ -18,7 +18,7 @@
     </section>
     <div>
         {{partial "list-filter.html" .}}
-        <ul id="listToFilter">
+        <ul id="listToFilter" style="display: table; margin: 0 auto; margin-top: 2.5rem;">
             {{range (where .Site.RegularPages ".Params.layout" .Params.index).ByDate.Reverse}}
             <li>{{time.Format "Jan 2, 2006" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
             {{end}}
