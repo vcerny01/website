@@ -1,0 +1,143 @@
+---
+layout: note
+title: Květ
+date: "2022-02-18"
+series: Biologie
+---
+
+- = soubor přeměněných listů sloužicích k pohlavnímu rozmnožování
+- ![](/images/misc/2022/g5-biol/kvet1.png)
+- ## Složení
+	- **květní stopka** - upevňuje *květ* ke *stonku*
+	- **květní lůžko** - rozšířená horní část *květní stopky*
+	- **květní obaly** - *kalich*, *koruna*, případně *okvětí*
+	- **reprodukční orgány** - *tyčinky* a *pestík*
+- ## Květní obaly
+	- nepodílejí se přímo na rozmnožování
+	1) Tvarově a barevně rozlišené:
+		- **Kalich**
+			- vnější část *květního obalu*
+			- tvořen zelenými lístky - *volné* nebo *srostlé*
+		- **Koruna**
+			- vnitřní část, nápadná, pestře zbarvená
+			- láká opylovače
+			- lístky mohou být *srostlé* nebo *volné*
+	2) Nerozlišené
+		- **Okvětí**
+			- lístky *volné* nebo *srostlé*  
+- ## Reprodukční orgány
+	- přímo se podílejí na rozmnožování
+- ### Tyčinky
+	- samčí pohlavní orgány
+	- produkují pylová zrna (*mikrospory*)
+	- nitka + prašník
+		- 2 prašné váčky
+			- 2 prašná pouzdra (4 celkem(2\*2))
+	- soubor tyčinek = *andreceum*
+	- ![](/images/misc/2022/g5-biol/kvet2.png)
+- ### Pestík
+	- samičí pohlavní orgán
+	- soubor pestíků = *gyneceum*
+	- skládá se z:
+		- **Semeník**
+			- spodní rozšířená část
+			- 1 nebo více vajíček
+			- *Typy*:
+				- *spodní*
+				- *svrchní*
+				- *polospodní*
+		- **Čnělka**
+			- střední protáhlá část
+		- **Blizna**
+			- vrchní část
+			- zachycují se zde a klíčí *pylová zrna*
+	- ![](/images/misc/2022/g5-biol/kvet3.png)
+- ## Rozdělení květů
+	- **Podle souměrnosti**
+		- a) *Pravidelné*
+			- více rovin souměrnosti
+		- b) *Souměrné*
+			- 1 rovina souměrnosti
+		- c) *Asymetrické*
+			- nemají žádnou rovinu souměrnosti
+		- ![](/images/misc/2022/g5-biol/kvet4.png)
+- **Podle pohlavnosti**
+	- a) *Oboupohlavné*
+		- obsahuje samčí i samičí pohlavní orgány
+		- např. *Jabloň*
+	- b) Jednopohlavné
+		- samčí nebo samičí pohlavní orgány
+		- rostliny:
+			1) Jednodomé
+				- samčí i samičí květy na jednom jedinci
+				- např. *dub*
+			2) Dvoudomé
+				- jedinec se samičími nebo jen se samčími květy
+				- např. *vrba, rakytník*
+	- ![](/images/misc/2022/g5-biol/kvet5.png)
+- ## Květenství
+	- soubor květů uspořádaných na **společném stonku**
+	- ### Složení
+		- *Hlavní vřeteno*
+			- hlavní stonek - společný
+		- *Postranní vřetena*
+	- ### Typy
+		-	#### Hroznovitá
+			- *postranní vřetena* nepřerůstají *hlavní vřeteno*
+			- **Hrozen**
+				- květy přibližně na *stejných* stopkách
+				- např. *rybíz*
+			- **Lata**
+				- hlavní stonek s *postranními hrozny*
+					- směrem k vrcholu se *zkracují*
+				- např. *šeřík*
+			- **Klas**
+				- *přisedlé* květy
+				- např. *jitrocel*
+			- **Jehněda**
+				- *převislé* květenství
+				- *přisedlé* květy
+				- opadá *vcelku*
+				- např. *líska*
+			- **Okolík**
+				- přibližně *stejně dlouhé* květní stopky
+					- vyrůstají z *jednoho místa*
+				- např. *prvosenka*
+			- **Hlávka** (strboul)
+				- velmi *zkrácené* vřeteno → květy téměř *přisedlé*
+				- květy na *všechny strany*
+				- např. *jetel*
+			- **Úbor**
+				- květy na *rozšířeném lůžku*
+				- *zákrov* = soubor listů na *spodní* straně
+				- např. *heřmánek*
+		- #### Vrcholičnatá
+			- postranní vřetena *přerůstají* zkrácené hlavní vřeteno
+			- **Vrcholík**
+				- *mnohoramenný* - *více* postranních vřeten ve *stejné výši*
+				- např. *bez černý*
+			- **Vidlan**
+				- *dvouramenný vrcholík* - *dvě* postranní vřetena
+				- např. *knotovka bílá*
+			- **Vijan**
+				- *jednoramenný vrcholík* - vyvíjí se jen *jedno* postranní vřeteno
+				- např. *pomněnka*
+	- ### Dělení květu podle složitosti
+		- 1) **Jednoduchá**
+			- *hroznovitá*
+			- *vrcholičntá*
+		- 2) **Složená**
+			- kombinací *dvou jednoduchých* květenství
+			- **Složený okolík**
+				- z *několika okolíčků*
+				- *miříkovité*
+			- **Hrozen z vijanů**
+				- např. *jírovec*
+- ## Využití květu
+	- **Výroba**
+		- 1) *Léčiv*
+			- lípa, divizna, heřmánek
+		- 2) *Krémů a parfémů*
+			- růže, šeřík, jasmín
+	- **Zelenina**
+		- květák

@@ -1,0 +1,55 @@
+---
+layout: note
+title: Český jazyk
+series: Kvinta
+date:  "2022-02-18"
+---
+
+- 18.2.
+	- ### Niccolo Machivavelli
+		- 1469 – 1527
+		- **_Vladař_**
+			- Politický traktát
+			- Základ evropské politické literatury
+			- Ideální panovník je jeden silný jedinec, co ski umí podřídit obyvatelstvo
+				- Moc se neodvozuje od Boha, ale od schopností (středověk->novověk)
+			- Machiavellismus
+				- Dravá politika vystihnutelná příslovím "účel světí prostředky"
+		- **_Mandragora_**	
+			- Komedie
+			- Děj
+				- > Starý zámožný advokát nemůže mít se svou mladou ženou, Lukracií, vlastní dítě – využije toho mladý kupec Kallimach, který prodá advokátovi zázračný kořen rostliny na plodnost, přitom mu ale namluví, že kdo stráví s ženou první noc po vypití nápoje, tak zemře. Advokát se zalekne a svolí, aby s ním strávil noc neznámý tulák = Kallimach. Vše se zdaří, advokát má dědice, ale Lukrecie tím získává trvalého domácího přítele
+	- ### Giovanni Boccaccio
+		- 1313 – 1375
+		- Ital z Florencie
+		- Vystudoval práva, pohyboval se ve vysokých kruzích
+		- **Novela**
+			- Kratší napínavý příběh psaný prózou
+			- Menší počet postav a výrazná pointa
+		- **_Dekameron_**
+			- = Soubor 100 novel
+				- Krátký příběh s menším počtem postav a výraznou pointou
+			- Z _deka_ (deset) a _hemera_ (den)
+				- 10 vypravěčů vypráví o 10 dnech
+			- Děj
+				- Florencii zasáhl mor, a tak hrstka mladých šlechticů (7 dam a 3 pánové) jedou na venkov a nudu zahání tím, že si vypráví příběhy
+			- Tématy v příbězích jsou vztahy a intriky (místy i erotické)
+		- Na konci svého života se stal horlivějším katolíkem a chtěl Dekameron spálit (jeho přátelé ho přesvědčili ať to nedělá)
+- 15.2.
+	- ### Francesco Petrarca
+		- 1304 – 1374
+		- Narodil se v Arezzu
+- 14.2.
+	- ### Dante Alighieri
+		- 1265 – 1321
+		- Italský básník z Florencie
+		- Psal florentským dialektem italštiny, který se stal později spisovnou italštinou
+		- Jeho inspirací byl Vergilius
+		- **_Božská komedie_**
+			- Duchovní epos
+			- 3 oddíly (dohromady 25 zpěvů)
+			- Symbolika - trichotomie
+				- 3 šelmy, 3 průvodci, tři oddíly
+			- Děj
+				- Cesta v kruzích nebe, očistce a pekla
+				- Průvodcem je Vergilius

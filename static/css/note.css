@@ -8,7 +8,7 @@ mark {
 }
 
 li {
-    margin: 10px 0px 0px;
+    margin: 5px 0px 0px;
     padding: 0;
 }
 
@@ -72,3 +72,7 @@ ol {
 	border-bottom: 2px solid var(--secondary-bg-color);
 }
 
+h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+}

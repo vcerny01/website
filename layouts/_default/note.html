@@ -17,7 +17,7 @@
     </header>
     <div class="metadata">
         <div class="metainfo">
-            <div><span>Series:</span> <a href="/notes/{{.Params.series | urlize}}">{{.Params.series}}</a></div>
+            <div><span>Series:</span> <a href="{{replace (replace .RelPermalink (path.Base .RelPermalink) "") "//" "/"}}">{{.Params.series}}</a></div>
             <div><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
         </div>
         <div class="metafilter">
@@ -29,14 +29,13 @@
     </article>
     {{partial "footer.html" .}}
     <script defer>
-        var blocks = document.querySelectorAll("li");
+        var blocks = document.querySelectorAll("img");
         for(let i = 0; i < blocks.length; i++){
-            if(blocks[i].querySelector("img") != null){
-                blocks[i].style.listStyleType = "none";
-            }
+            blocks[i].parentElement.style.listStyleType = "none";
         }
     </script>
     {{partial "analytics.html" .}}
 </body>
 
 </html>
+e

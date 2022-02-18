@@ -1,0 +1,26 @@
+#!/bin/bash
+
+git status
+echo "-----------------------------------------"
+read -p "Continue (<Enter>/n)?  "  moveon
+echo "-----------------------------------------"
+
+case $moveon in
+     "n")
+        echo "Get it done!" &&
+        exit 0
+        ;;
+     "")
+        git add . &&
+        git status &&
+        git commit -m $1 &&
+        git push
+     ;;
+     *)
+        echo "Did not understand. Please try again." &&
+        exit 0;
+     ;;
+esac
+echo "-----------------------------------------"
+echo "Publishing was succesful!"
+echo "-----------------------------------------"
