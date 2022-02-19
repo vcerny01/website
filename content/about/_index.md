@@ -12,9 +12,9 @@ I'm a high school student interested in technology, music, history and everythin
 
 This is my place on the internet. Here I share my thoughts, notes, photos, etc. 
 
-In the February of 2022, I decided to remake my website from scratch to make it more usable for sharing my notes regularly. I use the [Hugo](https://gohugo.io/) SSG. ([Repo](https://github.com/vcerny01/website) of my website is available on GitHub)
+In February of 2022, I decided to remake my website from scratch so that I could easily share my notes here. I use the [Hugo](https://gohugo.io/) SSG. ([repository](https://github.com/vcerny01/website))
 
-I don't particularly enjoy doing frontend stuff, but it's still fun doing web dev for myself.
+I don't particularly enjoy doing frontend stuff, but it's fun doing web development for myself.
 
 ## Legal
 
@@ -26,6 +26,6 @@ Sometimes I use citations extensively in my notes. If you think anything is viol
 
 Email: **vit.cerny1@pm.me**
 
-Twitter: **@VitCerny1**
+Twitter: **[@VitCerny1](https://twitter.com/VitCerny1)**
 
-GitHub: **vcerny01**
+GitHub: **[vcerny01](https://github.com/vcerny01)**
