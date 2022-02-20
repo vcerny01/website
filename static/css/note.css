@@ -12,7 +12,7 @@ li {
     padding: 0;
 }
 
-img {
+article img {
     display: inline-block;
     overflow-inline: hidden;
     width: 60vw;
@@ -22,7 +22,7 @@ img {
     margin: 1.5rem 1rem 1rem;
 }
 
-img:hover {
+article img:hover {
     position: relative;
     left: -3rem;
     margin:  none;
