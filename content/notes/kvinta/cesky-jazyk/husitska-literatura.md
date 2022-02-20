@@ -1,0 +1,156 @@
+---
+title: Husitská literatura
+layout: note
+series: Český jazyk
+date: "2022-02-20"
+---
+
+		Get the milk gang
+
+-   _reformace_
+-   objevuje se od 2. poloviny 15. století
+-   literatura ma _agitanční charakter_
+-   žánry:
+	-   duchovní píseň
+	-   bojovná píseň
+	-   _postila_
+		-   soubor kázání
+	-   satira
+	-   polemika
+	-   spor
+	-   kronika
+	-   _traktát_
+		-   o náboženských otázkách
+- ## Husovi předchůdci
+	-   příchod za vlády Karla IV.
+	-   kázali o reformě církve
+	-   střediskem se stala Betlémská kaple
+	-   kázali v němčině, češtině i latině
+	- ### Konrád Waldhauser
+		-   německý kazatel
+		-   kázal v němčině a latině studentům i veřejnosti
+	- ### Jan Milíč z Kroměříže
+		-   kázal v češtině všem vrstvám
+		-   byl velmi nadaný a vzdělaný
+		-   měl radikální myšlenky
+		-   byl označen za kacíře a vykázán
+	- ### Tomáš Štítný ze Štítného
+		-   šlechtického původu
+		-   studoval va Praze a byl ovlivněn kazateli
+		-   po studiu v Praze se vráti do jižních Čech kde psal traktáty
+		-   **_Knížky šestery_**
+			-   o obecných křesťanských věcech
+		-   **_Řeči besední_**
+			-   úvahy o rozmluvách o bohu v rodině
+		-   **_Řeči sváteční a nedělní_**
+			-   úvahy o rozmluvách hospodáře s rodinou o svátcích
+		-   **_Knížky o hře šachové_**
+			-   o hře šachové
+- ## Jan Hus
+	-   *1371, Husinec - *6. 7. 1415, Kostnice
+	-   studoval na Karlově univerzitě
+		-   získal titul _mistr_
+		-   nějakou dobu byl rektorem
+	-   kázal v Betlémské kapli
+	-   ovlivnilo dílo _Johna Wycliffa_
+	-   kritizoval kněze
+		-   za porušování celibátu
+		-   za kupování svých úřadů
+		-   za prodej odpstků
+		-   za bohatství a obžerství
+		-   za rozmařilý život
+	-   byl označen za kacíře
+	-   byl na něj vyhlášen _interdikt_
+		-   nemohl kázat v Praze
+	-   v roce 1414 odjel do Kostnice obhajovat své učení
+		-   byl zatčen a souzen
+		-   nedostal možnost se obhájit
+		-   mohl se jen odvolat
+		-   zůstal u svého učení a byl upálen
+	-   je mu připisována pravopisná reforma
+		-   zrušení spřežek
+		-   jediná spřežka, která zůstala je _ch_
+	-   **_Výklady Viery, Desatera a Páteře_**
+		-   výklad tří základních křesťanských modliteb
+		-   _páteř_ je modlitba _Otče náš_
+		-   ostré výpady proti křesťanství
+	-   **_Dcerka_**
+		-   adresováno zbožným dívkám
+		-   jak poznat Boha
+		-   jak přemáhat těžkosti života
+	-   **_Knížky o svatokupectví_**
+		-   kritizuje papeže
+		-   vysvětluje své názory o fungování církve
+	-   **_O šesti bludiech_**
+		-   latinský traktát
+		-   vykládá šest tezí
+		-   odlišuje se v něm od učení církve
+	-   **_Postila_**
+		-   soubor kázání
+		-   pro širší publikum
+		-   psáno jednodušším jazykem
+	-   **_O církvi_**
+		-   vyjadřuje svoje názory na církev
+	-   **_Dopisy z Kostnice_**
+		-   soubor dopisů, která psal svým přátelům
+		-   patetické, hluboké
+		-   kolovali mezi lidmi
+- ## Husité   
+	-   **_Jistebnický kancionál_**
+		-   soubor písní
+		-   sepsán ve druhé polovině 15. století
+		-   tři části:
+			-   bojové písně
+			-   příležitostné duchovní písně
+			-   obecné duchovní písně
+		-   nejznámější písně:
+			-   _Ktož jsú boží bojovníci_
+			-   _Povstaň velké město pražské_
+		-   autoři jsou u většiny neznámí
+			-   některé jsou připosovány Janu Husovi
+	-   **_Husitská kronika_**
+		-   zaznamenává období 1414 - 1422
+		-   byla sepsána Vavřincem z Březové
+			-   pravděpodobně zemřel při jejím psaní
+		-   obsahuje některé zpětně zapsané události
+	-   **Budyšínký rukopis**
+		-   pochází z první poloviny 15. století
+		-   obsahuje husitské skladby
+		-   autorem je pravděpodobně Vavřinec z Březové
+		-   najvýznamnější skladby:
+			-   _Žaloba Koruny české_
+				-   obviňuje Kostnický koncil za to, že Češi jsou považováni za kacíře
+			-   _Porok Koruny české_
+				-   namířeno proti korunovaci Zikmunda I.
+			-   _Hádání Prahy s Kutnou Horou_
+				-   psané formou hádky
+				-   města jsou zobrazeny jako ženy
+					-   Kutná Hora je ošklivá stará žena
+					-   Praha je krásná mladá dívka
+				-   nakonec vstupuje do hádky Jěžíš a chválí Prahu
+	- ### Petr Chelčický
+		-   byl to pacifista
+		-   neuznávál trojí lid
+		-   odsuzoval obhajobu víry bojem
+		-   věřil, že dělnický život je příprava na opravdový život v nebi
+		-   obával se příchodu antikrista
+			-   ve svém údajném vidění uzřel antikrista v každém z nás
+			-   boj není mezi dobrem a zlem ale mezi těmito koncepty v nás samotných
+		-   byl jako posluchač v Betlémské kapli
+		-   **Kunvald**
+			-   jeho následovnící zde založili vlastní církev
+			-   vznkla _Jednota bratrská_
+		-   inspiroval mnoho myslitelů 19. a 20. století
+		-   bývá označován za největšího myslitele středověku
+		-   je významný hlavně pro zdůrazňování svobody člověka
+		-   **_Postila_**
+			-   obsahuje všechny jeho myšlenky o víře
+			-   převahuje apokalyptické vidění světa
+		-   **_Sieť viery_**
+			-   dvoudílné obrovské dílo
+			-   probírá špatnosti víry a dělbu společnosti
+	- ### Václav Šašek z Bířkova
+		-   napsal významný cestopis
+			-   _Z Čech až na konec světa_
+		-   hovoří o cestě poselstva Jiřího z Poděbrad
+			-   poměry v Českých zemích se zlepšili

@@ -18,7 +18,7 @@
     <div class="metadata">
         <div class="metainfo">
             <div><span>Series:</span> <a href="{{replace (replace .RelPermalink (path.Base .RelPermalink) "") "//" "/"}}">{{.Params.series}}</a></div>
-            <div><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+            {{if .Params.date}}<div style="padding-top: 3px;"><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>{{end}}
         </div>
         <div class="metafilter">
             {{partial "block-filter.html" .}}
@@ -38,4 +38,3 @@
 </body>
 
 </html>
-e
