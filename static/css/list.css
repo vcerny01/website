@@ -22,6 +22,7 @@ section {
 .list-image {
     padding-inline-start:0;
     display: flex;
+    flex-wrap: wrap;
     margin-top: 2.5rem;
     margin: 1rem;
     flex-direction: row;
@@ -37,7 +38,7 @@ li {
 
 .source-item {
     margin: 1em;
-    width: 10rem;
+    width: 6rem;
     list-style: none;
     padding: 10px;
     text-align: center;
