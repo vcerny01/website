@@ -13,4 +13,5 @@ title: Steve Jobs
 - **Read in**: 2020
 - [TOC](https://library.villanova.edu/Find/Record/1339444/TOC)
 
+### Review
 Good biography, certainly worth your time. Also an interesting overview of some technological innovation in the second half of the 20th century. Notes I made are rather practical, except for the note about Jobs himself.

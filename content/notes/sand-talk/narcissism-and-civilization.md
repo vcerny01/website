@@ -18,7 +18,7 @@ title: Narcissism and Civilization
 - How aboriginal societies deal with narcissism
 	- > Aboriginal society was designed over thousands of years to deal with this problem. Some people are just idiots—and everybody has a bit of idiot in them from time to time, coming from some deep place inside that whispers, ‘You are special. You are greater than other people and things. You are more important than everything and everyone. All things and all people exist to serve you.’ This behaviour needs massive checks and balances to contain the damage it can do.
 		- > Engaging with [narcissists] alone is futile—never wrestle a pig, as the old saying goes; you both end up covered in shit, and the pig likes it.
-	- All points of view are heard in a yearn
+	- All points of view are heard in a yarn
 		- > Narcissists demand this right, then refuse to allow other points of view on the grounds that any other opinion somehow infringes their freedom of speech or is offensive. 
 		- > They destroy the basic social contracts of reciprocity (which allow people to build a reputation of generosity based on sharing to ensure ongoing connectedness and support), shattering these frameworks of harmony with a few words of nasty gossip.
 			- > They apply double standards and break down systems of give and take until every member of a social group becomes isolated, lost in a Darwinian struggle for power and dwindling resources that destroys everything. Then they move on to another place, another group. Feel free to extrapolate this pattern globally and historically.

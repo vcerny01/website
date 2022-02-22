@@ -1,0 +1,54 @@
+---
+date: '2022-02-22'
+layout: note
+series: "What Doesn't Kill Us"
+title: Methods
+---
+
+- You might find this [app](https://www.wimhofmethod.com/wim-hof-method-mobile-app) useful
+- ### Breathing
+	- The standard Wim Hof method
+	- 1. **Get comfortable**
+		- Either lying or sitting
+	- 2. **Take 30-40 deep breaths**
+		- Mouth/nose - mouth
+		- Inhale about 1 second
+		- Don't force the exhale
+	- 3. **Last breath**
+		- Breath out emptying your lungs
+	- 4. **Hold for as long as possible**
+		- No force
+	- 5. **Recovery hold**
+		- After hold, take a deep breath and hold for 10–15 second
+- ### Breathing with push-ups
+	- 1. Do hyperventilation as described above with last ten breaths faster
+	- 2. Do the last giant breath, take a breath and continue till you're exhausted
+	- The pushups are easier this way
+- ### BAT activation
+	- Brown fat activation to get warmer in a moment
+	- A bit more advanced practice
+	- 1.
+		- > "clench the muscles in your feet and hands and then sequentially tighten every muscle above them. The method is essentially the same as the one you use during power breathing except that now, rather than simply pushing all the blood up to your head in general, you instead focus on a specific point on a small ridge on the backside of your skull where the temporal bone and occipital bone meet just behind your ears."
+	- 2.
+		- > "Once you’ve pushed all of your muscles up to that point, you then squinch any muscles you have in your scalp and head and pressure downward to the same spot. Essentially you’re trying to pinch this area with muscle contractions."
+- ### Meditation
+	- It's really possible to do any meditation practice
+	- But here's the **Visualization method** described in the book
+		- 1. **Close your eyes**
+		- 2. **Clear away any thoughts** or mental clutter form your day
+		- 3. **Notice the shapes** in blackness
+		- 4. Simply **observe the shapes**, if your mind wonders, bring it gently back
+		- 5. **Imagine that some of those shapes are actually light** and try to feel that light entering your body. Let the light come in through your eyes or through your forehead and let it flow down your spine and out to your fingers and your toes.
+		- 6. **Keep focusing on the movement of the colors** and start the **power breathing**
+		- >"Whatever the truth of the matter, the visualizations are real experiences. When you give yourself a way to connect the visual information behind your eyes to the sensations in your extremities you have unlocked a tool for taking control of the process of the immune system itself."
+- ### Getting cold
+	- You can do many things, just somehow get exposure to cold, here are some tips
+	- **Cold showers**
+		- 1. Wash yourself in a warm shower
+		- 2. Turn on the cold shower and slowly enter it
+		- 3. Control breathing
+	- **Lower thermostat in winster**
+	- **Lie in snow**
+- ### Active conditioning
+	- Do your workouts in extreme environments (cold/hot/rain)
+		- Wear sunscreen, though

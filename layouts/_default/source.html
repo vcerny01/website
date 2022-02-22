@@ -23,7 +23,7 @@
         {{range where .Site.Pages ".Params.source" (lower .Params.title)}}
             {{if .Params.cover}}
             <li class="source-item">
-                <a href="{{.Page.RelPermalink}}"><img src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;"><span style="display: none;">{{.Params.title}}</span></a></li>
+                <a href="{{.Page.RelPermalink}}"><img alt="{{.Params.title}}" src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;"><span style="display: none;">{{.Params.title}}</span></a></li>
             {{end}}
             {{if not .Params.cover}}
             <li class="source-item">
