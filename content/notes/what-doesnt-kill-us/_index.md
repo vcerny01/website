@@ -14,6 +14,4 @@ title: "What Doesn't Kill Us"
 
 ### Review
 
-Authors journey to Wim Hof
-
-I already knew about Wim Hof and his methods before reading this book, but I wanted to dig deeper and like it was a good read, so, yeah definitely recommended. (maybe along with Nestor's Breath)
+I already knew about Wim Hof and his methods before, and I wanted to dig deeper. Well, I can recommend the book, it certainly made me a bit healthier. Also, it's a very readable book written from author's rich experience.

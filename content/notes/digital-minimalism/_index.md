@@ -13,4 +13,4 @@ date: "2022-02-21"
 
 ### Review
  
- Great book honestly, some very useful tactics in combating distracting technology.
+ Great book honestly, some very useful tactics in combating distracting technology. Overall, Cal Newport has a lot useful advice on productivity. You might wanna check out his [blog](https://www.calnewport.com/blog/) or read some of his other books.

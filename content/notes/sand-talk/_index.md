@@ -13,6 +13,8 @@ title: Sand Talk
 - **Read in**: 2021
 
 ### Review
-I can't say I agree with everything, but it's indeed a though-provoking book offering a very interesting introduction to aboriginal philosophy.
+I can't say I agree with everything, but it's indeed a thought-provoking book offering an interesting overview of aboriginal philosophy. It also describes some very relevant issues.
 
 Found out about the book through through this Jim Rutt Show [episode](https://www.jimruttshow.com/tyson-yunkaporta-1/).
+
+I left out my note about how the Prussian model of education is essentially strikingly similar to domestication of animals. (my favorite theory, especially at parties) I guess you read the book for that. 
