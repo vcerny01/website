@@ -38,8 +38,6 @@ def main(filenames, arguments):
             note["series"] = arguments.series
         with open(urlize(filename), "w") as fp:
             fp.write(frontmatter.dumps(note))
-        if urlize(filename) != filename:
-            os.remove(filename)
 
 
 if __name__ == "__main__":

@@ -50,8 +50,12 @@ blockquote {
     background-color: var(--secondary-bg-color);
     border-left: var(--terciary-bg-color) solid 5px;
     width: fit-content;
-    padding: 1px;
+    height: fit-content;
+    padding: 9px;
     padding-right: 10%;
+    margin: 10px 0 10px;
+}
+blockquote p {
     margin: 0;
 }
 

@@ -3,7 +3,7 @@ ul {
       list-style-type: disc;
 }
 mark {
-    color: inherit;
+    color: var(--text-color);
     background-color: var(--hover-bg-color);
 }
 
@@ -15,7 +15,7 @@ li {
 article img {
     display: inline-block;
     overflow-inline: hidden;
-    width: 60vw;
+    
     max-width: 350px;
     border: 2px solid gray;
     padding: 1px;

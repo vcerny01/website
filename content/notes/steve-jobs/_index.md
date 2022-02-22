@@ -7,9 +7,10 @@ title: Steve Jobs
 ---
 
 ### Metadata
-   - **Author**: Walter Isaacson
-   - **Read in**: 2020
-   - **Published**: 2011
-   - [TOC](https://library.villanova.edu/Find/Record/1339444/TOC)
+- **Title**: Steve Jobs
+- **Author**: Walter Isaacson
+- **Published**: 2011
+- **Read in**: 2020
+- [TOC](https://library.villanova.edu/Find/Record/1339444/TOC)
 
 Good biography, certainly worth your time. Also an interesting overview of some technological innovation in the second half of the 20th century. Notes I made are rather practical, except for the note about Jobs himself.
