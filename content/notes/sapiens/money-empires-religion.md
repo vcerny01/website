@@ -1,0 +1,67 @@
+---
+date: '2022-02-23'
+layout: note
+series: Sapiens
+title: Money, Empires, Religion
+---
+
+- These three have been the biggest unifiers of mankind
+- ## Money
+	- Money is revolutionary because:
+		-   1. It's a **universal medium of exchange** that enables people to convert almost everything into almost anything else
+		-   2. Ideal types of money enable people not merely to turn one thing into another, but to **store wealth** as well. Many valuables cannot be stored – such as time or beauty but they can be tranfered into wealth.
+	-  > Christians and Muslims who could not agree on religious beliefs could nevertheless agree on a monetary belief, because whereas religion asks us to believe in something, money asks us to **believe that other people believe in something.**
+	-   Therefore money is based on two principles:
+		-   1. **Universal convertibility**: with money as an alchemist, you can turn land into loyalty, justice into health, and violence into knowledge.
+		-   2. **Universal trust**: with money as a go-between, any two people can cooperate on any project.
+- ## Empires
+	- It should be stressed that an empire is defined solely by its **cultural diversity** and **flexible borders**, rather than by its origins, its form of government, its territorial extent, or the size of its population.
+		- The Ancient Rome were used to being defeated. Like the rulers of most of history’s great empires, they could **lose a battle after battle but still win the war**. An empire that cannot sustain a blow and remain standing is not really an empire.
+		- It has been the world’s most common form of political order until the British and French finally dropped the baton. (Colonialism)
+	- European Empires
+		- The Scientific Revolution and modern imperialism were inseparable.
+		- The European empires did so many different things on such a large scale, that you can find plenty of examples to support whatever you want to say about them.
+		- Among today’s elites, assertions about the contrasting merits of diverse human groups are almost always couched in terms of historical differences between cultures rather than biological differences between races.
+	- Imperial Circle
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FXsPJueFcxk.png?alt=media&token=c494fb35-aa9d-4b70-9147-4b8e1dd44683)
+- ## Religion/Ideology
+	 - Harari sees no difference between religion and ideology
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FL5lVnuiVNf.png?alt=media&token=edf8f583-56e9-411b-a90c-2e01198a9db1)
+	- **Religions**
+		- Religions hold that there is a superhuman order, which is not the product of human whims or agreements.
+		- Based on this superhuman order, religion establishes norms and values that it considers binding.
+		- Today religion is often considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind
+			- Christianity and Roman Empire
+				- > The Roman Empire did not require the Christians to give up their beliefs and rituals, but it did expect them to pay respect to the empire’s protector gods and to the divinity of the emperor. This was seen as a declaration of political loyalty. When the Christians vehemently refused to do so, and went on to reject all attempts at compromise, the Romans reacted by persecuting what they understood to be a politically subversive fraction.
+		- Dualism x Monotheism
+			- Dualistic religions espouse the existence of two opposing powers: good and evil. Unlike monotheism, dualism believes that evil is an independent power, neither created by the good God, nor subordinate to it. Dualism explains that the entire universe is a battleground between these two forces, and that everything that happens in the world is part of the struggle.
+			- Some of the most basic ideas of what we call ‘monotheism’ are, in fact, dualist in origin and spirit.
+			- Monotheism, as it has played out in history, is a kaleidoscope of monotheist, dualist, polytheist and animist legacies, jumbling together under a single divine umbrella. The average Christian believes in the monotheist God, but also in the dualist Devil, in polytheist saints, and in animist ghosts.
+		- Buddhism
+			- Buddha encapsulated his teachings in a single law: **suffering arises from craving**; the only way to be fully liberated from suffering is to be fully liberated from craving; and the only way to be liberated from craving is to train the mind to experience reality as it is.
+			- **The first principle of monotheist religions is ‘God exists. What does He want from me?’ The first principle of Buddhism is ‘Suffering exists. How do I escape it?’**
+			- **Buddhism does not deny the existence of gods** – they are described as powerful beings who can bring rains and victories – but they have no influence on the law that suffering arises from craving.
+			- As time went by several Buddhist sects developed pantheons of Buddhas and bodhisattvas. These are human and non-human beings with the capacity to achieve full liberation from suffering but who forego this liberation out of compassion, in order to help the countless beings still trapped in the cycle of misery. Instead of worshipping gods, many Buddhists began worshipping these enlightened beings, asking them for help not only in attaining nirvana, but also in dealing with mundane problems.
+		- Natural law religions
+			- These creeds maintained that the superhuman order governing the world is the product of natural laws rather than of divine wills and whims. Some of these natural-law religions continued to espouse the existence of gods, but their gods were subject to the laws of nature no less than humans, animals and plants were.
+	- **Ideologies**
+		- The dominant ideology/religion today is humanism.
+		- Humanists believe that the unique nature of Homo sapiens is the most important thing in the world, and it determines the meaning of everything that happens in the universe.
+		- Humanism has split into three rival sects that fight over the exact definition of ‘humanity’, just as rival Christian sects fought over the exact definition of God.
+		- "Sects:"
+			- Liberalism
+				- Today, the most important humanist sect is liberal.
+				- The inner core of individual humans gives meaning to the world, and is the source for all ethical and political authority.
+					- If we encounter an ethical or political dilemma, we should look inside and listen to our inner voice – the voice of humanity.
+					- The chief commandments of liberal humanism are meant to protect the liberty of this inner voice against intrusion or harm. These commandments are collectively known as ‘human rights’.
+			- Socialism
+				- Another important sect is socialist humanism.
+				- Socialists believe that ‘humanity’ is collective rather than individualistic. They hold as sacred not the inner voice of each individual, but the species Homo sapiens as a whole.
+					- According to socialists, [inequality]() is the worst blasphemy against the sanctity of humanity, because it privileges peripheral qualities of humans over their universal essence.
+					- Whereas liberal humanism seeks as much freedom as possible for individual humans, socialist humanism seeks equality equality between all humans.
+			- Evolutionary humanism
+				- Fascism
+				- Like liberal humanism, socialist humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheist conviction that all souls are equal before God.
+				- The only humanist sect that has actually broken loose from traditional monotheism is evolutionary humanism, whose most famous representatives are the Nazis.
+				- The Nazis believed that humankind is not something universal and eternal, but rather a mutable species that can evolve or degenerate. Man can evolve into superman, or degenerate into a subhuman. The main ambition of the Nazis was to protect humankind from degeneration and encourage its progressive evolution.
+					- This is why the Nazis said that the Aryan race, the most advanced form of humanity, had to be protected and fostered, while degenerate kinds of Homo sapiens like Jews, Roma, homosexuals and the mentally ill had to be quarantined and even exterminated.
