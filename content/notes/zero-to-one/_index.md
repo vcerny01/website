@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Zero to One
-cover: https://images-na.ssl-images-amazon.com/images/I/71Xygne8+qL.jpg
+cover: "https://images-na.ssl-images-amazon.com/images/I/71Xygne8+qL.jpg"
 source: books
 ---
 

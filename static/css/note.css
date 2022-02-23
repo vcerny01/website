@@ -4,7 +4,7 @@ ul {
 }
 mark {
     color: var(--text-color);
-    background-color: var(--hover-bg-color);
+    background-color: #503C50;
 }
 
 li {
@@ -15,7 +15,6 @@ li {
 article img {
     display: inline-block;
     overflow-inline: hidden;
-    
     max-width: 350px;
     border: 2px solid gray;
     padding: 1px;

@@ -1,0 +1,103 @@
+---
+title: Zvuková stránka jazyka
+layout: note
+series: Český jazyk
+date: "2020-02-23"
+---
+
+- ### Jazykovědné disciplíny zabývající se zvukovou stránkou jazyka
+	- *Fonetika*
+		- Vznik řeči, hlásek
+	- *Fonologie*
+		- Významy hlásek
+	- *Hláskosloví*
+		- Součást gramatiky
+	- *Ortopie*
+		- Nauka o správné výslovnosti
+	- *Rétorika*
+	- *Logopedie*
+- Čeština má fonologický pravopis
+	-   Není založený jenom na tom, co slyšíme
+		-   Důležitější je význam slova
+	-   Rozdíl mezi fonetickým (vše se píše přesně tak, jak se vyslovuje)
+	-   Například slovo bílý x býlý zní stejně, ale jinak se píše
+- ### Slabika
+	- Nejmenší organizační jednotka v řeči
+	- Základ slabiky tvoří samohláska nebo slabikotvorná souhláska
+	- Dělíme na:
+		- **Slabiky otevřené**
+			- Končí na samohlásku
+			- `mává`
+		- **Slabiky zavřené**
+			- Končí na souhlásku
+			- `páv`
+- ## Hláska
+	- = Fón
+	- Nejmenší zvuková jednotka
+	- **Foném**
+		- Nejmenší jednotka řeči, co vyslovujeme
+			- Stále nese význam
+				- Když jí nevyslovíme správně, změní se význam slova
+	- Dělení hlásek
+		- Krátká/dlouhá samohláska
+		- Znělá/neznělá souhlaska
+		- Slabikotvorná souhláska
+		- Sykavá souhláska
+- ### Samohláska
+	- = Vokál
+	- Dohromady 10
+		- Krátké: *a, e, i, o, u*
+		- Dlouhé: *á, é, í, ó, ú*
+	- Ve výslovnosti nerozlišujeme rozdíl mezi i/y, ú/ů
+	- Hláska vzniká výdechovým proudem z úst
+	- Máme různěpostavená mluvidla
+		- rty, jazyk, zuby
+	- Dělení podle postavení jazyka
+		- Podle pohybu dopředu a dozadu
+			- přední, střední, zadní
+		- Podle pohybu nahoru a dolů
+			- Vysoké středové, nízké
+	- Dvojhlásky
+		- = Diftongy
+		- Vysloví se během jedné slabiky splávavě
+		- Jediná česká souhláska je *ou*
+			- Z řečiny jsme převzali *au* a *eu*
+- ### Souhláska
+	- = Konsonant
+	- Vzniká při výdechu
+		- Nemohou znít sami o sobě
+			- Musíme k nim něco přidat (buď samohlásku nebo slabikotvornou souhlásku)
+	- Místa tvoření
+		- V dutině ústní
+		- Dělíme např.: (nemusíme umět)
+			- Obouretné
+				- Překážka v předu na rtech
+				- p, m
+			- Retozubné
+				- Zuby se dotknou dolního rtu
+				- v
+			- Dásňové
+				- Jazyk se opře o dásně
+				- d
+			- Patrové
+				- ň
+	- Způsoby tvoření
+		- Výdechový proud vždy narazí na nějakou překážku
+		- **Úplný závěr**
+			- = Závěrové
+			- Například *b, v*
+			- Části mluvidel jsou úplně na sobě a hláska vyjde až po otevření
+		- **Úžina**
+			- = Úžinové
+			- Části mluvidel se k sobě pouze přiblíži a proud projde mezi nimi
+			- Například: *s, z, ch*
+			- Můžeme je držet
+		- **Polozávěrové**
+			- = Překážka se uzavře a poté se změní na úžinu
+	- Dále se dělí na znělé a neznělé
+		- Znělé
+			- Dochází ke kmitání hlasivek
+		- Neznělé
+			- Nedochází ke kmitání hlasivek
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FmvU6bn3Amx.png?alt=media&token=ef16e69a-efb3-4964-a1a2-d1c9c53ca52a)
+	- ![](http://www.dousek.wz.cz/schoolRecord/schoolYears/fifth/subjects/czechGrammar/pictures/vokalicky_trojuhelnik.jpg)

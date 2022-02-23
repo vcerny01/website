@@ -25,8 +25,9 @@ def urlize(name: str):
 
 
 def main(filenames, arguments):
-    """Play with the metadata as you like lol"""
     for filename in filenames:
+        if (filename == "_index.md"):
+            continue
         note = frontmatter.load(filename)
         note["title"] = os.path.basename(filename).replace(".md", "")
         note["layout"] = "note"
