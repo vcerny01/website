@@ -14,4 +14,4 @@ title: Atomic Habits
 
 ### Review
 
-Overall a very useful book, I'd say the best self-development book I've read. Of course, the harder part is actually taking the time and applying the insights in your life.
+Maybe the best self development book I've read. The insights can be very useful if you take some time and apply them properly.

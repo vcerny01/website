@@ -38,7 +38,8 @@ li {
 
 .source-item {
     margin: 1em;
-    width: 6rem;
+    width: 25vw;
+    max-width: 150px;
     list-style: none;
     padding: 10px;
     text-align: center;
