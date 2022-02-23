@@ -10,7 +10,7 @@ title: Steve Jobs
 - **Title**: Steve Jobs
 - **Author**: Walter Isaacson
 - **Published**: 2011
-- **Read in**: 2020*
+- **Read in**: 2020
 - [TOC](https://library.villanova.edu/Find/Record/1339444/TOC)
 
 ### Review

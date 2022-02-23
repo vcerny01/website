@@ -5,7 +5,7 @@ source: books
 title: Digital Minimalism
 date: "2022-02-21"
 ---
-### Metadata**
+### Metadatap
 - **Title**: Digital Minimalism: Choosing a Focused Life in a Noisy World
 - **Author**: Cal Newport
 - **Published**: 2019
