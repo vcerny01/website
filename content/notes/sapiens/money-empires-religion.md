@@ -9,17 +9,20 @@ title: Money, Empires, Religion
 - ## Money
 	- Money is revolutionary because:
 		-   1. It's a **universal medium of exchange** that enables people to convert almost everything into almost anything else
-		-   2. Ideal types of money enable people not merely to turn one thing into another, but to **store wealth** as well. Many valuables cannot be stored – such as time or beauty but they can be tranfered into wealth.
+		-   2. Ideal types of money enable people not merely to turn one thing into another, but to **store wealth** as well
+				-   Many valuables cannot be stored – such as time or beauty but they can be tranfered into wealth.
 	-  > Christians and Muslims who could not agree on religious beliefs could nevertheless agree on a monetary belief, because whereas religion asks us to believe in something, money asks us to **believe that other people believe in something.**
 	-   Therefore money is based on two principles:
-		-   1. **Universal convertibility**: with money as an alchemist, you can turn land into loyalty, justice into health, and violence into knowledge.
-		-   2. **Universal trust**: with money as a go-between, any two people can cooperate on any project.
+		-   1. **Universal convertibility**
+			-   With money as an alchemist, you can turn land into loyalty, justice into health, and violence into knowledge.
+		-   2. **Universal trust**
+			-   With money as a go-between, any two people can cooperate on any project.
 - ## Empires
 	- It should be stressed that an empire is defined solely by its **cultural diversity** and **flexible borders**, rather than by its origins, its form of government, its territorial extent, or the size of its population.
 		- The Ancient Rome were used to being defeated. Like the rulers of most of history’s great empires, they could **lose a battle after battle but still win the war**. An empire that cannot sustain a blow and remain standing is not really an empire.
 		- It has been the world’s most common form of political order until the British and French finally dropped the baton. (Colonialism)
-	- European Empires
-		- The Scientific Revolution and modern imperialism were inseparable.
+	- European empires
+		- The scientific revolution and modern imperialism were inseparable.
 		- The European empires did so many different things on such a large scale, that you can find plenty of examples to support whatever you want to say about them.
 		- Among today’s elites, assertions about the contrasting merits of diverse human groups are almost always couched in terms of historical differences between cultures rather than biological differences between races.
 	- Imperial Circle
@@ -56,12 +59,12 @@ title: Money, Empires, Religion
 					- The chief commandments of liberal humanism are meant to protect the liberty of this inner voice against intrusion or harm. These commandments are collectively known as ‘human rights’.
 			- Socialism
 				- Another important sect is socialist humanism.
-				- Socialists believe that ‘humanity’ is collective rather than individualistic. They hold as sacred not the inner voice of each individual, but the species Homo sapiens as a whole.
-					- According to socialists, [inequality]() is the worst blasphemy against the sanctity of humanity, because it privileges peripheral qualities of humans over their universal essence.
+				- ‘Humanity’ is collective rather than individualistic. They hold as sacred not the inner voice of each individual, but the species Homo sapiens as a whole.
+					- According to socialists, inequality is the worst blasphemy against the sanctity of humanity, because it privileges peripheral qualities of humans over their universal essence.
 					- Whereas liberal humanism seeks as much freedom as possible for individual humans, socialist humanism seeks equality equality between all humans.
 			- Evolutionary humanism
 				- Fascism
-				- Like liberal humanism, socialist humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheist conviction that all souls are equal before God.
 				- The only humanist sect that has actually broken loose from traditional monotheism is evolutionary humanism, whose most famous representatives are the Nazis.
+					- Like liberal humanism, socialist humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheist conviction that all souls are equal before God.
 				- The Nazis believed that humankind is not something universal and eternal, but rather a mutable species that can evolve or degenerate. Man can evolve into superman, or degenerate into a subhuman. The main ambition of the Nazis was to protect humankind from degeneration and encourage its progressive evolution.
 					- This is why the Nazis said that the Aryan race, the most advanced form of humanity, had to be protected and fostered, while degenerate kinds of Homo sapiens like Jews, Roma, homosexuals and the mentally ill had to be quarantined and even exterminated.

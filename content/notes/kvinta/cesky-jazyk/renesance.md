@@ -5,9 +5,47 @@ layout: note
 date:  "2022-02-18"
 ---
 
+24.2.
+- ### Lope de Vega
+	- Život
+		- 1562 – 1635
+		- Voják a kněz
+		- Napsal přibližně 2000 her
+			- Dochovalo se cca 500
+	- Dílo
+
+- ### Miguel de Servantes y Savadera
+	- Život
+		- 1547 – 1616
+		- Pocházel ze schudlého šlechtického rodu
+		- Vstoupil do armády, aby byl finančně zajištěn
+			- Ztratil ruku v bitvě proti Turkům
+			- Padl do zajetí pirátů a byl v Alžíru jako otrok 5 let
+	- Dílo
+		- *Don Quijote de la Mancha*
+			- Dobrodružný román o bojovném rytíři
+				- Don Quijote se shlédne v rytířském světě a chce obnovit zašlou slávu
+				- Bojuje také i za dámu Dulcimea
+				- Ale je odtržený od reality
+				- Vyráží na koni Rosinanta
+				- Časem panuje na svého panoše vesničana Sancho Panza
+			- Spoustu fantastických prvků
+
+- ### Fraçnois Rabelais
+	- Život
+		- ? – 1553
+	- Dílo
+		- *Gargantua a Pantagruel*
+			- Pětidílný román
+			- Rodinná historie ze života obrů
+				- Začíná narozením Gargantui, zbytek je o událostech z jeho života
+			- Je to satira na společnost
+			- Střetá se renesanční a středověké myšlení
+			- Pátý díl pravděpodobně napsán jiným autorem
+
 21.2.
 
-- ### Francois Villon
+- ### François Villon
 	- Život
 		- Žil v 15. století ve Francii
 		- Bývá považován za předchůdce proklatých básníků
