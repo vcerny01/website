@@ -7,18 +7,13 @@ mark {
     background-color: #503C50;
 }
 
-li {
-    margin: 5px 0px 0px;
-    padding: 0;
-}
-
 article img {
     display: inline-block;
     overflow-inline: hidden;
     max-width: 350px;
     border: 2px solid gray;
     padding: 1px;
-    margin: 1.5rem 1rem 1rem;
+    margin: 0.8rem;
 }
 
 article img:hover {
@@ -74,4 +69,15 @@ ol {
 h2, h3, h4, h5, h6 {
     padding-top: 7px;
     margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0.5rem;
+}
+
+th, td {
+    border: 2px var(--terciary-bg-color) solid;
+    margin: 2px;
+    padding: 5px;
 }

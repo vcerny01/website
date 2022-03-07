@@ -9,6 +9,13 @@
     <title>{{.Params.title}}</title>
 </head>
 
+<style>
+    li {
+        padding: auto;
+        margin: auto;
+    }
+</style>
+
 <body>
     <header>
         {{partial "navbar.html" .}}
@@ -22,10 +29,14 @@
         <h4>All items:</h4>
         {{partial "list-filter.html" .}}
         <ul  id="listToFilter" style="display: table; margin: 0 auto; margin-top: 2.5rem;">
-        {{range .Site.Pages}}
-        {{if eq .Page.Params.series $.Page.Params.title}}
-            <li><a href="{{.Page.RelPermalink}}">{{.Page.Params.title}}</a></li>
-        {{end}}
+        {{range .Params.ordering}}
+            <li><a href="/notes/{{urlize $.Params.title}}/{{urlize .}}">{{.}}</a></li>
+        {{else}}
+            {{range .Site.Pages}}
+            {{if eq .Page.Params.series $.Page.Params.title}}
+                <li><a href="{{.Page.RelPermalink}}">{{.Page.Params.title}}</a></li>
+            {{end}}
+            {{end}}
         {{end}}
         </ul>
     </div>

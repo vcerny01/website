@@ -46,6 +46,11 @@ p {
     margin-left: 1rem;
 }
 
+li {
+    margin: 5px 0px 0px;
+    padding: 0;
+}
+
 blockquote {
     background-color: var(--secondary-bg-color);
     border-left: var(--terciary-bg-color) solid 5px;
@@ -67,6 +72,11 @@ h1 {
 
 header {
     margin-bottom: 2rem;
+}
+hr {
+    height: 2px;
+    background-color:  var(--terciary-bg-color);
+    border: none;
 }
 
 /* FOOTER */

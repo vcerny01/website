@@ -20,7 +20,12 @@
         {{partial "list-filter.html" .}}
         <ul id="listToFilter" style="display: table; margin: 0 auto; margin-top: 2.5rem;">
             {{range (where .Site.RegularPages "Section" (lower .Params.title)).ByDate.Reverse}}
-            <li>{{if .Params.date}} {{time.Format "Jan 2, 2006" .Params.date}} – {{end}}<a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
+                {{if not .Params.date}}<li><a href="{{.RelPermalink}}">{{.Params.title}}</a></li>{{end}}
+            {{end}}
+            {{range (where .Site.RegularPages "Section" (lower .Params.title)).ByDate.Reverse}}
+                {{if .Params.date}}
+                <li>{{time.Format "Jan 2, 2006" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
+                {{end}}
             {{end}}
         </ul>
     </div>

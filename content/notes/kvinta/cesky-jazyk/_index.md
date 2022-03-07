@@ -4,4 +4,4 @@ layout: section
 series: Kvinta
 ---
 
-Poznámky z češtiny za kvintu (bohužel?)
+Poznámky z češtiny za [kvintu](/notes/kvinta)

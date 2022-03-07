@@ -1,0 +1,94 @@
+---
+title: "6: Sparta"
+layout: note
+series: Ancient Greece
+---
+
+- ## Geography
+    - Located in southern Greece in the Peloponnese
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FROpjRECvBA.png?alt=media&token=4f5e60ab-26ca-4205-87d5-e6b2c5b7ed91)
+    - Originally four unwalled villages that got together by the process of synoecism
+- ## History
+- ### [Archaic period](/notes/ancient-greece/5-archaic-greece)
+    - <span id="helots"></span> Until the First Messenian War (<mark>~740–720 BC</mark>) not much different from other states
+		- Sparta conquers Messenie and Messenians become **helots**
+			- Helots had to provide agricultural labor
+			- They were made to wear dog-skin caps as a sign of their low status
+			- They could be abused by any Spartan and were held in line by a kind of state terrorism (*[Krypteia](#krypteia)*)
+    - Military-oriented reformation of Spartan society by [Lycurgus](https://en.wikipedia.org/wiki/Lycurgus_(lawgiver))
+		- Legendary Spartan law-giver from the 8th century
+		- He received a document called *Rhetra* from the oracle at Delphi
+		- His reforms promoted three Spartan virtues
+			- 1. **Equality**
+			- 2. **Military fitness**
+			- 3. **Austerity**
+    - Founding of [Taras](https://en.wikipedia.org/wiki/History_of_Taranto) (currently known as Taranto) in <mark>~710 BC</mark> in Italy
+        - The only Spartan colony
+    - Defeat of Spartan invading force by [Argives at Hysiae](https://en.wikipedia.org/wiki/Battle_of_Hysiae) <mark>~670 BC</mark>
+    - Second Messenian War (<mark>~660–650 BC</mark>)
+		- Helots uprising possibly inspred by Spartan defeat at Hysiae
+		- Arcadia and Argos allied with the helots ([more](https://en.wikipedia.org/wiki/Second_Messenian_War) here)
+		- Eventually Spartans win
+- ### [Classical period](/notes/ancient-greece/10-classical-greece)
+    - <span id="peloponnesian-league"></span>**Peloponnesian League**
+		- Association of greek city-states founded by Sparta
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2Fbd_89-8zzl.png?alt=media&token=9058d8a9-bdf8-4fc3-a584-fb99ba8c77fa)
+		- Controlled by the council of allies
+			- Composed of two bodies:
+				- The assembly of Spartans
+				- The congress of allies
+					- Each state had one vote in the congress, regardless of of that state's size or geopolitical power
+					- This allowed Sparta to often ensure a formal majority through the smaller towns it could dominate directly
+		- For the most time, no tribute was paid
+		- In a sense it was a response to the [Delian League](/notes/ancient-greece/7-athens#delian-league) founded by Athens
+    - [Peloponnesian War](/notes/ancient-greece/11-peloponnesian-war)
+    - [Corinthian War]()
+- ## Government
+    - A **diarchy** (two kings)
+    - A council of old men
+        - Called the Group of the Old, the **_Gerousia_**
+        - One had to be at least 60 to be elected
+        - There were 30 of them
+    - The assembly elected the council
+        - Called **__Deimos__** (doric way of saying Demos), the people
+        - When they were called together they were called the __Apella__
+            - They recieved proposals from the elders and voted on them
+                - Voting by acclamation (that is by making nois)
+                - If the call was too close, they had to move to seperate sides of the room
+    - The **Ephors**
+        - In charge of maintaining discipline in the state
+        - Five people
+        - Elected by the members of assembly
+        - The kings would monthly swear an oath that they would perform their duties in accordance with the law and the Ephors swear to support them as long as they did so
+- ## Social classes
+    - Free citizens of Sparta
+    - _Perioeci_
+        - They had dwellings around the perimeter
+        - They were free, but not citizens
+        - They most likely handled commercial affairs and related things
+    - Helots
+- ## Upbringing  
+    - *Agoge*
+        - The Spartan way of life
+    - When an infant was born, it was scrutinized by one of the Ephors
+        - If it showed any signs of illness, weakness or disability, the Ephors could order that it be exposed, that it's left out to die.
+    - Child was raised at home until the age of 7
+        - After that they began a set of age classes
+        - Girls were raised along with the boys at least until adolescence
+            - This seems to have granted Spartan women more freedom than women had elsewhere
+    - From 13 to 20 boys and girls were seperated
+        - For boys began the process of physical toughening and training
+            - > They were restricted to one garment, summer or winter, had to go barefoot, had to take daily baths in the icy waters of the Eurotas. They were taught obedience. Disobedience was punished very, very harshly.
+            - They were fed on a kind of notorious gruel, one of whose main ingredients issaid to have been pig's blood
+                - They were expected to supplement this diet by stealing
+                    - But if they were caught, they were punished
+        - At the age of 20 full scale Hoplite training
+    - By the age of 30 they could applied for admission to **_Syssiton_** (common eating club)
+        - Upon admission, they were given an allotment of land
+            - This land was worked for them by the helots, whom they had to keep under control
+            - They had to contribute food from this common mass	
+	-  <span id="krypteia"></span>Along the way there was the **_Krypteia_**
+        - Secret guerilla raids on helots, especially the strong and charismatic ones
+        - The helot threat was different than that of other subservient populations, because helots had an ethnic identity (they were Messenians), slaves were atomized
+    - Sparta aimed at creating a group of like men, the _Homoioi_
+        - Total dedication of the individual to the state 

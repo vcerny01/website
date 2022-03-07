@@ -62,9 +62,9 @@ li {
     background-color: #141417;
     font-weight: 600;
     display: block;
-    padding: 2rem;
+    padding: 1.2rem;
     color: var(--text-color);
-    font-size: 2em;
+    font-size: 1.5em;
 }
 .no-image-link:hover {
     text-decoration: none;
