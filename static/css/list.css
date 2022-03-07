@@ -39,7 +39,7 @@ li {
 .source-item {
     margin: 1em;
     width: 25vw;
-    max-width: 150px;
+    max-width: 10rem;
     list-style: none;
     padding: 10px;
     text-align: center;
@@ -62,9 +62,9 @@ li {
     background-color: #141417;
     font-weight: 600;
     display: block;
-    padding: 1.2rem;
+    padding: 15px;
     color: var(--text-color);
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 .no-image-link:hover {
     text-decoration: none;
