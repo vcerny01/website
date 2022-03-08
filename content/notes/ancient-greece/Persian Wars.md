@@ -1,8 +1,8 @@
 ---
-layout: note
-title: "9: Persian Wars"
 series: Ancient Greece
+date: 2022-03-08
 ---
+
 
 - War between ancient Greek city-states and Persia
 - Based from a big part on writings from Herodotus
@@ -14,7 +14,7 @@ series: Ancient Greece
         - A map showing main events
             - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ionian_Revolt_Campaign_Map.png/1024px-Ionian_Revolt_Campaign_Map.png)
         - Led by Aristagoras, the tyrant of Miletus
-            - Spartans declined to help him, but Athens did
+            - [[Sparta]]ns declined to help him, but [[Athens]] did
                 - Probably because former Athenian tyrant Hippias was exiled in Persia and seemed to be planning his return to power
                 - Athens mustered a fleet of 20 ships supplemented by 4 additional ships from from another polis called Eretria
                     - The revolt spread after the [battle of Sardis](http://www.historyofwar.org/articles/battles_sardis_498.html) (<mark>498 BC</mark>) (important persian outpost)

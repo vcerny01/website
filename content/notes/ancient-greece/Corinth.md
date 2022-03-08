@@ -1,7 +1,6 @@
 ---
-layout: note
-title: "8: Corinth"
 series: Ancient Greece
+date: 2022-03-08
 ---
 
 -   Geography

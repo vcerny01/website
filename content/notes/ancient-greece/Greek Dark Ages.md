@@ -1,7 +1,6 @@
 ---
-layout: note
-title: "4: Greek Dark Ages"
 series: Ancient Greece
+date: 2022-03-08
 ---
 
 - ~1100 – 800 BC

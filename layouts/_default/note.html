@@ -13,25 +13,36 @@
 <body>
     <header>
         {{partial "navbar.html" .}}
-        <h1>{{.Params.title}}</h1>
+        <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
     </header>
     <div class="metadata">
+        {{if or (.Params.series) (.Params.date)}}
         <div class="metainfo">
+            {{if .Params.series}}
             <div><span>Series:</span> <a href="{{replace (replace .RelPermalink (path.Base .RelPermalink) "") "//" "/"}}">{{.Params.series}}</a></div>
+            {{end}}
             {{if .Params.date}}<div style="padding-top: 3px;"><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>{{end}}
         </div>
+        {{end}}
         <div class="metafilter">
             {{partial "block-filter.html" .}}
         </div>
     </div>
     <article>
-        {{.Content}}
+        {{$relDir := replace .RelPermalink (printf "%s/" .File.BaseFileName) ""}}
+        {{$content := .Content}}
+        {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
+        {{range $wikilinks}}
+            {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
+            {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" $relDir ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+        {{end}}
+        {{$content | safeHTML}}
     </article>
     {{partial "footer.html" .}}
     <script defer>
         var blocks = document.querySelectorAll("img");
         for(let i = 0; i < blocks.length; i++){
-            blocks[i].parentElement.style.listStyleType = "none";
+            blocks[i].parentElement.style.listStyleType = "none";\
         }
     </script>
     {{partial "analytics.html" .}}

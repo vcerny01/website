@@ -1,7 +1,6 @@
 ---
-layout: note
-title: "10: Classical Greece"
 series: Ancient Greece
+date: 2022-03-08
 ---
 <style>
 	p {
@@ -16,7 +15,7 @@ series: Ancient Greece
 	-  Ends with the death of **Alexander the Great** in 323 BC
 	
 - ## Important cities
-    - [Sparta](/notes/ancient-greece/6-sparta)
+    - [Sparta](Sparta.md)
     - [Athens](/notes/ancient-greece/7-athens)
     - [Thebes](https://en.wikipedia.org/wiki/Thebes,_Greece#History)
 - ## Culture
@@ -133,6 +132,6 @@ series: Ancient Greece
 				- See the extraordinary story of [Pasion](https://en.wikipedia.org/wiki/Pasion)
 
 - ## Important events
-    - [Persian Wars](/notes/ancient-greece/9-persian-wars)
-    - [Peloponnesian War](/notes/ancient-greece/11-peloponnesian-war)
+    - [Persian Wars](Persian%20Wars.md)
+    - [Peloponnesian War](Peloponnesian%20War.md)
 - The famous philosophers (Socrates, Plato, Aristotle) come from this period

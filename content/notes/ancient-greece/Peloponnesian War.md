@@ -1,10 +1,11 @@
 ---
 layout: note
-title: "11: Peloponnesian War"
+title: "Peloponnesian War"
 series: Ancient Greece
+date: 2022-03-08
 ---
 
-- War between the [Delian League](/notes/ancient-greece/7-athens#delian-league) led by [Athens](/notes/ancient-greece/7-athens), and [Peloponnesian League](/notes/ancient-greece/6-sparta#peloponnesian-league) led by [Sparta](/notes/ancient-greece/7-sparta)
+- War between the [Delian League](/notes/ancient-greece/7-athens#delian-league) led by [Athens](/notes/ancient-greece/7-athens), and [Peloponnesian League](Sparta.md#peloponnesian-league) led by [Sparta](/notes/ancient-greece/7-sparta)
 - <mark>431–404 BC</mark>
 - ### Thirty year's peace
     - A treaty signed between Athens and Sparta in <mark>446 BC</mark> that brought an end to the conflict known as the 'First Peloponnesian War'
@@ -14,7 +15,7 @@ series: Ancient Greece
             - The Corinthians were against the intervention so the council voted against war with Athens
         - The revolt was crushed and peace maintained
 - ### Outbreak of war (<mark>433–431 BC</mark>)
-    - Outbreak of war between Athens and [Corinth](/notes/ancient-greece/8-corinth)
+    - Outbreak of war between Athens and [Corinth](Corinth.md)
         - A conflict arises between Corinth and its colony Corsyra
             - There were negotians, finally Athenians decided to take the side of Corsyra
                 - To uphold the peace, the small fleet Athenians sent didn't intervene in the battle of Sybota
@@ -54,7 +55,7 @@ series: Ancient Greece
         - Begins with killing an official Athenian friend there
     - Cleon's victory at Pylos/Sphacteria against Spartans (<mark>425 BC</mark>)
         - Cleon's has become very influential in Athens afterwards
-    - There is a shortage of manpower in Sparta ([helots](/notes/ancient-greece/6-sparta#helots) and others get into battles as well)
+    - There is a shortage of manpower in Sparta ([helots](Sparta.md#helots) and others get into battles as well)
     - New Spartan general Brasidas launches a fast campaign north of Athens
         - Wins at Amphipolis (<mark>424 BC</mark>)
             - The battle was led by Thucydides who is in response to this event [exiled from Athens](((XYKhFup5M)))

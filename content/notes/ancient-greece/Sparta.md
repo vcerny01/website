@@ -1,7 +1,6 @@
 ---
-title: "6: Sparta"
-layout: note
 series: Ancient Greece
+date: 2022-03-08
 ---
 
 - ## Geography
@@ -9,7 +8,7 @@ series: Ancient Greece
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FROpjRECvBA.png?alt=media&token=4f5e60ab-26ca-4205-87d5-e6b2c5b7ed91)
     - Originally four unwalled villages that got together by the process of synoecism
 - ## History
-- ### [Archaic period](/notes/ancient-greece/5-archaic-greece)
+- ### [Archaic period](Archaic%20Greece.md)
     - <span id="helots"></span> Until the First Messenian War (<mark>~740–720 BC</mark>) not much different from other states
 		- Sparta conquers Messenie and Messenians become **helots**
 			- Helots had to provide agricultural labor
@@ -29,7 +28,7 @@ series: Ancient Greece
 		- Helots uprising possibly inspred by Spartan defeat at Hysiae
 		- Arcadia and Argos allied with the helots ([more](https://en.wikipedia.org/wiki/Second_Messenian_War) here)
 		- Eventually Spartans win
-- ### [Classical period](/notes/ancient-greece/10-classical-greece)
+- ### [Classical period](Classical%20Greece.md)
     - <span id="peloponnesian-league"></span>**Peloponnesian League**
 		- Association of greek city-states founded by Sparta
 			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2Fbd_89-8zzl.png?alt=media&token=9058d8a9-bdf8-4fc3-a584-fb99ba8c77fa)
@@ -41,7 +40,7 @@ series: Ancient Greece
 					- This allowed Sparta to often ensure a formal majority through the smaller towns it could dominate directly
 		- For the most time, no tribute was paid
 		- In a sense it was a response to the [Delian League](/notes/ancient-greece/7-athens#delian-league) founded by Athens
-    - [Peloponnesian War](/notes/ancient-greece/11-peloponnesian-war)
+    - [Peloponnesian War](Peloponnesian%20War.md)
     - [Corinthian War]()
 - ## Government
     - A **diarchy** (two kings)

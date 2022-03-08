@@ -1,9 +1,10 @@
 ---
-title: "3: Mycenaean Civilization"
+title: "Mycenaean Civilization"
 layout: note
 series: Ancient Greece
 ---
 
+[[Persian Wars]]
 - ~1500 – 1100 BC
     - Betweem 1200 and 1150 BCE the civilization underwent a sudden massive systemic collapse
         - Lots of evidence of destruction around this period

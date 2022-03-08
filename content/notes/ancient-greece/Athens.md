@@ -1,7 +1,6 @@
 ---
-title: "7: Athens"
-layout: note
 series: Ancient Greece
+date: 2022-03-08
 ---
 
 - Geography
@@ -16,7 +15,7 @@ series: Ancient Greece
 
  ### History
  
- <mark>[ARCHAIC PERIOD](/notes/ancient-greece/5-archaic-greece)</mark>
+ <mark>[ARCHAIC PERIOD](Archaic%20Greece.md)</mark>
 - Origins
 	- 4 tribes
 	- Mythical king **Theseus**
@@ -181,9 +180,9 @@ series: Ancient Greece
     			- Condition of "equal law" and equality under law
 ---
 
-<mark>[CLASSICAL PERIOD](/notes/ancient-greece/10-classical-greece)</mark>
+<mark>[CLASSICAL PERIOD](Classical%20Greece.md)</mark>
 
-- [Persian Wars](/notes/ancient-greece/9-persian-wars) From <mark>492 to 449 BC</mark>
+- [Persian Wars](Persian%20Wars.md) From <mark>492 to 449 BC</mark>
 	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
 		- That's how Athens became a maritime power
 		- Triretmes (the ships) opened up lots of job opportunities for poor citizens

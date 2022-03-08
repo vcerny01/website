@@ -1,8 +1,6 @@
 ---
-layout: note
-title: "1: Introduction"
 series: Ancient Greece
-
+date: 2022-03-08
 ---
 
 Behind the big stories there are a few subtle things useful to know.
@@ -30,16 +28,16 @@ Behind the big stories there are a few subtle things useful to know.
 - ## Timeline
 	- Bronze age
 		- Based mostly on archeological research
-		- The [Minoan civilization](/notes/ancient-greece/2-minoan-civilization)
+		- The [Minoan civilization](Minoan%20Civilization.md)
 			- ~1800 – 1500 BC
-		- The [Mycenaean civilization](/notes/ancient-greece/3-mycenaean-civilization)
+		- The [Mycenaean civilization](Mycenaean%20Civilization.md)
 			- ~1500 – 1100 BC
 	- Bronze age collapse
-		- [Greek dark ages](/notes/ancient-greece/4-greek-dark-ages)
+		- [Greek dark ages](Greek%20Dark%20Ages.md)
 			- ~1100 – 800 BC
-	- [Archaic Greece](/notes/ancient-greece/5-archaic-greece)
+	- [Archaic Greece](Archaic%20Greece.md)
 		- ~800 – 500 BC
-	- [Classical Greece](/notes/ancient-greece/10-classical-greece)
+	- [Classical Greece](Classical%20Greece.md)
 		- 508 BC – 323 BC
 	- [Hellenistic Greece]()
 		- 323 – 146 BC

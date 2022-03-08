@@ -1,7 +1,6 @@
 ---
-layout: note
-title: "5: Archaic Greece"
 series: Ancient Greece
+date: 2022-03-08
 ---
 
 - ~800 – 500 BC
