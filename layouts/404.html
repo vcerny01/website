@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+    {{partial "meta-head" .}}
+    {{partial "default-style.html" .}}
+    {{partial "favicon.html" .}}
+    <title>{{.Params.title}}</title>
+    {{if .Params.math}}
+        {{partial "math.html" .}}
+    {{end}}
+</head>
+
+
+<body>
+    <header>
+        <h1>404: Not Found</h1>
+    </header>
+    <article style="text-align: center;">
+        <p>This page has <strong>not been created</strong>, <em>yet</em>.</p>
+        <p>Or you stumbled upon a <strong>broken link</strong>.</p>
+        <p><em>Better luck next time.</em> ☀️</p>
+    </article>
+</body>
+</html>

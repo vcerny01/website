@@ -21,10 +21,17 @@ article img {
         position: relative;
         left: -3rem;
         margin:  none;
-        max-width: 100%;
         width: 100%;
     }
 }
+
+.cover { 
+    max-width: 20vw;
+    max-height: 15rem;
+    float: right;
+    margin: 2rem;
+}
+
 @media only screen and (max-width: 600px){
     article img {
        max-width:  50vw;
@@ -47,14 +54,11 @@ ol {
     flex-direction: column;
     flex-wrap: wrap;
     width: fit-content;
-    margin: 0px auto;
+    float: right;
     margin-bottom: 2rem;
-}
-
-.metainfo {
     padding: 10px;
-    margin: 0.4rem;
-    border-left: 1px solid var(--secondary-bg-color);
+    border-left: 2px solid var(--secondary-bg-color);
+
 }
 
 .metafilter {

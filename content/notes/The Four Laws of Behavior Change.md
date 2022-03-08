@@ -1,0 +1,76 @@
+---
+date: 2022-03-08
+series: Atomic Habits
+---
+
+How can I make good new habits and break bad old ones?
+- ## 1st law: Make it obvious
+	- Observe your thoughts and actions without judgment or internal criticism. Don't blame yourself for your faults. Don't praise yourself for your successes.
+		- > <mark>The two most common cues are time and location.</mark> Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location
+		- > Our behavior is not defined by the objects in the environment but by our relationship to them. Stop thinking about your environment as filled with objects. Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you.
+		- **Tips**:
+			- Pointing-and-calling: Say out loud the action that you are thinking of taking
+			- The Habits Scorecard
+			- The **implementation intention formula** is: I will [BEHAVIOR] at [TIME] in [LOCATION].
+			- *Habit stacking** is a strategy you can use to pair a new habit with a current habit. The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
+			- We are more likely to notice cues that stand out. Make the cues of good habits obvious in your environment.
+			- It is easier to build new habits in a new environment because you are not fighting against old cues
+		- **Inversion**:
+			- Make it invisible
+			- > Once a habit is formed, it is unlikely to be forgotten. People with high self-control tend to spend less time in tempting situations. It's easier to avoid temptation than resist it
+			- <mark>Self-control is a short-term strategy, not a long-term one.</mark>
+- ## 2nd law: Make it attractive
+	- The trend is for rewards to become more concentrated and stimuli to become more enticing.
+		- > For example: Junk food is a more concentrated form of calories than natural foods. Hard liquor is a more concentrated form of alcohol than beer. Video games are a more concentrated form of play than board games
+	- The more attractive an opportunity is, the more likely it is to become habit-forming.
+	- Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
+		- <mark>It is the anticipation of a reward,  not the fulfillment of it, that gets us to take action.</mark>
+			- The greater the anticipation, the greater the dopamine spike.
+	- Where cravings come from:
+		- Conserve energy
+		- Obtain food and water
+		- Find love and reproduce
+		- Connect and bond with others
+		- Win social acceptance and approval
+		- Reduce uncertainty
+		- Achieve status and prestige
+	- The culture we live in determines which behaviors are attractive to us
+		- We tend to imitate the habits of three social groups:
+			- The close (family and friends),
+			- the many (the tribe),
+			- the powerful (those with status and prestige)
+		- The normal behavior of the tribe often overpowers the desired behavior of the individual.
+	- **Tips**:
+		- Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
+		- One of the most effective things you can do to build better habits is to join a culture where:
+			-  1. Your desired behavior is the normal behavior
+			-  2. You already have something in common with the group.
+	- **Inversion**:
+		- Make it unattractive
+		- Every behavior has a surface level craving and a deeper underlying motive.
+		- Your habits are modern-day solutions to ancient desires.
+		- Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+- ## 3rd law: Make it easy
+	- The most effective form of learning is practice, not planning.
+		- <mark>Focus on taking action, not being in motion.</mark>
+	- Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+		- <mark>The amount of time you have been performing a habit is not as important as the number of times you have performed it.</mark>
+		- Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.
+		- Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+			- Many habits occur at decisive moments, choices that are like a fork in the road, and either send you in the direction of a productive day or an unproductive one.
+	- **Tips**:
+		- Create an environment where doing the right thing is as easy as possible.
+			- Reduce the friction with good behaviors, increase the friction with bad behaviors
+		- The Two-Minute Rule states: When you start a new habit, it should take less than two minutes to do.
+			- *Well, I think this is true only for some habits*
+		- The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things. <mark>Standardize before you optimize</mark>
+	- **Inversion**: Make it hard - Create some friction
+- ## 4rd law: Make it satisfying
+	- We are more likely to repeat a behavior when the experience is satisfying. The human brain evolved to prioritize immediate rewards over delayed rewards.
+		- > <mark>The Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided. To get a habit to stick you need to feel immediately successful even if it's in a small way.</mark>
+			- This rule increases the odds that a behavior will be repeated next time (Unlike the other free rules, which focus on performing a habit this time)
+	- **Tips**
+		- One of the most satisfying feelings is the feeling of making progress.
+		- A habit tracker is a simple way to measure whether you did a habit like marking an X on a calendar.
+			- Don't break the chain. Try to keep your habit streak alive. **Never miss twice**. If you miss one day, try to get back on track as quickly as possible.
+			- Just because you can measure something doesn't mean it's the most important thing.

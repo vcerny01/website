@@ -12,7 +12,7 @@
 <body>
     <header>
         {{partial "navbar.html" .}}
-        <h1>{{.Params.title}}</h1>
+        <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
     </header>
     <section>
         {{.Content}}

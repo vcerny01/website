@@ -1,0 +1,212 @@
+---
+series: Ancient Greece
+date: 2022-03-08
+toc: true
+---
+ ## Geography
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FzAUybho6QN.png?alt=media&token=90bdfa21-90f5-49e1-804a-a9584eb0f1ed)
+- Good location
+	- Lots of land and natural resources
+	- Long coast line
+- Athens means Athena's people
+- She the supervising entity of the city from the beginnings in the mythology 
+- Athenains pride themselves on being _autochtonous_ (having been born of earth, always having been there)
+	- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
+
+ ## History
+### Archaic Period
+- Origins
+	- 4 tribes
+	- Mythical king **Theseus**
+- Government
+	- **_Eupatridae_**
+		-  = "Those who had good fathers"
+		- Hereditary elite
+	- **_Areopagus_**
+		- A council that met on the hill of _Ares_, called the 
+		- Members of this council (_Aeropagites_) were adult males selected by Eupatridae
+			- Membership was restricted to those who previously were archons
+	- **_Archons_**
+		- = "The leading men"
+		- Chief magistrates selected by the council
+		- There were 3 of them initially, 9 later (the classic 3 + 6 _themostai_ - judicial officers)
+			- 1. *archon basileus*
+				- Retained some powers of the primitive early kingship (he might have been chief of justice for example)
+				- Oversaw religous rites
+			- 2. the *Polemarch*
+				- Commander in chief
+			- 3. eponymous archon
+				- This magistrate gave his name to the civic year
+	- **Assembly** of citizens
+		- Probably divided by those four tribes somehow
+		- Not much is known about them
+---
+
+- Athens did not participate in the colonizing movement by this time, yet
+- Unsuccessful coup of **[Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens)** in <mark>636 or 632 BC</mark> (he tried to become a tyrant)
+	- Kylon managed to escape, but some his co-conspirators did not
+		- They take refuge in the temple of Athena where they were being starved into submission
+		- One of nine archons, Megacles promised them safe passage out of the temple, but when they emerged, he had them killed
+			- Because of this sacrilige Megacles and his family were sent to exile
+			- The great Eupatrid clan called *Alcmaeonids* (very important clan in greek history) to which Megacles belonged had been called cursed ever since
+	- First reliable event of Athenian history
+- Around <mark>622</mark> BC **[Draco](https://en.wikipedia.org/wiki/Draco_(lawgiver))** formulated first code of laws for Athenians
+	- It was claimed that Draco prescribed death as the punishment for any infraction.
+		- In reality the code was not as barbarous
+- Around <mark>620 to 610 BC</mark>, the Athenians send out two colonies to the Hellespont
+	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension.
+---
+
+- **[Solon](https://en.wikipedia.org/wiki/Solon)**'s resolves social tension with his reforms in <mark>594 BC</mark>
+	- At the turn of the 6th century BC there was some kind of economic crisis
+		- A large part of impoverished citizen farmers have grown in Athens that couldn't pay their debts (big social tension) 
+	- Reforms
+		- *Seisachteia*
+			- = "shaking of burdens"
+			- One time cancellation of debts
+			- Before the reforms, it was established that if an Athenian couldn't pay his debts, he would either be sold into slavery or he could flee
+				- So lots of Athenians started coming back to Athens after this reform
+		- No Athenian could hold other Athenian as a slave
+		- Replacing the criterion of birth with the criterion of wealth
+			- Establishing 4 property classes
+				- *Pentacosiomeimnoi*
+					- "500 measure men"
+					- The traditionally wealthy landowners
+				- *Hippeis*
+					- "Horsemen" or "knights"
+					- Citizens wealthy enoigh to afford cavalry outfit
+				- *Zeutigae*
+					- "Yokemen"
+					- Wealthy enough farmers to afford a hoplite armor
+				- *Thetes*
+					- All other citizens
+			- Most political offices were limited only to some classes, but all citizens could participate in the assembly
+				-  _Ecclesia_
+					- Assembly of all citizens
+			- Right of legal intervention
+				- Any citizen could intervene on behalf of other citizens legally
+				- Right to transfer a legal case, before delivery of a verdict, from a magistrate to a jury court
+---
+
+- <mark>590 BC</mark> - _anarkhia_
+	- A year without an archon
+	- That's where the word *anarchy* comes from
+- A brief experiment with something like a board of governors replacing the archons, there were 3 regional and political fractions
+	- *The Men of the Plain*
+		- The population composed mostly of large landowners.
+		- Led by Lykourgos
+	- *The Men of the Coast*
+		- the population likely including fishermen and craftsmen.
+		- Led by Megakles
+	- *the Men of the Hill*
+		- The population containing the poorer residents of the Attic highlands, and possibly including residents of Attica cities as well.
+		- Led by Peisistratos
+- Tyranny of **[Peisistratos](https://en.wikipedia.org/wiki/Pisistratus)** from <mark>546 to 527 BC</mark>
+	- 3 attempts at tyranny
+		- Self-wounding, granted armed guard (<mark>560 – 559 BC</mark>)
+		- Married Megacles' daughter, brought back into Athens by "Athena" (<mark>558 – 556 BC</mark>)
+		- After exile, return with mercenary force, "battle" at Pallene (<mark>547 – 546 BC</mark>)
+	- Established his rule very quickly
+		- Seemingly without resorting to violence, there must've a lot of popular support
+	- Rule
+		- Built large public projects
+			- By levying a small tax on agricultural products
+				- > Large temples and altars were constructed for Zeus Olympios, Apollo Pythios, and the Twelve Gods. In addition, an extensive system of aqueducts and fountainhouses brought a reliable supply of good clean water into the city.
+		- Allowed for state-supported agricultural loans to small farmers
+		- Set up circuit judges
+		- Cleared the Agora of private dwellings
+		- Perserved Solon's constitution, except that his followers hold the highest offices
+		- Established panathenian games and Dionysia (festivals of Dionysus)
+		- Athenian coinage was introduced
+	- All in all, regarded as the only half-bad tyrant by Aristotle
+---
+
+- Peistratos' rule passed to his sons **Hippias** and **Hipparchus**
+	- Works well
+		- Aristotle describes the characters of the two brothers
+			- > Affairs were now under the authority of Hipparchos and Hippias, owing to their station and their ages, but the government was controlled by Hippias, who was the elder and was statesmanlike and wise by nature; whereas Hipparchos was fond of amusement and lovemaking and had literary tastes; it was he who brought to Athens the poets such as Anakreon and Simonides, and the others. (*Athenian Constitution* 18.1) 
+	- However in <mark>514 BC</mark>, Hipparchus is stabbed to death by Harmodius and Aristogeiton
+		- The murder, actually the result of a love feud, was quickly deemed a political act of assassination and the perpetrators, Harmodios and Aristogeiton, were proclaimed heroes and tyrannicides
+		- The reign of the remaining tyrant, Hippias, became increasingly severe
+			- From Aristotle:
+				- > After this it began to come about that the tyranny was much harsher; for Hippias' numerous executions and sentences of exile in revenge for his brother led to his being suspicious of everybody and embittered.
+	- Hippias' was expelled in <mark>511 BC</mark>
+		- The Spartan king, Kleomenes, came out and helped an Athenian politician named **Isagoras**
+			-  Hippias had taken refuge on the Acropolis. But Kleomenes managed to capture some members of Hippias' family.
+			- And they arranged a negotiation, Hippias left Athens with his family
+				- And that was the end of tyranny in Athens
+- **Athenian revolution**
+	- <mark>508 – 507 BC</mark>
+	- Isagoras and Kleomenes (Spartan king) attempt to dissolve the council
+		- The council resists
+	- Kleomenes and Isagoras occupy the Acropolis with Spartan help
+		- The rest of Athenians unite
+		- They besiege the Spartan occupiers
+		- Kleomenes surrenders on the 3rd day of the siege and the Spartans withdraw
+	- The leader of the popular revolt, Cleisthenes (member of the Alcmaeonids clan), is called back to the city frome exile
+- After Athenian revolution, [Cleisthenes](https://en.wikipedia.org/wiki/Cleisthenes) makes democratic reforms
+	- He is thereby known as "the father of Athenian democracy"
+	- **Complete reogranization of the citizen body**
+		- Divided into 3 regions: city, coast, inland
+		- Each region is divided into 10 artificial *trittyes* ("thirds", so thirty in alll)
+		- Each tryttys includes a variable number of _Demes_, pre-existing "neighborhoods" (about 170 in all)
+			- From individual perspective, deme was the most important as your deme identity made you a citizen
+		- 10 new tribes (*Phylai*), each consisting of 3 trittyes, one from each region
+			- It was supposed that every tribe would represent a cross-section of the Athenian population in equal size
+		- **New council** (*Boule*)
+			- Consisted of 500 men
+				- Serving 1 yrear
+				- 50 from each tribe elected by a lot
+					- At this rate, the Boule served as a kind of education centre for the Athenian citizenry
+			- Prytany system
+				-  Council year is divided into tenths, with each tribe's council members serving as executive comitte (Prytaneis_) for that allotted period
+			-  The Boule framed legislation, that would be then debated and voted on for ratification by the assembly
+				-  It generally served as a sort of executive power
+			-  The old council (Aeropagus) and archons (magistrates, 9 of them) still continue to exist, but they are routinely examined by the Boule
+		-  **Board of 10 generals** (*Strategoi*)
+			-  Each out of one tribe
+			-  Elected anually
+				-  Could be reelected without limit
+		-  **Popular courts**
+				-  Citizen juries of upto several hundreds to hear cases
+		-  **Ostracism**
+			- Official process voted on anually by the assembly
+				- The vote required a qorum of 6,000 (a lot of citizens together at one place and one time)
+			- The citizens were supplied with *ostraca* (just means a bit of busted pot)
+			- These were deposited in collection vases and the citizen who got the most votes had to leave Athens for 10 years
+    			- No appeal to this
+			- *Isonomia*
+    			- Condition of "equal law" and equality under law
+---
+
+### Classical Period
+
+- [[Persian Wars]] From <mark>492 to 449 BC</mark>
+	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
+		- That's how Athens became a maritime power
+		- Triretmes (the ships) opened up lots of job opportunities for poor citizens
+
+---
+
+- <span id="delian-league"></span>**Delian League**
+	- Founded by Athens in <mark>478 BC</mark>
+	- Association of Greek city-states led by Athens
+	- Annual contributions
+	- Its main goal was defence against Persia
+	- Principle of equality among all member states
+	- The league's name derives from the island of Delos
+		- Congresses were held in the temple there
+		- The treasury stood there until, in a symbolic gesture, Pericles moved it back to Athens in 454 BC
+			- After this event, the league could be effectively described as Athenian Empire
+	- The league dissolved upon the end of the [[Peloponnesian War]]
+- Athens enter the golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) in <mark>462 BC</mark>
+	- A reform of the Aeropagus is passed 
+	- Periclean building program
+		- Athenians took many extracted from Delian League tributes to beautify the city
+		- Most ancient Athenian sights come from this program, e.g. the Parthenon
+- [[Peloponnesian War]]
+	- <span id="long-walls"></span> The long walls
+		- Built to protect connection of the city of Athens with Piraeus (Athenian port)
+			- There was also other wall connecting Athens with Palerum
+				- These two walls effectively created a fortified triangle
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSOlobuDDjK.png?alt=media&token=467b08d4-6a45-4903-9e95-d21dfa55975c)

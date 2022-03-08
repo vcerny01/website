@@ -15,26 +15,38 @@
         {{partial "navbar.html" .}}
         <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
     </header>
-    <div class="metadata">
+    <div class="metadata" {{if not .Params.toc}} style="margin: 0.4rem auto; float: none; margin-bottom: 30px;"{{end}}>
         {{if or (.Params.series) (.Params.date)}}
-        <div class="metainfo">
             {{if .Params.series}}
-            <div><span>Series:</span> <a href="{{replace (replace .RelPermalink (path.Base .RelPermalink) "") "//" "/"}}">{{.Params.series}}</a></div>
+                <div><span>Series:</span> <a href="/notes/{{.Params.series | urlize}}">{{.Params.series}}</a></div>
             {{end}}
-            {{if .Params.date}}<div style="padding-top: 3px;"><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>{{end}}
-        </div>
+            {{if .Params.date}}
+                <div style="padding-top: 3px;"><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+            {{end}}
         {{end}}
-        <div class="metafilter">
-            {{partial "block-filter.html" .}}
-        </div>
     </div>
+        {{if .Params.toc}}
+            <div class="toc" style="padding-top: 0;">
+                {{.TableOfContents}}
+            </div>
+        {{end}}
+        <div>
+            {{if .Params.cover}}
+                <a href="/notes/{{.Params.source}}"><img src="{{.Params.cover}}" class="cover"></a>
+            {{end}}
+        </div>
     <article>
-        {{$relDir := replace .RelPermalink (printf "%s/" .File.BaseFileName) ""}}
+        {{$relDir := replace .RelPermalink (printf "%s/" (.File.BaseFileName | urlize)) ""}}
         {{$content := .Content}}
         {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
         {{range $wikilinks}}
             {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
-            {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" $relDir ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+            {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+        {{end}}
+        {{if .Params.source}}
+            {{range (split "#Book,#Research" ",")}}
+                {{$content = replace $content . ""}}
+            {{end}}
         {{end}}
         {{$content | safeHTML}}
     </article>
@@ -42,7 +54,7 @@
     <script defer>
         var blocks = document.querySelectorAll("img");
         for(let i = 0; i < blocks.length; i++){
-            blocks[i].parentElement.style.listStyleType = "none";\
+            blocks[i].parentElement.style.listStyleType = "none";
         }
     </script>
     {{partial "analytics.html" .}}
