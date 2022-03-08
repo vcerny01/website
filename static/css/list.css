@@ -37,14 +37,20 @@ li {
 }
 
 .source-item {
-    margin: 1em;
-    width: 25vw;
-    max-width: 10rem;
+    margin: 0.5rem;
+    width: fit-content;
+    max-width:9rem;
     list-style: none;
     padding: 10px;
     text-align: center;
     border: 1px var(--terciary-bg-color) solid;
     dislay: block;
+}
+
+@media only screen and (max-width: 800px){
+    .source-item {
+        width: 30vw;
+    }
 }
 
 .source-item img {
@@ -69,3 +75,4 @@ li {
 .no-image-link:hover {
     text-decoration: none;
 }
+

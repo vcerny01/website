@@ -2,6 +2,8 @@
 ul {
       list-style-type: disc;
 }
+
+
 mark {
     color: var(--text-color);
     background-color: #503C50;
@@ -9,25 +11,33 @@ mark {
 
 article img {
     display: inline-block;
-    overflow-inline: hidden;
     max-width: 350px;
     border: 2px solid gray;
     padding: 1px;
     margin: 0.8rem;
 }
-
-article img:hover {
-    position: relative;
-    left: -3rem;
-    margin:  none;
-    max-width: 100%;
-    width: 100%;
+@media only screen and (min-width: 601px){
+    article img:hover {
+        position: relative;
+        left: -3rem;
+        margin:  none;
+        max-width: 100%;
+        width: 100%;
+    }
 }
+@media only screen and (max-width: 600px){
+    article img {
+       max-width:  50vw;
+    }
 
-li < img {
-    list-style-type: none;
+    ul {
+        padding-inline-start: 1rem;
+    }
+
+    article img:active {
+        width: 100%;
+    }
 }
-
 ol {
     padding-inline-start: 20px;
 }
