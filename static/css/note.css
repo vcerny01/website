@@ -49,26 +49,27 @@ ol {
     padding-inline-start: 20px;
 }
 
-.metadata {
+.meta-container {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    width: fit-content;
-    float: right;
-    margin-bottom: 2rem;
-    padding: 10px;
-    border-left: 2px solid var(--secondary-bg-color);
-
+    height: fit-content;
+    margin: 1rem;
+    align-content: center;
+    gap: 1rem;
+    justify-content: space-between;
+    flex-direction: row-reverse;
 }
 
-.metafilter {
-    padding: 10px;
-    margin: 0.4rem;
+.metadata {
+    border-left: 2px solid var(--secondary-bg-color);
+    padding: 1rem;
+    margin-top: 1rem;
+    height: fit-content;
 }
 
 .metadata span {
     color: gray;
     font-size: 0.95em;
+ ;
 }
 #filter {
 	display: block;
