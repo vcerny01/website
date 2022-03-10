@@ -1,6 +1,7 @@
 ---
 series: Ancient Greece
-date: 2022-03-08
+date: 2022-03-10
+disable_toc: true
 ---
 
 - Based on the island of Crete

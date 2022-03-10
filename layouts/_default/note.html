@@ -7,8 +7,15 @@
     <link rel='stylesheet' type='text/css' href="/css/note.css">
     {{partial "favicon.html" .}}
     <title>{{.Params.title}}</title>
-    {{partial "math.html" .}}
+    {{if .Params.math}}
+        {{partial "math.html" .}}
+    {{end}}
 </head>
+
+{{$disable_toc := .Params.disable_toc}}
+{{if .Params.source}}
+    {{$disable_toc = true}}
+{{end}}
 
 <body>
     <header>
@@ -17,7 +24,7 @@
     </header>
     <div class="meta-container">
         <!-- Series, date metadata -->
-        <div class="metadata" {{if not .Params.toc}} style="margin: 0.4rem auto; float: none; margin-bottom: 30px;"{{end}}>
+        <div class="metadata" {{if $disable_toc}} style="margin: 0 auto; float: none; margin-bottom: 20px; padding: 10px;"{{end}}>
             {{if or (.Params.series) (.Params.date)}}
                 {{if .Params.series}}
                     <div><span>Series:</span> <a href="/notes/{{.Params.series | urlize}}">{{.Params.series}}</a></div>
@@ -28,7 +35,7 @@
             {{end}}
         </div>
             <!-- Table of Contents -->
-            {{if .Params.toc}}
+            {{if not $disable_toc}}
                 {{partial "partials/toc.html" .}}
             {{end}}
     </div>

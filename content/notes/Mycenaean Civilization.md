@@ -1,6 +1,5 @@
 ---
-title: "Mycenaean Civilization"
-layout: note
+disable_toc: true
 series: Ancient Greece
 date: 2022-03-08
 ---
