@@ -15,10 +15,10 @@ toc: true
 
 ## History
 ### Archaic Period
-- Origins
+- #### Origins
 	- 4 tribes
 	- Mythical king **Theseus**
-- Government
+- #### Government
 	- **_Eupatridae_**
 		-  = "Those who had good fathers"
 		- Hereditary elite
@@ -50,14 +50,14 @@ toc: true
 			- Because of this sacrilige Megacles and his family were sent to exile
 			- The great Eupatrid clan called *Alcmaeonids* (very important clan in greek history) to which Megacles belonged had been called cursed ever since
 	- First reliable event of Athenian history
-- Around ==622== BC **[Draco](https://en.wikipedia.org/wiki/Draco_(lawgiver))** formulated first code of laws for Athenians
+- Around ==622== BC **[[Draco]]** formulated first code of laws for Athenians
 	- It was claimed that Draco prescribed death as the punishment for any infraction.
 		- In reality the code was not as barbarous
 - Around ==620 to 610 BC==, the Athenians send out two colonies to the Hellespont
 	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension.
 ---
 
-- **[Solon](https://en.wikipedia.org/wiki/Solon)**'s resolves social tension with his reforms in ==594 BC==
+- **[[Solon]])**'s resolves social tension with his reforms in ==594 BC==
 	- At the turn of the 6th century BC there was some kind of economic crisis
 		- A large part of impoverished citizen farmers have grown in Athens that couldn't pay their debts (big social tension) 
 	- Reforms

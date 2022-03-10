@@ -1,6 +1,7 @@
 ---
 layout: note
 source: research
+cover: "/images/main/cover-ancient-greece.png"
 title: Ancient Greece
 date: 2022-03-10
 ---
@@ -14,7 +15,7 @@ History is in humanities what math is in STEM. And knowing ancient history is as
 My main objective was to get a solid (undergraduate level one might say) overview of ancient Greek history. 
 
 ## Notes
-- Overview
+- Overviews
 	- [[Introduction to Ancient Greece]]
 	- [[Minoan Civilization]]
 	- [[Mycenaean Civilization]]
@@ -30,7 +31,7 @@ My main objective was to get a solid (undergraduate level one might say) overvie
 	- [[Peloponnesian War]]
 	- [[Corinthian War]]
 - People
-	- [[Lycurgus]]
+	- For each historical period (see overviews), there's a list of related important characters
 
 ## Sources
 - The [course](https://www.coursera.org/learn/ancient-greeks/) on Coursera
