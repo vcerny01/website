@@ -1,5 +1,5 @@
 ---
-date: 2022-03-08
+date: 2022-03-10
 layout: note
 series: Zero to One
 title: Foundations of a Startup

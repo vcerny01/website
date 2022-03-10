@@ -1,5 +1,5 @@
 ---
-date: '2022-02-11'
+date: 2022-03-10
 layout: note
 series: Zero to One
 title: Four Ways to See the Future
@@ -52,7 +52,7 @@ title: Four Ways to See the Future
                 - 2. The bankers don’t know what to do with it, so they diversify by spreading it across a portfolio of institutional investors.
                 - 3. Institutional investors don’t know what to do with their managed capital, so they diversify by amassing a portfolio of stocks.
                 - 4. Companies try to increase their share price by generating free cash flows. If they do, they issue dividends or buy back shares and the cycle repeats.
-            - > At no point does anyone in the chain know what to do with money in the real economy. But in an indefinite world, people actually prefer unlimited optionality; money is more valuable than anything you could possibly do with it. <mark>Only in a definite future is money a means to an end, not the end itself.</mark>
+            - > At no point does anyone in the chain know what to do with money in the real economy. But in an indefinite world, people actually prefer unlimited optionality; money is more valuable than anything you could possibly do with it. ==Only in a definite future is money a means to an end, not the end itself.==
     - Indefinite Politics
         - > Politicians have always been officially accountable to the public at election time, but today they are attuned to what the public thinks at every moment.
         - > We are more fascinated today by statistical predictions of what the country will be thinking in a few weeks’ time than by visionary predictions of what the country will look like 10 or 20 years from now.
@@ -65,7 +65,7 @@ title: Four Ways to See the Future
     - Darwinism as a metaphor for indefinite optimism
         - > But indefinite optimism seems inherently unsustainable: how can the future get better if no one plans for it?
         - > Actually, most everybody in the modern world has already heard an answer to this question: progress without planning is what we call “evolution.” Darwin himself wrote that life tends to “progress” without anybody intending it. Every living thing is just a random iteration on some other organism, and the best iterations win.
-        - > <mark>Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.</mark>
+        - > ==Darwinism may be a fine theory in other contexts, but in startups, intelligent design works best.==
             - Steve Jobs's way of doing business is a great example of intelligent design (definite optimism)
                 - > But the most important lesson to learn from Jobs has nothing to do with aesthetics. The greatest thing Jobs designed was his business. Apple imagined and executed definite multi-year plans to create new products and distribute them effectively. Forget “minimum viable products”—ever since he started Apple in 1976, Jobs saw that you can change the world through careful planning, not by listening to focus group feedback or copying others’ successes.
-                - > <mark>Long-term planning is often undervalued by our indefinite short-term world.</mark>
+                - > ==Long-term planning is often undervalued by our indefinite short-term world.==

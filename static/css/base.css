@@ -124,13 +124,29 @@ img {
 }
 
 /* METADATA*/
-.pubInfo {
-    width: fit-content;
-    float: right;
-    margin-right: auto;
-    padding: 10px;
+
+
+.meta-container {
+    display: flex;
+    height: fit-content;
+    margin: 1rem;
+    align-content: center;
+    gap: 1rem;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.metadata {
     border-left: 2px solid var(--secondary-bg-color);
-    /*float: right;*/
+    padding: 1rem;
+    margin-top: 1rem;
+    height: fit-content;
+}
+
+.metadata span {
+    color: gray;
+    font-size: 0.95em;
+ ;
 }
 
 .toc {

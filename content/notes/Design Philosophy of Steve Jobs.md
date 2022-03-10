@@ -1,5 +1,5 @@
 ---
-date: 2022-03-08
+date: 2022-03-10
 series: Steve Jobs
 ---
 

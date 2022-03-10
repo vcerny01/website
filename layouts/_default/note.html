@@ -55,8 +55,13 @@
         {{/* MAKE WIKILINKS */}}
         {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
         {{range $wikilinks}}
-            {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
-            {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+            {{if gt (len (split . "|")) 1}}
+                {{$alias := split (replace (replace . "[[" "") "]]" "") "|"}}
+                {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ((index $alias 0) | urlize) "\">" (index $alias 1 ) "</a>")}}
+            {{else}}
+                {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
+                {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+            {{end}}
         {{end}}
 
         {{/* REMOVE SOME TAGS */}}

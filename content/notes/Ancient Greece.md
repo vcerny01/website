@@ -28,6 +28,7 @@ My main objective was to get a solid (undergraduate level one might say) overvie
 	- [[Greek Dark Ages]]
 	- [[Persian Wars]]
 	- [[Peloponnesian War]]
+	- [[Corinthian War]]
 - People
 	- [[Lycurgus]]
 

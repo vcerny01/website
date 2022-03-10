@@ -1,11 +1,11 @@
 ---
-date: 2022-03-08
+date: 2022-03-10
 series: Atomic Habits
 ---
 
 - Success is the product of daily habits; not once-in-a-lifetime transformations.
 	- > Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits.
-	- <mark>You get what you repeat</mark>
+	- ==You get what you repeat==
 - > You expect to make progress in a linear fashion and it's frustrating how ineffective changes can seem during the first days, weeks, and even months. It doesn't feel like you are going anywhere. It's a hallmark of any compounding process: the most powerful outcomes are delayed.
 	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FEi1semV1xa?alt=media&token=71e3e029-5d9a-4bc5-9427-ebfd78ed675d)
 - This where habits compounding comes in

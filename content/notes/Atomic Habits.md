@@ -1,6 +1,6 @@
 ---
 cover: https://images-na.ssl-images-amazon.com/images/I/91-EIJiYneL.jpg
-date: '2022-02-23'
+date: 2022-03-10
 source: books
 title: Atomic Habits
 ---

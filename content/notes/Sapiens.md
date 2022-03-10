@@ -1,9 +1,8 @@
 ---
 title: Sapiens
-layout: section
 source: books
 cover: "https://images-na.ssl-images-amazon.com/images/I/41+lolL22gL.jpg"
-date: 2022-03-08
+date: 2022-03-10
 ---
 #Book
 

@@ -1,5 +1,5 @@
 ---
-date: '2022-02-11'
+date: 2022-03-10
 layout: note
 series: Zero to One
 title: Globalization Means Substitution, Technology Means Complementarity

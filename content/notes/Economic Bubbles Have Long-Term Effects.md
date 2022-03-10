@@ -1,5 +1,5 @@
 ---
-date: 2022-03-09
+date: 2022-03-10
 layout: note
 series: Zero to One
 title: Economic Bubbles Have Long-Term Effects

@@ -1,11 +1,11 @@
 ---
-date: '2022-02-23'
+date: 2022-03-10
 layout: note
 series: Sapiens
 title: Happiness
 ---
 
-- <mark>If happiness is determined by expectations, then two pillars of our society – mass media and the advertising industry – may unwittingly be depleting the globe’s reservoirs of contentment.</mark>
+- ==If happiness is determined by expectations, then two pillars of our society – mass media and the advertising industry – may unwittingly be depleting the globe’s reservoirs of contentment.==
 - Unfortunately for all hopes of creating heaven on earth, **our internal biochemical system seems to be programmed to keep happiness levels relatively constant.**
 - Happiness and meaning
 	- That's one option. Another is that the findings demonstrate that happiness is not the surplus of pleasant over unpleasant moments. Rather, **happiness consists in seeing one's life in its entirety as meaningful and worthwhile.** There is an important cognitive and ethical component to happiness.

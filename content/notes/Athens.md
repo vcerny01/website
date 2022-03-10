@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-08
+date: 2022-03-10
 toc: true
 ---
  ## Geography
@@ -13,7 +13,7 @@ toc: true
 - Athenains pride themselves on being _autochtonous_ (having been born of earth, always having been there)
 	- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
 
- ## History
+## History
 ### Archaic Period
 - Origins
 	- 4 tribes
@@ -43,21 +43,21 @@ toc: true
 ---
 
 - Athens did not participate in the colonizing movement by this time, yet
-- Unsuccessful coup of **[Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens)** in <mark>636 or 632 BC</mark> (he tried to become a tyrant)
+- Unsuccessful coup of **[Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens)** in ==636 or 632 BC== (he tried to become a tyrant)
 	- Kylon managed to escape, but some his co-conspirators did not
 		- They take refuge in the temple of Athena where they were being starved into submission
 		- One of nine archons, Megacles promised them safe passage out of the temple, but when they emerged, he had them killed
 			- Because of this sacrilige Megacles and his family were sent to exile
 			- The great Eupatrid clan called *Alcmaeonids* (very important clan in greek history) to which Megacles belonged had been called cursed ever since
 	- First reliable event of Athenian history
-- Around <mark>622</mark> BC **[Draco](https://en.wikipedia.org/wiki/Draco_(lawgiver))** formulated first code of laws for Athenians
+- Around ==622== BC **[Draco](https://en.wikipedia.org/wiki/Draco_(lawgiver))** formulated first code of laws for Athenians
 	- It was claimed that Draco prescribed death as the punishment for any infraction.
 		- In reality the code was not as barbarous
-- Around <mark>620 to 610 BC</mark>, the Athenians send out two colonies to the Hellespont
+- Around ==620 to 610 BC==, the Athenians send out two colonies to the Hellespont
 	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension.
 ---
 
-- **[Solon](https://en.wikipedia.org/wiki/Solon)**'s resolves social tension with his reforms in <mark>594 BC</mark>
+- **[Solon](https://en.wikipedia.org/wiki/Solon)**'s resolves social tension with his reforms in ==594 BC==
 	- At the turn of the 6th century BC there was some kind of economic crisis
 		- A large part of impoverished citizen farmers have grown in Athens that couldn't pay their debts (big social tension) 
 	- Reforms
@@ -88,7 +88,7 @@ toc: true
 				- Right to transfer a legal case, before delivery of a verdict, from a magistrate to a jury court
 ---
 
-- <mark>590 BC</mark> - _anarkhia_
+- ==590 BC== - _anarkhia_
 	- A year without an archon
 	- That's where the word *anarchy* comes from
 - A brief experiment with something like a board of governors replacing the archons, there were 3 regional and political fractions
@@ -101,11 +101,11 @@ toc: true
 	- *the Men of the Hill*
 		- The population containing the poorer residents of the Attic highlands, and possibly including residents of Attica cities as well.
 		- Led by Peisistratos
-- Tyranny of **[Peisistratos](https://en.wikipedia.org/wiki/Pisistratus)** from <mark>546 to 527 BC</mark>
+- Tyranny of **[Peisistratos](https://en.wikipedia.org/wiki/Pisistratus)** from ==546 to 527 BC==
 	- 3 attempts at tyranny
-		- Self-wounding, granted armed guard (<mark>560 – 559 BC</mark>)
-		- Married Megacles' daughter, brought back into Athens by "Athena" (<mark>558 – 556 BC</mark>)
-		- After exile, return with mercenary force, "battle" at Pallene (<mark>547 – 546 BC</mark>)
+		- Self-wounding, granted armed guard (==560 – 559 BC==)
+		- Married Megacles' daughter, brought back into Athens by "Athena" (==558 – 556 BC==)
+		- After exile, return with mercenary force, "battle" at Pallene (==547 – 546 BC==)
 	- Established his rule very quickly
 		- Seemingly without resorting to violence, there must've a lot of popular support
 	- Rule
@@ -125,18 +125,18 @@ toc: true
 	- Works well
 		- Aristotle describes the characters of the two brothers
 			- > Affairs were now under the authority of Hipparchos and Hippias, owing to their station and their ages, but the government was controlled by Hippias, who was the elder and was statesmanlike and wise by nature; whereas Hipparchos was fond of amusement and lovemaking and had literary tastes; it was he who brought to Athens the poets such as Anakreon and Simonides, and the others. (*Athenian Constitution* 18.1) 
-	- However in <mark>514 BC</mark>, Hipparchus is stabbed to death by Harmodius and Aristogeiton
+	- However in ==514 BC==, Hipparchus is stabbed to death by Harmodius and Aristogeiton
 		- The murder, actually the result of a love feud, was quickly deemed a political act of assassination and the perpetrators, Harmodios and Aristogeiton, were proclaimed heroes and tyrannicides
 		- The reign of the remaining tyrant, Hippias, became increasingly severe
 			- From Aristotle:
 				- > After this it began to come about that the tyranny was much harsher; for Hippias' numerous executions and sentences of exile in revenge for his brother led to his being suspicious of everybody and embittered.
-	- Hippias' was expelled in <mark>511 BC</mark>
+	- Hippias' was expelled in ==511 BC==
 		- The Spartan king, Kleomenes, came out and helped an Athenian politician named **Isagoras**
 			-  Hippias had taken refuge on the Acropolis. But Kleomenes managed to capture some members of Hippias' family.
 			- And they arranged a negotiation, Hippias left Athens with his family
 				- And that was the end of tyranny in Athens
 - **Athenian revolution**
-	- <mark>508 – 507 BC</mark>
+	- ==508 – 507 BC==
 	- Isagoras and Kleomenes (Spartan king) attempt to dissolve the council
 		- The council resists
 	- Kleomenes and Isagoras occupy the Acropolis with Spartan help
@@ -181,15 +181,15 @@ toc: true
 
 ### Classical Period
 
-- [[Persian Wars]] From <mark>492 to 449 BC</mark>
+- [[Persian Wars]] From ==492 to 449 BC==
 	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
 		- That's how Athens became a maritime power
 		- Triretmes (the ships) opened up lots of job opportunities for poor citizens
 
 ---
 
-- <span id="delian-league"></span>**Delian League**
-	- Founded by Athens in <mark>478 BC</mark>
+- #### Delian League
+	- Founded by Athens in ==478 BC==
 	- Association of Greek city-states led by Athens
 	- Annual contributions
 	- Its main goal was defence against Persia
@@ -199,13 +199,13 @@ toc: true
 		- The treasury stood there until, in a symbolic gesture, Pericles moved it back to Athens in 454 BC
 			- After this event, the league could be effectively described as Athenian Empire
 	- The league dissolved upon the end of the [[Peloponnesian War]]
-- Athens enter the golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) in <mark>462 BC</mark>
+- Athens enter the golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) in ==462 BC==
 	- A reform of the Aeropagus is passed 
 	- Periclean building program
 		- Athenians took many extracted from Delian League tributes to beautify the city
 		- Most ancient Athenian sights come from this program, e.g. the Parthenon
-- [[Peloponnesian War]]
-	- <span id="long-walls"></span> The long walls
+- #### [[Peloponnesian War]]
+	-  #### The long walls
 		- Built to protect connection of the city of Athens with Piraeus (Athenian port)
 			- There was also other wall connecting Athens with Palerum
 				- These two walls effectively created a fortified triangle

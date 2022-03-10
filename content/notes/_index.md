@@ -2,6 +2,7 @@
 layout: article
 title: Notes
 toc: true
+date: 2022-03-10
 ---
 
 Since 2020 I've been taking notes digitally, mostly in [Roam Research](https://roamresearch.com/). I like the idea of [learning in public](https://t.co/eYwVXaTy8W) and sharing one's knowledge online, so I've written a few scripts and established a system of importing some of my notes to this website.
