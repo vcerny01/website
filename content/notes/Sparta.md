@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-08
+date: 2022-03-10
 ---
 
 - ## Geography
@@ -8,23 +8,17 @@ date: 2022-03-08
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FROpjRECvBA.png?alt=media&token=4f5e60ab-26ca-4205-87d5-e6b2c5b7ed91)
     - Originally four unwalled villages that got together by the process of synoecism
 - ## History
-- ### [Archaic period](Archaic%20Greece.md)
-    - <span id="helots"></span> Until the First Messenian War (<mark>~740–720 BC</mark>) not much different from other states
+- ### [[Archaic Greece]]
+    - <span id="helots"></span> Until the First Messenian War (==~740–720 BC==) not much different from other states
 		- Sparta conquers Messenie and Messenians become **helots**
 			- Helots had to provide agricultural labor
 			- They were made to wear dog-skin caps as a sign of their low status
 			- They could be abused by any Spartan and were held in line by a kind of state terrorism (*[Krypteia](#krypteia)*)
-    - Military-oriented reformation of Spartan society by [Lycurgus](https://en.wikipedia.org/wiki/Lycurgus_(lawgiver))
-		- Legendary Spartan law-giver from the 8th century
-		- He received a document called *Rhetra* from the oracle at Delphi
-		- His reforms promoted three Spartan virtues
-			- 1. **Equality**
-			- 2. **Military fitness**
-			- 3. **Austerity**
-    - Founding of [Taras](https://en.wikipedia.org/wiki/History_of_Taranto) (currently known as Taranto) in <mark>~710 BC</mark> in Italy
+    - Military-oriented reformation of Spartan society by [[Lycurgus]]
+    - Founding of [Taras](https://en.wikipedia.org/wiki/History_of_Taranto) (currently known as Taranto) in ==~710 BC== in Italy
         - The only Spartan colony
-    - Defeat of Spartan invading force by [Argives at Hysiae](https://en.wikipedia.org/wiki/Battle_of_Hysiae) <mark>~670 BC</mark>
-    - Second Messenian War (<mark>~660–650 BC</mark>)
+    - Defeat of Spartan invading force by [Argives at Hysiae](https://en.wikipedia.org/wiki/Battle_of_Hysiae) ==~670 BC==
+    - Second Messenian War (==~660–650 BC==)
 		- Helots uprising possibly inspred by Spartan defeat at Hysiae
 		- Arcadia and Argos allied with the helots ([more](https://en.wikipedia.org/wiki/Second_Messenian_War) here)
 		- Eventually Spartans win

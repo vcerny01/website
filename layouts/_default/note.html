@@ -41,18 +41,31 @@
         {{end}}
     </div>
     <article>
+        
         {{$relDir := replace .RelPermalink (printf "%s/" (.File.BaseFileName | urlize)) ""}}
         {{$content := .Content}}
+        
+        {{/* MAKE HIGHLIGHTS */}}
+        {{$highlights := findRE "==(.*?)==" .Content}}
+        {{range $highlights}}
+            {{$text := (replace . "==" "")}}
+            {{$content = (replace $content . (printf "%s%s%s" "<mark>" $text "</mark>"))}}
+        {{end}}
+
+        {{/* MAKE WIKILINKS */}}
         {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
         {{range $wikilinks}}
             {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
             {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
         {{end}}
+
+        {{/* REMOVE SOME TAGS */}}
         {{if .Params.source}}
             {{range (split "#Book,#Research" ",")}}
                 {{$content = replace $content . ""}}
             {{end}}
         {{end}}
+
         {{$content | safeHTML}}
     </article>
     {{partial "footer.html" .}}

@@ -2,7 +2,7 @@
 layout: note
 source: research
 title: Ancient Greece
-date: 2022-03-08
+date: 2022-03-10
 ---
 
 #Research
@@ -28,6 +28,8 @@ My main objective was to get a solid (undergraduate level one might say) overvie
 	- [[Greek Dark Ages]]
 	- [[Persian Wars]]
 	- [[Peloponnesian War]]
+- People
+	- [[Lycurgus]]
 
 ## Sources
 - The [course](https://www.coursera.org/learn/ancient-greeks/) on Coursera
