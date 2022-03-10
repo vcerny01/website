@@ -149,7 +149,7 @@ img {
  ;
 }
 
-.toc {
+#toc {
     float:  left;
     margin-right: 0;
     margin-top: 1rem;
@@ -157,18 +157,18 @@ img {
     padding: 1rem;
     border-top: 2px solid var(--secondary-bg-color);
 }
-.toc ul {
+#toc ul {
     list-style-type: decimal;
     counter-reset: item;
     padding-inline-start: 20px;
 }
-.toc ul li {
+#toc ul li {
     display:  block;
 }
-.toc ul li a {
+#toc ul li a {
     color: var(--secondary-link-color);
 }
-.toc ul li:before {
+#toc ul li:before {
     content:  counters(item, ".") ". ";
     counter-increment: item;
     font-size: 0.9em;

@@ -1,6 +1,7 @@
 ---
 series: Ancient Greece
 date: 2022-03-10
+toc: true
 ---
 ## Geography
 - Located in southern Greece in the Peloponnese
@@ -59,7 +60,7 @@ date: 2022-03-10
 	- They were free, but not citizens
 	- They most likely handled commercial affairs and related things
 - Helots
-## Upbringing  
+## Upbringing
 - *Agoge*
 	- The Spartan way of life
 - When an infant was born, it was scrutinized by one of the Ephors

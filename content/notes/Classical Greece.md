@@ -21,7 +21,6 @@ toc: true
     - [Thebes](https://en.wikipedia.org/wiki/Thebes,_Greece#History)
 - ## Culture
     - ### Tragedy and Comedy
-	    - #### Yo
 		-  Not just entertainment, very important for political, culture and civic life (especially in Athens)
 		-  Always somehow connected to the god Dionysus
 		-  Seems to have evolved from choral competitions

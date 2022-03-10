@@ -29,11 +29,9 @@
         </div>
             <!-- Table of Contents -->
             {{if .Params.toc}}
-                <div class="toc" style="padding-top: 0;">
-                    {{.TableOfContents}}
-                </div>
+                {{partial "partials/toc.html" .}}
             {{end}}
-        </div>
+    </div>
     <div>
         <!-- Cover -->
         {{if .Params.cover}}
