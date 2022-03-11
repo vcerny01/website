@@ -16,7 +16,8 @@
     width:fit-content;
 }
 
-h3 {
+.column h3 {
+    color: var(--text-color);
     margin-bottom: -5px;
 }
 
