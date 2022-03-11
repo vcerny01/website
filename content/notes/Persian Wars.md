@@ -1,24 +1,24 @@
 ---
 series: Ancient Greece
-date: 2022-03-08
+date: 2022-03-11
 ---
 
 
 - War between ancient Greek city-states and Persia
 - Based from a big part on writings from Herodotus
-- <mark>492 – 449 BC</mark>
+- ==492 – 449 BC==
 - ### Ionian revolt
     - Greek city-states in Anatolia were under Persian control
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FEshVTiIH2T.png?alt=media&token=db84e844-8299-41e3-abff-63f48f984b54)
-    - They revolted in <mark>499 – 494 BC</mark>
+    - They revolted in ==499 – 494 BC==
         - A map showing main events
             - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ionian_Revolt_Campaign_Map.png/1024px-Ionian_Revolt_Campaign_Map.png)
         - Led by Aristagoras, the tyrant of Miletus
-            - [[Sparta]]ns declined to help him, but [[Athens]] did
+            - He asks [[Sparta]] and [[Athens]] to help him Spartans declined, but Athens came to help
                 - Probably because former Athenian tyrant Hippias was exiled in Persia and seemed to be planning his return to power
                 - Athens mustered a fleet of 20 ships supplemented by 4 additional ships from from another polis called Eretria
-                    - The revolt spread after the [battle of Sardis](http://www.historyofwar.org/articles/battles_sardis_498.html) (<mark>498 BC</mark>) (important persian outpost)
-        - In <mark>494 BC</mark>, the revolt was finally crushed
+                    - The revolt spread after the [battle of Sardis](http://www.historyofwar.org/articles/battles_sardis_498.html) (==498 BC==) (important persian outpost)
+        - In ==494 BC==, the revolt was finally crushed
             - Miletus was sacked and burned as a revenge for the destruction of Sardis 
 - After the revolt, Persians went demanding earth and water as a symbol of surrendering
     - Sacrilige in Athens and Sparta
@@ -28,11 +28,11 @@ date: 2022-03-08
 - Persians invade mainland Greece
     - Their first target is Eritrea, they land there and destroy it
     - ### Battle of Marathon
-        - <mark>490 BC</mark>
-        - Athenians and Persians meet north of Athens
+        - ==490 BC==
+        - Athenians and Persians (under their king [[Darius]]) meet north of Athens
         - Surprising decisive Greek victory
             - Mostly because of the hoplite tactics and much more effective and heavy armor
-        - Athenian general in charge, **Miltiades**, puts the best troops off to the side, where they can attack Persian flanks
+        - Athenian general in charge, [[Miltiades]], puts the best troops off to the side, where they can attack Persian flanks
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F5TLs3rpIea.webp?alt=media&token=042f08d3-c86d-4fc1-9e8e-8cd111878327)
             - It worked great and Herodotus tells us the final causulties were 192 Greeks over 6,000 Persians
         - There's the story of the famous runner Pheidippides, who ran from Athens to Sparta to deliver the news
@@ -40,14 +40,14 @@ date: 2022-03-08
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F7iWyzmdVzH.png?alt=media&token=e6db4764-c1a0-4590-8bdc-082291fde09e)
     - Greeks have mitigated the Persian threat for a while
 ---
-- **Xerxes** (Darius' son) decides to finish what his father has begun
+- [[Xerxes]] (Darius' son) decides to finish what his father has begun
     - He builds a bridge over the Hellenspont
         - But a storm comes and breaks it
             - Xerxes gets so furious that he has the body of water flogged with whips, branded with irons, and he tosses chains into it to fetter the Hellenspont
     - The bridge is built and the Persians undertake parallel progress towards Greece
         - Land forces making their way along the coast
     - ### Battle of Thermopylae
-        - <mark>480 BC</mark>
+        - ==480 BC==
         - Took place at a narrow coastal pass 
             - _Thermopylae_ means hot gates (there were hot springs)
         - Greeks were lead by the Spartan king **Leonidas**
@@ -65,7 +65,7 @@ date: 2022-03-08
 - ### Battle of Salamis
      - Delphi said the Athenians could trust their wooden walls
 		 - Athenians interpreted that to mean their ships 
-    - Later that year of <mark>480 BC</mark>, the two fleets confront each other
+    - Later that year of ==480 BC==, the two fleets confront each other
         - The Greek fleet (led by Athenians under Themistocles) and the Persian fleet
     - Themistocles lures Persians into the narrow waters of the straits near the island of Salamis
         - Aristedes the Just was recalled from his ostracism and commanded a small troop the little island
@@ -74,7 +74,7 @@ date: 2022-03-08
         - 371–378 ships (Greeks, 40 causulties) vs. ~600-1200 ships (Persian, 200–300 causulties)
         - Xerxes flees back overland
 - ### Battle of Plataea
-	- <mark>479 BC</mark>
+	- ==479 BC==
     - The Persian army under the command of Mardonius stays in Greece
     - On land with the Spartans in command under their king Pausania
     - Total Greek victory
@@ -83,4 +83,4 @@ date: 2022-03-08
 - After this war Sparta and Athens have definitley risen to a position of hegemony in Greece
     - Formation of the Delian League
 - ### Peace of Callias
-    - **Pericles** oficially ended the war between Athens and Persia
+    - [[Pericles]] oficially ended the war between Athens and Persia

@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-10
+date: 2022-03-11
 ---
 
 - ==~800 – 500 BC==
@@ -101,9 +101,6 @@ date: 2022-03-10
 	- [[Solon]]
 	- [[Peisistratos]]
 	- [[Cleisthenes]]
-- [[Corinth]]
-	- [[Periander]]
-	- [[Cypselus]]
 ### Artists
 - [[Homer]]
 - [[Aesop]]

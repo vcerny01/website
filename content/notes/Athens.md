@@ -14,7 +14,7 @@ toc: true
 	- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
 
 ## History
-### Archaic Period
+### [[Archaic Greece|Archaic Period]]
 - #### Origins
 	- 4 tribes
 	- Mythical king **Theseus**
@@ -96,9 +96,9 @@ toc: true
 		- They besiege the Spartan occupiers
 		- Kleomenes surrenders on the 3rd day of the siege and the Spartans withdraw
 	- The leader of the popular revolt, Cleisthenes (member of the Alcmaeonids clan), is called back to the city frome exile
-	- After Athenian revolution, [[Cleisthenes]] makes democratic reforms
+	- After Athenian revolution, **[[Cleisthenes]] makes democratic reforms**
 
-### Classical Period
+### [[Classical Greece|Classical Period]]
 
 - #### [[Persian Wars]] (==492–449 BC==)
 	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
@@ -118,8 +118,8 @@ toc: true
 - #### The golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) 
 	- A reform of the Aeropagus is passed in ==462 BC==
 	- Periclean building program
-		- Athenians took many extracted from Delian League tributes to beautify the city
-		- Most ancient Athenian sights come from this program, e.g. the Parthenon
+		- Athenians took money extracted from Delian League tributes to beautify the city
+		- Most ancient Athenian sights come from this program, e.g. the [Parthenon](https://en.wikipedia.org/wiki/Parthenon)
 - #### [[Peloponnesian War]]
 	-  **The long walls**
 		- Built to protect connection of the city of Athens with Piraeus (Athenian port)

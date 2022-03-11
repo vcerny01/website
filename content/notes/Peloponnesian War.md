@@ -1,21 +1,19 @@
 ---
-layout: note
-title: "Peloponnesian War"
 series: Ancient Greece
-date: 2022-03-08
+date: 2022-03-11
 ---
 
-- War between the [Delian League](/notes/ancient-greece/7-athens#delian-league) led by [Athens](/notes/ancient-greece/7-athens), and [Peloponnesian League](Sparta.md#peloponnesian-league) led by [Sparta](/notes/ancient-greece/7-sparta)
-- <mark>431–404 BC</mark>
+- War between the [[Athens#Delian League|Delian League]] led by Athens and the [[Sparta#Peloponnesian League|Peloponnesian League]] led by Sparta
+- ==431–404 BC==
 - ### Thirty year's peace
-    - A treaty signed between Athens and Sparta in <mark>446 BC</mark> that brought an end to the conflict known as the 'First Peloponnesian War'
-        - That was a series of occasional battles raging from <mark>460 BC</mark>
-    - The peace was first tested when the powerful Athenian ally Samos rebelled against the alliance (<mark>440 BC</mark>)
+    - A treaty signed between Athens and Sparta in ==446 BC== that brought an end to the conflict known as the 'First Peloponnesian War'
+        - That was a series of occasional battles raging from ==460 BC==
+    - The peace was first tested when the powerful Athenian ally Samos rebelled against the alliance (==440 BC==)
         - The Spartans called a congress of their allies whether to engage in war with Athens
             - The Corinthians were against the intervention so the council voted against war with Athens
         - The revolt was crushed and peace maintained
-- ### Outbreak of war (<mark>433–431 BC</mark>)
-    - Outbreak of war between Athens and [Corinth](Corinth.md)
+- ### Outbreak of war (==433–431 BC==)
+    - Outbreak of war between Athens and [[Corinth]]
         - A conflict arises between Corinth and its colony Corsyra
             - There were negotians, finally Athenians decided to take the side of Corsyra
                 - To uphold the peace, the small fleet Athenians sent didn't intervene in the battle of Sybota
@@ -32,8 +30,8 @@ date: 2022-03-08
         - Almost entire greek world joins the war afterwards
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F7zz_F6Ivcc.png?alt=media&token=da3407c4-9506-4b87-96ff-99455d506158)
 - ### Athenian strategy
-    - [Pericles](https://en.wikipedia.org/wiki/Pericles) realized Athens didn't stand a chance against the Sparta in the traditional hoplite warfare
-        - So he drew Athenians of the land into the protected enclave of the [long walls](/notes/ancient-greece/7-athens#long-walls)
+    - [[Pericles]] realized Athens didn't stand a chance against the Sparta in the traditional hoplite warfare
+        - So he drew Athenians of the land into the protected enclave of the long walls
         - As long as they have the fleet providing Athens with supplies and raid the Spartan coast, they would be fine
     - At the end of first year of the war, Pericles delivers his famous [funeral oration](https://en.wikipedia.org/wiki/Pericles%27_Funeral_Oration)
     - Shortly after this address, a **plague** broke out in Athens
@@ -45,34 +43,34 @@ date: 2022-03-08
             - In a long time, after 17 years, Pericles was not elected general
                 - But they changed their minds quickly after
             - Pericles delivers his so-called [last speech](http://www.csun.edu/~hcfll004/thuc-sp.html)
-                - He catches the plague and dies in <mark>429 BC</mark>
-- ### Cleon and Brasidas
-    - Revolt of Mytilene against Athens (the island of Lesbos) (<mark>428–427 BC</mark>)
+                - He catches the plague and dies in ==429 BC==
+- ### [[Cleon]] and [[Brasidas]]
+    - Revolt of Mytilene against Athens (the island of Lesbos) (==428–427 BC==)
         - Athenians crushed the revolt and voted on the ultimate penalty
             - That is all men will be killed, women and children will be sold into slavery
         - After debate between Cleon (for the penalty) and Diodotus (against the penalty), the penalty is not exercised, but things are getting more and more tense in Athens
-    - Stasis (civil war) in Corcyra (<mark>427 BC</mark>)
+    - Stasis (civil war) in Corcyra (==427 BC==)
         - Begins with killing an official Athenian friend there
-    - Cleon's victory at Pylos/Sphacteria against Spartans (<mark>425 BC</mark>)
+    - Cleon's victory at Pylos/Sphacteria against Spartans (==425 BC==)
         - Cleon's has become very influential in Athens afterwards
     - There is a shortage of manpower in Sparta ([helots](Sparta.md#helots) and others get into battles as well)
     - New Spartan general Brasidas launches a fast campaign north of Athens
-        - Wins at Amphipolis (<mark>424 BC</mark>)
+        - Wins at Amphipolis (==424 BC==)
             - The battle was led by Thucydides who is in response to this event [exiled from Athens](((XYKhFup5M)))
         - In response to that, Cleon is appointed general and goes north to Brasidas
             - 422 BC - There's large battle, Athenians lose (600 of them are killed including Cleon), on Spartan they are only seven fatalities reported, but one of them was Brasidas
-- ### Peace of Nicias (<mark>421 BC</mark>)
+- ### Peace of Nicias (==421 BC==)
     - Signed between both sides
     - Mutual non-agression is to last for 50 years
         - Disputes are to be solved by arbitration rather than conflict
     - The situation was still tense on many fronts
         - Sparta tried to get Corinth ally with Thebes against Athens
-        - Athenian general Alcibades got the Peloponnesian states of Ellis and Mantineia to ally with Argos against Spart (<mark>420 BC</mark>)
-            - Combined forces of these three states are defeated at at Argives (<mark>418 BC</mark>)
-- Siege of Melos (<mark>416 BC</mark>)
+        - Athenian general Alcibades got the Peloponnesian states of Ellis and Mantineia to ally with Argos against Spart (==420 BC==)
+            - Combined forces of these three states are defeated at at Argives (==418 BC==)
+- Siege of Melos (==416 BC==)
     - Athenians go to the island of Melos and demand that they join the Delian League as subordinate tribute paying allies
         - Melos refuses to
-        - Siege is led by **Alcibiades**
+        - Siege is led by **[[Alcibiades]]**
 			- Alciabiades is prominent statesmen, orator and general
 				- He was handsome and loved by the public
 			- Member of the Alcmaeonids, nephew of Pericles
@@ -82,10 +80,10 @@ date: 2022-03-08
         - Athenians come back with a massive fleet
         - After a short siege, Athenians kill almost all adult males (few manage to escape into slavery) and sell women and children into slavery
             - Then they resettle the island with 500 colonists from Athens
-- ### The Sicilian expedition (<mark>416–413 BC</mark>)
+- ### The Sicilian expedition (==416–413 BC==)
     - Athenians decide to invade Sicily
         - An Athenian ally, Segesta, got into quarrel with nearby state of Selinus and asked Athenians for help
-            - **Nicias** (the general who signed the peace of Nicias), anti-war, and Alcibiades, pro-war, debate the issue
+            - **[[Nicias]]** (the general who signed the peace of Nicias), anti-war, and [[Alcibiades]], pro-war, debate the issue
                 - Alcibiades was more persuasive, although Niccius' arguments were more rational
     - Shortly before their arrival, Alcibiades hears that the Athenians have sent a ship out with orders that he be arrested
         - So he flees to Sparta
@@ -112,38 +110,38 @@ date: 2022-03-08
         - Sort of like a super executive comitee
         - Highly trusted men of upstanding character
             - Still a breach in the democratic process
-    - The oligarchic revolution (<mark>411 BC</mark>)
+    - The oligarchic revolution (==411 BC==)
         - Membership in assembly restricted to 5K wealthiest citizens
         - A super council of 400 is established
         - This oligarchy slowly fades away, though, and democracy is restored
-- ### The treaty of Miletus (<mark>412 BC</mark>)
+- ### The treaty of Miletus (==412 BC==)
     - Alcibiades had to leave Sparta for Persia
         - He led negotiations with Persians to lend money to build Spartan fleet (which was an oxymoron for most Spartans)
         - He seduced the wife of one of the Spartan kings
     - But Spartans continued the negotiations and came up with a treaty
         - In return for money, they would no longer oppose Persian attempts to control the Ionian states
             - Just like that the focus of the war shifts up norteast, because there was a crucial supply line for the Athenians
-- ### Alcibiades returns to Athens (<mark>408 BC</mark>)
+- ### Alcibiades returns to Athens (==408 BC==)
     - Spartans are defeated in two battles northeast
         - One of them is the battle of Cyzicus
             - The Spartans offered peace, Athenians declined it
             - Alcibiades joins the pro-Athenian side
                 - Back in Athens, he was cleared of all charges of impiety and was made a "commander-in-chief"
                 - But after a while, Athenian public opinion shifted, he fled Athens and never returned again
-- ### Battle of Arginusae (<mark>406 BC</mark>)
+- ### Battle of Arginusae (==406 BC==)
     - Battle of Athenian and Spartan fleets
         - Sparta lost
     - A storm came afterwards, so Athenians failed to pick up their dead
         - Back in Athens a motion is proposed that the generals be tried for this as a group
             - That is a completely illegal practice
             - The vote was eventually carried out and six generals were executed (among them one of the sons of Pericles)
-- ### Battle of Aegospotami (<mark>406 BC</mark>)
-    - The Spartan fleet is under command of a very capable general named Lysander
+- ### Battle of Aegospotami (==406 BC==)
+    - The Spartan fleet is under command of a very capable general named [[Lysander]]
     - Athenians were in very vulnerable position
     - Spartans had a decisive victory
         - 160 out of 180 Athenian ships were destroyed and several thousands killed
             - Athenian navy is now effectively destroyed
-- ### Athens surrender (<mark>404 BC</mark>)
+- ### Athens surrender (==404 BC==)
     - Athens was surrounded and starved into submission
         - Some Athenian enemies, notably Corinth and Thebes wanted Athens to be treated like Athens treated Melos
             - But Spartans resisted
@@ -156,4 +154,4 @@ date: 2022-03-08
         - Athens turned into a civil war
         - In the end, the Thirty is overthrown
             - There were no revenge killings, instead there was a joyful procession back up to the Acropolis
-- After the war Spartans enjoyed a brief period of hegemony, following the [Corinthian War]()
+- After the war Spartans enjoyed a brief period of hegemony, following the [[Corinthian War]]
