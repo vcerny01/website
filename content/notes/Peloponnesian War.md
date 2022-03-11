@@ -44,7 +44,7 @@ date: 2022-03-11
                 - But they changed their minds quickly after
             - Pericles delivers his so-called [last speech](http://www.csun.edu/~hcfll004/thuc-sp.html)
                 - He catches the plague and dies in ==429 BC==
-- ### [[Cleon]] and [[Brasidas]]
+- ### Cleon and Brasidas
     - Revolt of Mytilene against Athens (the island of Lesbos) (==428–427 BC==)
         - Athenians crushed the revolt and voted on the ultimate penalty
             - That is all men will be killed, women and children will be sold into slavery
@@ -52,11 +52,11 @@ date: 2022-03-11
     - Stasis (civil war) in Corcyra (==427 BC==)
         - Begins with killing an official Athenian friend there
     - Cleon's victory at Pylos/Sphacteria against Spartans (==425 BC==)
-        - Cleon's has become very influential in Athens afterwards
-    - There is a shortage of manpower in Sparta ([helots](Sparta.md#helots) and others get into battles as well)
+        - Cleon has become very influential in Athens afterwards
+    - There is a shortage of manpower in Sparta (helots and others get into battles as well)
     - New Spartan general Brasidas launches a fast campaign north of Athens
         - Wins at Amphipolis (==424 BC==)
-            - The battle was led by Thucydides who is in response to this event [exiled from Athens](((XYKhFup5M)))
+            - The battle was led by Thucydides who is in response to this event exiled from Athens
         - In response to that, Cleon is appointed general and goes north to Brasidas
             - 422 BC - There's large battle, Athenians lose (600 of them are killed including Cleon), on Spartan they are only seven fatalities reported, but one of them was Brasidas
 - ### Peace of Nicias (==421 BC==)
@@ -83,7 +83,7 @@ date: 2022-03-11
 - ### The Sicilian expedition (==416–413 BC==)
     - Athenians decide to invade Sicily
         - An Athenian ally, Segesta, got into quarrel with nearby state of Selinus and asked Athenians for help
-            - **[[Nicias]]** (the general who signed the peace of Nicias), anti-war, and [[Alcibiades]], pro-war, debate the issue
+            - **Nicias** (the general who signed the peace of Nicias), anti-war, and [[Alcibiades]], pro-war, debate the issue
                 - Alcibiades was more persuasive, although Niccius' arguments were more rational
     - Shortly before their arrival, Alcibiades hears that the Athenians have sent a ship out with orders that he be arrested
         - So he flees to Sparta

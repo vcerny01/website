@@ -9,9 +9,9 @@ toc: true
 	- Lots of land and natural resources
 	- Long coast line
 - Athens means Athena's people
-- She the supervising entity of the city from the beginnings in the mythology 
-- Athenains pride themselves on being _autochtonous_ (having been born of earth, always having been there)
-	- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
+	- She the supervising entity of the city from the beginnings in the mythology 
+	- Athenains pride themselves on being _autochtonous_ (having been born of earth, always having been there)
+		- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
 
 ## History
 ### [[Archaic Greece|Archaic Period]]
@@ -115,7 +115,7 @@ toc: true
 		- The treasury stood there until, in a symbolic gesture, Pericles moved it back to Athens in 454 BC
 			- After this event, the league could be effectively described as Athenian Empire
 	- The league dissolved upon the end of the [[Peloponnesian War]]
-- #### The golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) 
+- #### The golden age of [[Pericles]]
 	- A reform of the Aeropagus is passed in ==462 BC==
 	- Periclean building program
 		- Athenians took money extracted from Delian League tributes to beautify the city

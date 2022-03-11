@@ -138,20 +138,19 @@ toc: true
 
 ## Important People
 ### Statesmen/Generals
-- [[Persia]]
+- Persia
 	- [[Darius]]
 	- [[Xerxes]]
 - [[Sparta]]
-	- [[Leonidas]]
-	- [[Brasidias]]
+	- [Brasidias](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=brasidas)
 	- [[Lysander]]
 - [[Athens]]
 	- [[Miltiades]]
 	- [[Themistocles]]
 	- [[Pericles]]
-	- [[Cleon]]
+	- [Cleon](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=cleon)
 	- [[Alcibiades]]
-	- [[Nicias]]
+	- [Nicias](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=nicias)
 ### Artists
 - [[Aeschylus]]
 - [[Sophocles]]

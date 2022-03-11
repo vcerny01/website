@@ -13,7 +13,7 @@ mf a.k.a Pisistratus (but I like the other spelling better)
 - Established his rule very quickly
 	- Seemingly without resorting to violence, there must've a lot of popular support
 - Suceeded in exiling the entire Megacles and the entire Alcmaeonidae clan for an entire generation
-## Rule
+## Reign
 - All in all, a fairly benevolent ruler
 - Built large public projects
 	- By levying a small tax on agricultural products

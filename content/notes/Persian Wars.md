@@ -45,7 +45,8 @@ date: 2022-03-11
         - But a storm comes and breaks it
             - Xerxes gets so furious that he has the body of water flogged with whips, branded with irons, and he tosses chains into it to fetter the Hellenspont
     - The bridge is built and the Persians undertake parallel progress towards Greece
-        - Land forces making their way along the coast
+        - Land forces making their way along the coast parallel to the naval forces (see map below)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FVKP0SDCkvm.png?alt=media&token=68f85758-f517-41d3-a587-a7822f24910b)
     - ### Battle of Thermopylae
         - ==480 BC==
         - Took place at a narrow coastal pass 
