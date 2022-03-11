@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-10
+date: 2022-03-11
 toc: true
 ---
 <style>
@@ -165,5 +165,5 @@ toc: true
 ### Philosophers
 - [[Socrates]]
 - [[Plato]]
-- [[Aristoteles]]
+- [[Aristotle]]
 - [[Diogenes]]

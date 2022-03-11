@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-10
+date: 2022-03-11
 toc: true
 ---
  ## Geography
@@ -18,7 +18,7 @@ toc: true
 - #### Origins
 	- 4 tribes
 	- Mythical king **Theseus**
-- #### Government
+ - #### Government
 	- **_Eupatridae_**
 		-  = "Those who had good fathers"
 		- Hereditary elite
@@ -40,58 +40,28 @@ toc: true
 	- **Assembly** of citizens
 		- Probably divided by those four tribes somehow
 		- Not much is known about them
----
 
-- Athens did not participate in the colonizing movement by this time, yet
-- Unsuccessful coup of **[Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens)** in ==636 or 632 BC== (he tried to become a tyrant)
+- #### Unsuccessful coup of [Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens) (==636/632 BC==)
+	- Kylon tried to become a tyrant, but his plan fails due to little popular support
 	- Kylon managed to escape, but some his co-conspirators did not
 		- They take refuge in the temple of Athena where they were being starved into submission
 		- One of nine archons, Megacles promised them safe passage out of the temple, but when they emerged, he had them killed
 			- Because of this sacrilige Megacles and his family were sent to exile
 			- The great Eupatrid clan called *Alcmaeonids* (very important clan in greek history) to which Megacles belonged had been called cursed ever since
 	- First reliable event of Athenian history
-- Around ==622== BC **[[Draco]]** formulated first code of laws for Athenians
+- #### **[[Draco]]** formulates first code of laws for Athenians (==~621BC==)
 	- It was claimed that Draco prescribed death as the punishment for any infraction.
-		- In reality the code was not as barbarous
-- Around ==620 to 610 BC==, the Athenians send out two colonies to the Hellespont
-	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension.
----
-
-- **[[Solon]])**'s resolves social tension with his reforms in ==594 BC==
+		- In reality the code was not as harsh
+- #### Athenians send out two colonies to the Hellespont (==620–610 BC==)
+	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension
+- #### **[[Solon]]**'s reforms (==594 BC==)
 	- At the turn of the 6th century BC there was some kind of economic crisis
 		- A large part of impoverished citizen farmers have grown in Athens that couldn't pay their debts (big social tension) 
-	- Reforms
-		- *Seisachteia*
-			- = "shaking of burdens"
-			- One time cancellation of debts
-			- Before the reforms, it was established that if an Athenian couldn't pay his debts, he would either be sold into slavery or he could flee
-				- So lots of Athenians started coming back to Athens after this reform
-		- No Athenian could hold other Athenian as a slave
-		- Replacing the criterion of birth with the criterion of wealth
-			- Establishing 4 property classes
-				- *Pentacosiomeimnoi*
-					- "500 measure men"
-					- The traditionally wealthy landowners
-				- *Hippeis*
-					- "Horsemen" or "knights"
-					- Citizens wealthy enoigh to afford cavalry outfit
-				- *Zeutigae*
-					- "Yokemen"
-					- Wealthy enough farmers to afford a hoplite armor
-				- *Thetes*
-					- All other citizens
-			- Most political offices were limited only to some classes, but all citizens could participate in the assembly
-				-  _Ecclesia_
-					- Assembly of all citizens
-			- Right of legal intervention
-				- Any citizen could intervene on behalf of other citizens legally
-				- Right to transfer a legal case, before delivery of a verdict, from a magistrate to a jury court
----
-
 - ==590 BC== - _anarkhia_
 	- A year without an archon
 	- That's where the word *anarchy* comes from
-- A brief experiment with something like a board of governors replacing the archons, there were 3 regional and political fractions
+- #### 3 political fractions
+	- A brief experiment with something like a board of governors replacing the archons, there were 3 regional and political fractions
 	- *The Men of the Plain*
 		- The population composed mostly of large landowners.
 		- Led by Lykourgos
@@ -101,29 +71,12 @@ toc: true
 	- *the Men of the Hill*
 		- The population containing the poorer residents of the Attic highlands, and possibly including residents of Attica cities as well.
 		- Led by Peisistratos
-- Tyranny of **[Peisistratos](https://en.wikipedia.org/wiki/Pisistratus)** from ==546 to 527 BC==
-	- 3 attempts at tyranny
-		- Self-wounding, granted armed guard (==560 – 559 BC==)
-		- Married Megacles' daughter, brought back into Athens by "Athena" (==558 – 556 BC==)
-		- After exile, return with mercenary force, "battle" at Pallene (==547 – 546 BC==)
-	- Established his rule very quickly
-		- Seemingly without resorting to violence, there must've a lot of popular support
-	- Rule
-		- Built large public projects
-			- By levying a small tax on agricultural products
-				- > Large temples and altars were constructed for Zeus Olympios, Apollo Pythios, and the Twelve Gods. In addition, an extensive system of aqueducts and fountainhouses brought a reliable supply of good clean water into the city.
-		- Allowed for state-supported agricultural loans to small farmers
-		- Set up circuit judges
-		- Cleared the Agora of private dwellings
-		- Perserved Solon's constitution, except that his followers hold the highest offices
-		- Established panathenian games and Dionysia (festivals of Dionysus)
-		- Athenian coinage was introduced
-	- All in all, regarded as the only half-bad tyrant by Aristotle
----
+- #### Tyranny of **[[Peisistratos]]** (==546–527 BC==)
+	- Regarded as the only half-bad tyrant by [[Aristotle]]
 
-- Peistratos' rule passed to his sons **Hippias** and **Hipparchus**
+- #### Peistratos' rule passed to his sons **Hippias** and **Hipparchus**
 	- Works well
-		- Aristotle describes the characters of the two brothers
+		- [[Aristotle]] describes the characters of the two brothers
 			- > Affairs were now under the authority of Hipparchos and Hippias, owing to their station and their ages, but the government was controlled by Hippias, who was the elder and was statesmanlike and wise by nature; whereas Hipparchos was fond of amusement and lovemaking and had literary tastes; it was he who brought to Athens the poets such as Anakreon and Simonides, and the others. (*Athenian Constitution* 18.1) 
 	- However in ==514 BC==, Hipparchus is stabbed to death by Harmodius and Aristogeiton
 		- The murder, actually the result of a love feud, was quickly deemed a political act of assassination and the perpetrators, Harmodios and Aristogeiton, were proclaimed heroes and tyrannicides
@@ -131,63 +84,26 @@ toc: true
 			- From Aristotle:
 				- > After this it began to come about that the tyranny was much harsher; for Hippias' numerous executions and sentences of exile in revenge for his brother led to his being suspicious of everybody and embittered.
 	- Hippias' was expelled in ==511 BC==
-		- The Spartan king, Kleomenes, came out and helped an Athenian politician named **Isagoras**
+		- The Spartan king, **[[Cleomenes]]**, came out and helped an Athenian politician named **Isagoras**:
 			-  Hippias had taken refuge on the Acropolis. But Kleomenes managed to capture some members of Hippias' family.
-			- And they arranged a negotiation, Hippias left Athens with his family
+			- So they arranged a negotiation and Hippias left Athens with his family
 				- And that was the end of tyranny in Athens
-- **Athenian revolution**
-	- ==508 – 507 BC==
-	- Isagoras and Kleomenes (Spartan king) attempt to dissolve the council
+- #### Athenian Revolution (==508–507 BC==)
+	- Isagoras and Cleomenes attempt to dissolve the council
 		- The council resists
 	- Kleomenes and Isagoras occupy the Acropolis with Spartan help
 		- The rest of Athenians unite
 		- They besiege the Spartan occupiers
 		- Kleomenes surrenders on the 3rd day of the siege and the Spartans withdraw
 	- The leader of the popular revolt, Cleisthenes (member of the Alcmaeonids clan), is called back to the city frome exile
-- After Athenian revolution, [Cleisthenes](https://en.wikipedia.org/wiki/Cleisthenes) makes democratic reforms
-	- He is thereby known as "the father of Athenian democracy"
-	- **Complete reogranization of the citizen body**
-		- Divided into 3 regions: city, coast, inland
-		- Each region is divided into 10 artificial *trittyes* ("thirds", so thirty in alll)
-		- Each tryttys includes a variable number of _Demes_, pre-existing "neighborhoods" (about 170 in all)
-			- From individual perspective, deme was the most important as your deme identity made you a citizen
-		- 10 new tribes (*Phylai*), each consisting of 3 trittyes, one from each region
-			- It was supposed that every tribe would represent a cross-section of the Athenian population in equal size
-		- **New council** (*Boule*)
-			- Consisted of 500 men
-				- Serving 1 yrear
-				- 50 from each tribe elected by a lot
-					- At this rate, the Boule served as a kind of education centre for the Athenian citizenry
-			- Prytany system
-				-  Council year is divided into tenths, with each tribe's council members serving as executive comitte (Prytaneis_) for that allotted period
-			-  The Boule framed legislation, that would be then debated and voted on for ratification by the assembly
-				-  It generally served as a sort of executive power
-			-  The old council (Aeropagus) and archons (magistrates, 9 of them) still continue to exist, but they are routinely examined by the Boule
-		-  **Board of 10 generals** (*Strategoi*)
-			-  Each out of one tribe
-			-  Elected anually
-				-  Could be reelected without limit
-		-  **Popular courts**
-				-  Citizen juries of upto several hundreds to hear cases
-		-  **Ostracism**
-			- Official process voted on anually by the assembly
-				- The vote required a qorum of 6,000 (a lot of citizens together at one place and one time)
-			- The citizens were supplied with *ostraca* (just means a bit of busted pot)
-			- These were deposited in collection vases and the citizen who got the most votes had to leave Athens for 10 years
-    			- No appeal to this
-			- *Isonomia*
-    			- Condition of "equal law" and equality under law
----
+	- After Athenian revolution, [[Cleisthenes]] makes democratic reforms
 
 ### Classical Period
 
-- [[Persian Wars]] From ==492 to 449 BC==
+- #### [[Persian Wars]] (==492–449 BC==)
 	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
 		- That's how Athens became a maritime power
 		- Triretmes (the ships) opened up lots of job opportunities for poor citizens
-
----
-
 - #### Delian League
 	- Founded by Athens in ==478 BC==
 	- Association of Greek city-states led by Athens
@@ -199,13 +115,13 @@ toc: true
 		- The treasury stood there until, in a symbolic gesture, Pericles moved it back to Athens in 454 BC
 			- After this event, the league could be effectively described as Athenian Empire
 	- The league dissolved upon the end of the [[Peloponnesian War]]
-- Athens enter the golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) in ==462 BC==
-	- A reform of the Aeropagus is passed 
+- #### The golden age of [Pericles](https://en.wikipedia.org/wiki/Pericles) 
+	- A reform of the Aeropagus is passed in ==462 BC==
 	- Periclean building program
 		- Athenians took many extracted from Delian League tributes to beautify the city
 		- Most ancient Athenian sights come from this program, e.g. the Parthenon
 - #### [[Peloponnesian War]]
-	-  #### The long walls
+	-  **The long walls**
 		- Built to protect connection of the city of Athens with Piraeus (Athenian port)
 			- There was also other wall connecting Athens with Palerum
 				- These two walls effectively created a fortified triangle
