@@ -1,6 +1,7 @@
 ---
-title: Interesting Websites
+title: Cool Websites
 layout: article
+disable_toc: true
 ---
 
 <style>

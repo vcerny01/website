@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-11
+date: 2022-03-12
 toc: true
 ---
  ## Geography
@@ -126,3 +126,11 @@ toc: true
 			- There was also other wall connecting Athens with Palerum
 				- These two walls effectively created a fortified triangle
 			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSOlobuDDjK.png?alt=media&token=467b08d4-6a45-4903-9e95-d21dfa55975c)
+- #### Thirty Tyrants ==(404–403 BC)==
+	- Oligarchy imposed by [[Sparta]] after [[Peloponnesian War]]
+	- Civil war starts, Thrasybylus (leader of Athenian democrats) overthrows the thirty
+		- It is said there were no revenge killings, instead there was a joyful procession back up to the Acropolis
+- [[Socrates]] is put to death for "impiety and corruption of the youth" (==399 BC==)
+- Long walls of Athens are rebuilt (==393 BC==)
+- #### [[Corinthian War]]
+	- By the peace of Antalcidas, Athens are forced to cede their gained territories in the Aegan sea

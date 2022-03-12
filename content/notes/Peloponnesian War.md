@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-11
+date: 2022-03-12
 ---
 
 - War between the [[Athens#Delian League|Delian League]] led by Athens and the [[Sparta#Peloponnesian League|Peloponnesian League]] led by Sparta
@@ -150,8 +150,5 @@ date: 2022-03-11
         - Their fleet was reduced to 12 ships
     - In the places of former Athenian allies, Spartans imposed decharcies
         - A board of ten to control a state
-    - In Athens, they imposed a group called the Thirty
-        - Athens turned into a civil war
-        - In the end, the Thirty is overthrown
-            - There were no revenge killings, instead there was a joyful procession back up to the Acropolis
+    - In Athens, they imposed an [[Athens#Thirty Tyrants (404–403 BC)|oligarchy of thirty]]
 - After the war Spartans enjoyed a brief period of hegemony, following the [[Corinthian War]]

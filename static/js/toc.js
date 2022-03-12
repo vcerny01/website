@@ -1,5 +1,4 @@
 /*! tableOfContents.js v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/table-of-contents */
-// This is script is slightly modified by Vít Černý
 /*
  * Automatically generate a table of contents from the headings on the page
  * @param  {String} content A selector for the element that the content is in
