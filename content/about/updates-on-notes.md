@@ -1,5 +1,6 @@
 ---
 layout: article
+disable_toc: true
 title: How to get updated for new notes
 ---
 

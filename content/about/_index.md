@@ -1,5 +1,6 @@
 ---
 layout: article
+disable_toc: true
 title: About
 ---
 
