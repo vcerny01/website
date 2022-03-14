@@ -5,31 +5,52 @@ layout: note
 date:  "2022-02-18"
 ---
 
-24.2.
-- ### Lope de Vega
-	- Život
-		- 1562 – 1635
-		- Voják a kněz
-		- Napsal přibližně 2000 her
-			- Dochovalo se cca 500
-	- Dílo
+## Anglická renesance
+14.3.
 
-- ### Miguel de Servantes y Savadera
-	- Život
-		- 1547 – 1616
-		- Pocházel ze schudlého šlechtického rodu
-		- Vstoupil do armády, aby byl finančně zajištěn
-			- Ztratil ruku v bitvě proti Turkům
-			- Padl do zajetí pirátů a byl v Alžíru jako otrok 5 let
-	- Dílo
-		- *Don Quijote de la Mancha*
-			- Dobrodružný román o bojovném rytíři
-				- Don Quijote se shlédne v rytířském světě a chce obnovit zašlou slávu
-				- Bojuje také i za dámu Dulcimea
-				- Ale je odtržený od reality
-				- Vyráží na koni Rosinanta
-				- Časem panuje na svého panoše vesničana Sancho Panza
-			- Spoustu fantastických prvků
+### Geoffrey Chaucer
+- Život
+	- Žil ve 14. století
+	- Diplomat, filosof
+		- V rámci diplomacie se dostal do Florencie, kde byl ovlivněn renesančními autory
+			- Nejvíc ho ovlivnil Dekameron
+- Dílo
+	- *Canterburské povídky*
+		- Cyklus povídek
+			- Některé veršované jiné prozaické
+		- Vyprávějí si je poutníci, co putují ke hrobu Thomase Becketta
+		- Rozmanité postavy z nejrůznějších společenských vrstev
+			- Jednou z nich je i sám Chaucer
+		- Jiné motivy příběhů v závislosti na tom, kdo je vypráví
+		- Člověk s nejlepšími příběhy měl dostat jídlo 
+		- Dílo zůstalo nedokončeno 
+
+## Italská a francouzská renesance
+24.2.
+### Lope de Vega
+- Život
+	- 1562 – 1635
+	- Voják a kněz
+	- Napsal přibližně 2000 her
+		- Dochovalo se cca 500
+- Dílo
+
+### Miguel de Servantes y Savadera
+- Život
+	- 1547 – 1616
+	- Pocházel ze schudlého šlechtického rodu
+	- Vstoupil do armády, aby byl finančně zajištěn
+		- Ztratil ruku v bitvě proti Turkům
+		- Padl do zajetí pirátů a byl v Alžíru jako otrok 5 let
+- Dílo
+	- *Don Quijote de la Mancha*
+		- Dobrodružný román o bojovném rytíři
+			- Don Quijote se shlédne v rytířském světě a chce obnovit zašlou slávu
+			- Bojuje také i za dámu Dulcimea
+			- Ale je odtržený od reality
+			- Vyráží na koni Rosinanta
+			- Časem panuje na svého panoše vesničana Sancho Panza
+		- Spoustu fantastických prvků
 
 - ### Fraçnois Rabelais
 	- Život
