@@ -1,9 +1,9 @@
 ---
 series: Ancient Greece
-date: 2022-03-11
+date: 2022-03-15
 ---
 
-- ==~800 – 500 BC==
+- ==~800–500 BC==
 ## Culture
 - **Homer** was very important for all subsequent ancient Greek culture
 	- Memorizing Homer was part of the education of any reasonably well brought up young Greek man

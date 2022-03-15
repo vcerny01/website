@@ -21,7 +21,7 @@ article img {
         position: relative;
         left: -3rem;
         margin:  none;
-        width: 100%;
+        max-width: 100%;
     }
 }
 

@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-11
+date: 2022-03-15
 toc: true
 ---
 <style>
@@ -135,12 +135,18 @@ toc: true
 ## Important Events
 - [[Persian Wars]]
 - [[Peloponnesian War]]
+- [[Corinthian War]]
+- [[Boeatian War]]
+- [[Macedonian Conquest of Greece]]
 
 ## Important People
 ### Statesmen/Generals
 - Persia
 	- [[Darius]]
 	- [[Xerxes]]
+- Macedonia
+	- [[Philip II]]
+	- [[Alexander the Great]]
 - [[Sparta]]
 	- [Brasidias](https://www.heritage-history.com/index.php?c=resources&s=char-dir&f=brasidas)
 	- [[Lysander]]

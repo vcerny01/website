@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-12
+date: 2022-03-15
 toc: true
 ---
  ## Geography
@@ -134,3 +134,18 @@ toc: true
 - Long walls of Athens are rebuilt (==393 BC==)
 - #### [[Corinthian War]]
 	- By the peace of Antalcidas, Athens are forced to cede their gained territories in the Aegan sea
+- [[Plato]] founds his Academy in Athens (==385 BC==)
+-  Fought with Sparta against Thebes supremacy in [[Boeatian War]]
+- #### Social War
+	- ==357–355 BC==
+	- Some Ionian colonies (Chios, Rhodes, Cos and Byzantium) overthrew their democratic governments and revolted against Athens
+	- Athenians sent a fleet to put down the rebellion
+	- Battle of Chios
+		- 357 BC
+		- One Athenian commander was killed so the fleet withdrawn
+	- Battle of Embata
+		- 356 BC
+		- A big Athenian fleet was divided due to a storm
+		- Athenians were defeated and Athens were forced to recognize indepedence of these colonies
+	- This war effectively ended Athenian attempts to rebuild their empire
+- Lost independence in [[Macedonian Conquest of Greece]]

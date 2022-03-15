@@ -3,7 +3,7 @@ layout: note
 source: research
 cover: "/images/main/cover-ancient-greece.png"
 title: Ancient Greece
-date: 2022-03-10
+date: 2022-03-15
 ---
 
 #Research
@@ -31,6 +31,9 @@ My main objective was to get a solid (undergraduate level one might say) overvie
 	- [[Persian Wars]]
 	- [[Peloponnesian War]]
 	- [[Corinthian War]]
+	- [[Boeatian War]]
+	- [[Macedonian Conquest of Greece]]
+	- [[Macedo]]
 - People
 	- For each historical period (see overviews), there's a list of related important characters
 

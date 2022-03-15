@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-12
+date: 2022-03-15
 toc: true
 ---
 ## Geography
@@ -98,3 +98,6 @@ toc: true
 		- Greeks refused to surrender, so they were allowed to march back to the coast
 		- Eventually, they managed to get back 
 	- #### [[Corinthian War]]
+	- #### [[Boeatian War]]
+		- Hegemony of Sparta ends
+	- Lost independence in [[Macedonian Conquest of Greece]]
