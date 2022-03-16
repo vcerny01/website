@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-15
+date: 2022-03-16
 toc: true
 ---
  ## Geography
@@ -101,7 +101,7 @@ toc: true
 ### [[Classical Greece|Classical Period]]
 
 - #### [[Persian Wars]] (==492–449 BC==)
-	- [Themistocles](https://en.wikipedia.org/wiki/Themistocles) persuaded the assembly to invest into building ships
+	- [[Themistocles]] persuaded the assembly to invest into building ships
 		- That's how Athens became a maritime power
 		- Triretmes (the ships) opened up lots of job opportunities for poor citizens
 - #### Delian League
