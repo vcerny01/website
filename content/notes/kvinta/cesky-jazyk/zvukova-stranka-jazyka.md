@@ -2,10 +2,10 @@
 title: Zvuková stránka jazyka
 layout: note
 series: Český jazyk
-date: "2020-02-23"
+date: 2022-03-16
 ---
 
-- ### Jazykovědné disciplíny zabývající se zvukovou stránkou jazyka
+- ## Jazykovědné disciplíny zabývající se zvukovou stránkou jazyka
 	- *Fonetika*
 		- Vznik řeči, hlásek
 	- *Fonologie*
@@ -21,7 +21,7 @@ date: "2020-02-23"
 		-   Důležitější je význam slova
 	-   Rozdíl mezi fonetickým (vše se píše přesně tak, jak se vyslovuje)
 	-   Například slovo bílý x býlý zní stejně, ale jinak se píše
-- ### Slabika
+- ## Slabika
 	- Nejmenší organizační jednotka v řeči
 	- Základ slabiky tvoří samohláska nebo slabikotvorná souhláska
 	- Dělíme na:

@@ -2,10 +2,42 @@
 title: Renesance
 series: Český jazyk
 layout: note
-date: 2022-03-15
+date: 2022-03-17
 ---
 
 ## Anglická renesance
+
+17.3.
+### William Shakespeare
+- Alžbětinské drama
+- Život
+	- 1564–1616
+	- Mládí strávil ve Stratfordu nad Avonou
+	- Odešel do Londýna
+		- Různé společnosti
+		- Úpravy her, vlastní tvorba
+	- The Globe Theatre
+		- Založil v roce 1598, v roce 1613 vyhořelo
+	- Po 20 letech se vrátil do Stratfordu
+- Dílo
+	- 1. období (do roku 1600)
+		- Komedie
+			- Spletitý děj
+			- Vždy vítězí spravedlnost, láska
+			- V popředí ženské postavy (renesančního typu)
+			- *Komedie plná omylů*
+			- *Sen noci svatojánské*
+			- *Zkrocení zlé ženy*
+		- Historické hry
+			- Inspirace antikou
+			- *Julius Ceasar*
+			- *Antonius a Kleopatra*
+			- 2 královské hry (angličtí panovníci, dle kronik)
+				- *Richard III.*
+				- *Jindřich IV.*
+		- První tragédie
+			- *Romeo a Julie*
+- První Shakespearovy hry se začali u nás objevovat v době národního obrození
 
 14.3.
 ### Geoffrey Chaucer
