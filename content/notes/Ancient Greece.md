@@ -10,9 +10,9 @@ date: 2022-03-17
 
 ## Introduction
 
-History is in humanities what math is in STEM. And knowing ancient history is as foundational as knowing algebra. So in Decemeber of 2021 I studied the ancient Greek history a bit. I made some notes along the way.
+History is in humanities what math is in STEM. And knowing ancient history is as foundational as knowing algebra. So from Decemeber of 2021 to March of 2022 I studied the ancient Greek history. I made some notes along the way.
 
-My main objective was to get a solid (undergraduate level one might say) overview of ancient Greek history. 
+My main objective was to get a solid overview of ancient Greek history. 
 
 ## Notes
 - Overviews

@@ -19,7 +19,7 @@ date: 2022-03-17
 
 ---
 
-Most cities in Asia Minor put up little resistance, so he spent the next year consolidating his power in the region before moving on.
+Most cities in Asia Minor put up little resistance, so Macedonians spent the next year consolidating his power in the region before moving on.
 
 ---
 
@@ -54,3 +54,8 @@ Most cities in Asia Minor put up little resistance, so he spent the next year co
 By this conquest, Hellenic culture spread as far [Bactria](https://en.wikipedia.org/wiki/Bactria).
 
 Alexander wanted to push further east (to the Ganga valley), but his army refused to go on. So he returned to Babylon and reigned there for a few years before dying.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MacedonEmpire.jpg/1280px-MacedonEmpire.jpg)
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Alexander-Empire_323bc.jpg)
