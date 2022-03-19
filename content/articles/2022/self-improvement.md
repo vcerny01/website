@@ -1,5 +1,5 @@
 ---
-title: I’m Gonna Start Doing All the Self-Improvement Memes at Once
+title: I’m Gonna Start Doing All the Self-Improvement Memes
 layout: article
 date: "2022-03-19"
 ---
