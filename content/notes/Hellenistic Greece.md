@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-15
+date: 2022-03-28
 ---
 - Period between 323 BC (death of Alexander the Great) and 146 BC (Battle of Corinth, Roman hegemony over Greece)
 
@@ -13,6 +13,7 @@ date: 2022-03-15
 
 ## Important Events
 - [[Macedonian Conquest of Persia]]
+- [[Wars of the Diadochi]]
 ## Important People
 ### Statesmen/Generals
 - [[Alexander the Great]]

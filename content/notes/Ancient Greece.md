@@ -3,7 +3,7 @@ layout: note
 source: research
 cover: "/images/main/cover-ancient-greece.png"
 title: Ancient Greece
-date: 2022-03-17
+date: 2022-03-28
 ---
 
 #Research
@@ -34,6 +34,7 @@ My main objective was to get a solid overview of ancient Greek history.
 	- [[Boeatian War]]
 	- [[Macedonian Conquest of Greece]]
 	- [[Macedonian Conquest of Persia]]
+	- [[Wars of the Diadochi]]
 - People
 	- For each historical period (see overviews), there's a list of related important characters
 

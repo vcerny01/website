@@ -2,7 +2,7 @@
 title: Renesance
 series: Český jazyk
 layout: note
-date: 2022-03-17
+date: 2022-03-24
 ---
 
 ## Anglická renesance
@@ -37,6 +37,25 @@ date: 2022-03-17
 				- *Jindřich IV.*
 		- První tragédie
 			- *Romeo a Julie*
+	- 2. období (1601–1608)
+		- *Hamlet, kralevic dánský* (1601)
+			- Tragédie váhavosti
+			- "Být či nebýt"
+			- Ofélie
+		- *Othelo, mouřenín benátský* (1604)
+			- Tragédie žárlivosti
+			- Jago, Desdemona
+		- *Macbeth* (1605)
+			- Tragédie touhy po moci
+			- lady Macbeth
+		- *Král Lear* (1605)
+			- Tragédie osamocenosti
+	- 3. období – smířlivé (1616)
+		- Vyrovnáná, pohádkové náměty
+		- *Zimní pohádka*, *Bouře*
+		- *Sonety* (1609)
+			- 154 sonetů
+			- Porušuje v nich obvyklou formu; 4-4-4-2
 - První Shakespearovy hry se začali u nás objevovat v době národního obrození
 
 14.3.

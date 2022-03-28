@@ -19,7 +19,7 @@
 
 <body>
     <header>
-        {{partial "navbar.html" .}}
+        {{partial "partials/navbar.html" .}}
         <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
     </header>
     <div class="meta-container">
@@ -27,7 +27,7 @@
         <div class="metadata" {{if $disable_toc}} style="margin: 0 auto; float: none; margin-bottom: 20px; padding: 10px;"{{end}}>
             {{if or (.Params.series) (.Params.date)}}
                 {{if .Params.series}}
-                    <div><span>Series:</span> <a href="/notes/{{.Params.series | urlize}}">{{.Params.series}}</a></div>
+                    <div><span>Series:</span> <a href="/notes/{{if in .File.Path "kvinta"}}kvinta/{{end}}{{.Params.series | urlize}}">{{.Params.series}}</a></div>
                 {{end}}
                 {{if .Params.date}}
                     <div style="padding-top: 3px;"><span>Last updated:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>

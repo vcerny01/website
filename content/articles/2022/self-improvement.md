@@ -29,7 +29,7 @@ I noticed that if I don't sleep 8 hours at least, it affects me personally quite
 
 - #### Waking Up Before 6:00
 
-I just don't want to be in a hurry every morning. But maybe I'll discover more benefits along the way.
+I just don't want to be in a hurry every morning. Maybe I'll discover more benefits along the way.
 
 - #### Meditation
 
