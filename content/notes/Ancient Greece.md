@@ -1,16 +1,16 @@
 ---
 layout: note
 source: research
-cover: "/images/main/cover-ancient-greece.png"
+cover: "/images/main/cover-ancient-greece.webp"
 title: Ancient Greece
-date: 2022-03-28
+date: 2022-04-02
 ---
 
 #Research
 
 ## Introduction
 
-History is in humanities what math is in STEM. And knowing ancient history is as foundational as knowing algebra. So from Decemeber of 2021 to March of 2022 I studied the ancient Greek history. I made some notes along the way.
+From Decemeber of 2021 to March of 2022 I studied the ancient Greek history. I made some notes along the way.
 
 My main objective was to get a solid overview of ancient Greek history. 
 
@@ -35,6 +35,8 @@ My main objective was to get a solid overview of ancient Greek history.
 	- [[Macedonian Conquest of Greece]]
 	- [[Macedonian Conquest of Persia]]
 	- [[Wars of the Diadochi]]
+	- [[Achean League]]
+	- [[Macedonian Wars]]
 - People
 	- For each historical period (see overviews), there's a list of related important characters
 

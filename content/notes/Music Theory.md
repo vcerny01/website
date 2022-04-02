@@ -1,11 +1,12 @@
 ---
 title: Music Theory
-cover: "/images/main/cover-music-theory.png"
+cover: "/images/main/cover-music-theory.webp"
 layout: note
 source: research
-date: 2022-03-16
+date: 2022-04-02
 ---
 
+#Research 
 These notes are in Czech.
 
 ##  Úvod

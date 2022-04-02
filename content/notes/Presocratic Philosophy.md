@@ -1,9 +1,11 @@
 ---
 source: research
-cover: "/images/main/cover-presocratic-philosophy.png"
+cover: "/images/main/cover-presocratic-philosophy.webp"
 title: Pre-socratic Philosophy
-date: 2022-03-10
+date: 2022-04-02
 ---
+
+#Research 
 Still in making
 ## Introduction
 ## Notes

@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-15
+date: 2022-04-02
 toc: true
 ---
 ## Geography
@@ -100,4 +100,6 @@ toc: true
 	- #### [[Corinthian War]]
 	- #### [[Boeatian War]]
 		- Hegemony of Sparta ends
-	- Lost independence in [[Macedonian Conquest of Greece]]
+	- Lost independence in the [[Macedonian Conquest of Greece]]
+		- Regained it after rebellion in ==322 BC==, but was very isolated (northern Peloponnese were still occupied by Macedonians)
+	- Sparta definitely lost its independence to Romans following the [[Achean League|Achean war]]

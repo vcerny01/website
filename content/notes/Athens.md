@@ -1,6 +1,6 @@
 ---
 series: Ancient Greece
-date: 2022-03-16
+date: 2022-04-02
 toc: true
 ---
  ## Geography
@@ -149,3 +149,7 @@ toc: true
 		- Athenians were defeated and Athens were forced to recognize indepedence of these colonies
 	- This war effectively ended Athenian attempts to rebuild their empire
 - Lost independence in [[Macedonian Conquest of Greece]]
+	- While [[Alexander the Great]] was preoccupied in Persia, Greek states rebelled against Macedon
+		- Antipater gathered a big enough army and destroyed Greeks in the battle of Megalopolis
+	- After Alexander's death, the Lamian War broke out, Antipater managed to destroy what was remaining of Greek independence
+		- Demosthenes commits suicide
