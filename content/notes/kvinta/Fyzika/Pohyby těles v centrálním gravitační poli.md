@@ -10,6 +10,8 @@ math: true
 
 ## Kosmické rychlosti
 ### První kosmická rychlost (kruhová)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FhWJ1noRj_w.png?alt=media&token=2b6713cc-5a3d-4048-8b93-2dc00cea18a7)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F1mNwZU1L_K.png?alt=media&token=5d9a1eaa-0a11-4ecf-8d0b-fe824691b4f7)
 - Těleso se kolem Země pohybuje po kružnici
 $$F_g=F_d \Rightarrow \frac{\varkappa m M_z}{(R_z+h)^2}=\frac{mv^2_k}{R_z+h}$$
 - $m$ – hmotnost tělesa
@@ -18,10 +20,7 @@ $$F_g=F_d \Rightarrow \frac{\varkappa m M_z}{(R_z+h)^2}=\frac{mv^2_k}{R_z+h}$$
 - $h$ – výška tělesa nad povrchem Země
 - $\varkappa$ – gravitační konstanta
 $$v_k=\sqrt{\frac{\varkappa M_z}{R_z+h}}$$
-- ![](http://fyzika.jreichl.com/data/M_gravitace_soubory/image114.png)
 - Velikost kruhové rychlosti závisí na výšce $h$, ale nezávisí na hmotnosti tělesa
----
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FhWJ1noRj_w.png?alt=media&token=2b6713cc-5a3d-4048-8b93-2dc00cea18a7)
 - 1 – malá počáteční rychlost $v_0$, pohyb po trajektorii tvaru *elipsy*
 - 2 – při větší počáteční rychlosti těleso opisuje celou *elipsu*
 - 3 – těleso opíše *kružnici* se středem v gravitačním středu Země
@@ -40,7 +39,7 @@ $$v_p=\sqrt{\frac{2 \varkappa M_z}{R_z + h}} = v_k \sqrt{2}$$
 
 ### Třetí kosmická rychlost
 - Při dosažení 3. kosmické rychlosti těleso opouští sluneční soustavu
-- $v=16,7 km \cdot s{-1}$
+- $v=16,7 km \cdot s^{-1}$
 
 ## Keplerovy zákony
 ### 1. Keplerův zákon
@@ -107,4 +106,4 @@ navigační
 	- Vypouštěny na dráhy k jinám tělesům sluneční soustavy i k jiným hvězdám
 ---
 - 12\. dubna 1961 – 1.  člověk ve vesmíru (J.A. Gagarin)
-- 21\.června 1969 – 1. lidé na Měsíci (N. Armstrong, E. Aldrin)
+- 21\.června 1969 – 1. lidé na Měsíci (N. Armstrong, B. Aldrin)
