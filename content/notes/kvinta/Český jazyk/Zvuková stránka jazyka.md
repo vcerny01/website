@@ -1,8 +1,6 @@
 ---
-title: Zvuková stránka jazyka
-layout: note
 series: Český jazyk
-date: 2022-03-16
+date: 2022-04-04
 ---
 
 - ## Jazykovědné disciplíny zabývající se zvukovou stránkou jazyka

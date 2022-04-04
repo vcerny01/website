@@ -1,7 +1,6 @@
 ---
-layout: note
 series: Výtvarná výchova
-date: 2022-03-18
+date: 2022-04-04
 title: Průřez historií architektury
 ---
 

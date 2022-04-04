@@ -34,7 +34,7 @@
         {{else}}
             {{range .Site.Pages}}
             {{if eq .Page.Params.series $.Page.Params.title}}
-                <li><a href="{{.Page.RelPermalink}}">{{.Page.Params.title}}</a></li>
+                <li><a href="{{.Page.RelPermalink}}">{{if.Page.Params.title}}{{.Page.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</a></li>
             {{end}}
             {{end}}
         {{end}}

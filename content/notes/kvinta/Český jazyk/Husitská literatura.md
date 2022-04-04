@@ -1,8 +1,6 @@
 ---
-title: Husitská literatura
-layout: note
 series: Český jazyk
-date: "2022-02-20"
+date: 2022-04-04
 ---
 
 		Get the milk gang

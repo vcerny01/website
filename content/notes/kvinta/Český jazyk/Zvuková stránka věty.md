@@ -1,8 +1,6 @@
 ---
-title: Zvuková stránka věty
 series: Český jazyk
-layout: note
-date: 2022-03-23
+date: 2022-04-04
 ---
 
 - Ve větách se nacházejí přízvuky

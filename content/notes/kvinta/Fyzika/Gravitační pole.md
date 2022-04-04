@@ -1,9 +1,7 @@
 ---
-title: Gravitační pole
-layout: note
 series: Fyzika
 math: true
-date: 2022-03-31
+date: 2022-04-04
 ---
 
 - Gravitační pole mají všechny objekty

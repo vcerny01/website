@@ -1,6 +1,5 @@
 ---
 layout: note
-title: Květ
 date: "2022-02-18"
 series: Biologie
 ---

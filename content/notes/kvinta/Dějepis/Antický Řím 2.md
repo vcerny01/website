@@ -1,8 +1,7 @@
 ---
-title: Antický Řím 2
 layout: note
 series: Dějepis
-date: 2022-03-28
+date: 2022-04-04
 ---
 
 ## Principát

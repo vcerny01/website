@@ -1,7 +1,5 @@
 ---
-title: Renesance
 series: Český jazyk
-layout: note
 date: 2022-04-04
 ---
 ## Humanismus a renesance v Čechách
