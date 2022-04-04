@@ -2,9 +2,70 @@
 title: Renesance
 series: Český jazyk
 layout: note
-date: 2022-03-24
+date: 2022-04-04
 ---
+## Humanismus a renesance v Čechách
+- Opožděný nástup – kvůli husitství – přelom 15. a 16. století (první stopy už za vlády Karla IV.). 
+- Umění – rozvoj především renesanční architektury (vláda Rudolfa II., poč. 17. stol.)
+- Rozvijí se psaná literatu
+	- **Latinská**
+		- Učená, jen pro úzký okruh čtenářů
+		- Autoři většinou katolíci, vlastenci, vzdělaní
+		- Návrat ke klasické latině
+		- Např. Bohuslav Hasištejnský z Lobkovic
+	- **Česká literatura**
+		- Významnější, přístupné většímu okruhu čtenářů
+### Viktor Kornel ze Všehrd
+- 1460–1520
+- Učený právník
+- Pocházel z měšťanské rodiny, povýšen do šlechtického stavu
+- Napsal významný spis _O práviech, o súdiech i o dskách země české knihy devatery_
+- Formuloval program českého humanismus
+	- Hlavní myšlenka byla, že čeština je dostatečně bohatý jazyk na to, aby se díla nemusela psát v latině
 
+### Jan Blahoslav
+- 1523–1571
+- Ligvista, překladatel a biskup jednoty bratrské
+- Přeložil Nový zákon do češtiny z originálu (řečtiny, místo latiny)
+	- Tento překlad byl pak použit i bibli Kralické jejiž vývoj inicioval
+- Působil v Ivančicích
+
+#### Bible kralická
+-   tzv. Šestidílka – 6 dílů, 1579 – 1594
+-   vytištěna v ivančicko-kralické tiskárně, která patřila jednotě bratrské
+-   jazyk: vzor dokonalého jazyka – složitý, tzv. bibličtina = literární jazyk až do pol. 19. století
+- Jednota bratrská =
+- Pod patronátem šlechtického rodu Mezeříčtích, hlavně Jan ze Žerotína
+
+#### Filipika proti misomusům
+- Polemika s těmi, kdo odsuzují vzdělání (v JB spor) – vzdělání nemá být samoúčelné, má být k prospěchu všech.
+- Misomusové = nepřátelé vzdělání
+
+#### Gramatika česká
+- Příručka pro žáky
+	- Skladba + slovník
+- Chce vymýtit slova cizího původu, snaha o krásu a čistotu jazyka.
+
+### Václav Hájek z Libočan
+- ?–1553
+- Rozporuplná osobnost
+	- Původně kališník, pak katolík
+	- Jako kněz zbaven služby (prý za krádeže)
+#### Kronika česká
+- 1541
+- Velmi populární kronika
+- Vychází ze starých kronik
+- Je psána velmi zábavnou formou, ale historicky nepřesná
+	- Historická beletrie – poutavé vyprávění
+	- Až v době NO bylo bádáním prokázáno, že je nevěrohodná.
+### Kryštof Harant z Polžic a Bezdružic
+- ?–1621 (popraven)
+	- Po stavovském povstání byl popraven na Staroměstském náměstí
+- Všestraně nadaný
+	- Hudebník, malíř, vypravěč
+
+#### Cesta z království českého
+- Celým názvem: *Putování aneb cesta z Království českého do Benátek a odtud po moři do země Svaté, země judské a dále do Egypta*
 ## Anglická renesance
 
 17.3.
