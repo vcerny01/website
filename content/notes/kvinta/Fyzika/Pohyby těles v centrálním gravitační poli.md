@@ -50,7 +50,7 @@ $$v_p=\sqrt{\frac{2 \varkappa M_z}{R_z + h}} = v_k \sqrt{2}$$
 	- Veličina vyjadřující do jaké míry se liší elipsa od kružnice
 	- $e = |OF| / a$
 		- $|OF|$ – vzdálenost ohniska od sředu elipsy
-		- $a = |OA| – délka poloosy elipsy
+		- $a = |OA|$– délka poloosy elipsy
 
 ### 2. Keplerův zákon
 - > Obsahy ploch opsaných průvodičem planety za jednotku času jsou konstantní.
@@ -106,4 +106,4 @@ navigační
 	- Vypouštěny na dráhy k jinám tělesům sluneční soustavy i k jiným hvězdám
 ---
 - 12\. dubna 1961 – 1.  člověk ve vesmíru (J.A. Gagarin)
-- 21\.června 1969 – 1. lidé na Měsíci (N. Armstrong, B. Aldrin)
+- 21\. června 1969 – 1. lidé na Měsíci (N. Armstrong, B. Aldrin)

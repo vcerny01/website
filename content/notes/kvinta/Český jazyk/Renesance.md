@@ -1,6 +1,6 @@
 ---
 series: Český jazyk
-date: 2022-04-04
+date: 2022-04-05
 ---
 ## Humanismus a renesance v Čechách
 - Opožděný nástup – kvůli husitství – přelom 15. a 16. století (první stopy už za vlády Karla IV.). 
@@ -13,6 +13,9 @@ date: 2022-04-04
 		- Např. Bohuslav Hasištejnský z Lobkovic
 	- **Česká literatura**
 		- Významnější, přístupné většímu okruhu čtenářů
+- **Veleslavínská čeština**
+	- Ideál češtiny 16. století podle Daniela Adama Veleslavína
+
 ### Viktor Kornel ze Všehrd
 - 1460–1520
 - Učený právník

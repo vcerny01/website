@@ -1,9 +1,11 @@
 ---
-layout: note
-title: Genetika
-date: 2022-04-01
+date: 2022-04-05
 series: Biologie
 ---
+
+Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
+- http://www.gymh.cz/vyuka/biologie/prehledy/9sem_genetika1.pdf
+- http://www.gymh.cz/vyuka/biologie/prehledy/9sem_genetika2.pdf
 
 ## Úvod
 - Jako vědecká disciplína ustanovena brněnským mnichem Gregorem Mendelem
@@ -79,6 +81,61 @@ series: Biologie
 		- => Dvě aminokyseliny se spojí (peptidická vazba)
 	- 3. Posune se o další triplet, první molekula tRNA se uvolní (bez aminokyseliny), "druhá" tRNA zůstává v ribozomu a vedle ní nasedá další další tRNA s aminokyselinou
 	- 4. Proces se opakuje, dokud se na mRNA neobjeví jeden z terminačních kodonů
-		- => peptidický řetězec se ukončí a uvolní se molekula bílkoviny
+		- => peptidický řetězec se ukoˇnčí a uvolní se molekula bílkoviny
 - (Translace probíhá průměrnou rychlostí 15 kodonů za sekundu, tzn. průměrná molekula bílkoviny (obsahující cca 300 aminokyselin) vznikne přibližně za 2tr0 sekund)
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Schematischer_Ablauf_der_RNA-Translation.png?20210114213455)
+
+## Buněčná genetika
+(eukaryotická buňka)
+- **Chromozom**
+	- = jedna molekula DNA (v jádře)
+- **Karotyp**
+	- = soubor všech chromozomů jádra
+	- **Haploidní sada** (*n*)
+		- Každý chromozom je v jádře přítomen jen jednou, u živočichů se vyskytuje jen v gametách (n = 23)
+	- **Diploidní sada** (*2n*)
+		- Vzniká splynutím dvou haploidních jader
+		- Každý chromozom je obsažen ve dvou "kopiích"
+- **Genom**
+	- = soubor všech genů buňky
+- **Genotyp**
+	- = soubor všech genů v jádře
+- **Genofond**
+	- = soubor všech genů ve sledované populaci
+	- Např. Genofond smrků na Šumavě, genofond lidstva na Zemi atd.
+
+### Buněčné dělení
+- ![](https://i.ytimg.com/vi/bRcjB11hDCU/hqdefault.jpg)
+#### Mitóza
+- = jaderné dělení při kterém z jednoho standardního diploidního jádra vznikou dvě diploidní jádra s totožnou genetickou informací
+- Podmínkou mitózy je *předcházející replikace* každého chromozomu
+
+#### Meióza (redukční dělení)
+- Při meióze z jedné diploidní buňky vznikají 4 haploidní
+- Uplatňuje se především při tvorbě gamět
+- Dva typy dělení:
+	- 1. **Meióza I**
+		- Tzv. redukční (heterotypické) dělení
+		- Dochází k redukci počtu chromozomů na polovinu, z rodičovské buňky vznikají dvě dceřiné haploidní
+	- 2. **Meióza II**
+		- Tzv. ekvační (homeotypické dělení)
+		- Sesterské chromatidy jsou rozděleny do dvou dceřiných buněk
+- Důsledkem meiózy je, že vzniklé buňky se liší kombinací mateřských a otcovských chromozomů
+### Genetické určení pohlaví
+(!
+Retardace listu a vzdělávacího systému obecně způsobila, že zde probíráme pouze rozmnožováním se organisů s odděleným pohlavím (gonochristů) 
+EDIT: V originále je vše a dává to smysl, do školy ptřebujeme ale jen tak polovinu nekompletních informací, protože *that's how we roll*.
+!)
+- Jádro buňky člověka
+	- 22 párů autozomů
+	- 1 pár gonozomů
+		- Gonozom X
+			- Velký (nejdelší chromozom z celé sady, nese velké množství genů)
+		- Gonozom Y
+			- Malý (nese málo genů)
+
+#### Savčí typ určení pohlaví
+- Kombinace gonozomů XX určuje samice a XY určuje samce
+	- Kombinace YY nemůže vzniknout
+- Každé pohlaví vzniká s pravděpodobností 50%
+- 
