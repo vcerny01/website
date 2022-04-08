@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
+{{$title := ""}}
+{{if .Params.title}}{{$title = .Params.title}}{{else}}{{$title = .File.BaseFileName}}{{end}}
 
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
     <link rel='stylesheet' type='text/css' href="/css/note.css">
     {{partial "favicon.html" .}}
-    <title>{{.Params.title}}</title>
+    <title>{{$title}}</title>
     {{if .Params.math}}
         {{partial "math.html" .}}
     {{end}}
-</head>
+</head> 
 
 {{$disable_toc := .Params.disable_toc}}
 {{if .Params.source}}
@@ -20,7 +22,7 @@
 <body>
     <header>
         {{partial "partials/navbar.html" .}}
-        <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
+        <h1>{{$title}}</h1>
     </header>
     <div class="meta-container">
         <!-- Series, date metadata -->
