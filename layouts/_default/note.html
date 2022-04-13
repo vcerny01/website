@@ -59,6 +59,13 @@
             {{$content = (replace $content . (printf "%s%s%s" "<mark>" $text "</mark>"))}}
         {{end}}
 
+        {{/* MAKE IMAGE WIKILINKS */}}
+        {{$images := findRE "\\!\\[\\[(.*?)\\]\\]" .Content}}
+        {{range $images}}
+            {{$imageFileName := (replace (replace (replace . "[[" "") "]]" "") "!" "")}}
+            {{$content = replace $content . (printf "%s%s%s" "<img src=\"/notes/assets/" $imageFileName "\">")}}
+        {{end}}
+
         {{/* MAKE WIKILINKS */}}
         {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
         {{range $wikilinks}}

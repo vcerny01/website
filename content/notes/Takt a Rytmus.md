@@ -1,5 +1,5 @@
 ---
-date: 2022-03-16
+date: 2022-04-11
 math: true
 series: Music Theory
 ---
@@ -49,7 +49,8 @@ series: Music Theory
     - Čtyřčtvrťový takt se nazývá takt celý podle zyku  
       - Značí se písmenem _C_  
       - Rychlejší skladby se notují v taktu _alla breve_  
-        - Značíme ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Music-cuttime.svg/1200px-Music-cuttime.svg.png)  
+        - Značíme:
+	        - ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Examples_of_cut-time_and_2-2_notation.jpg)
     - Ojediněle se ve skladbách obejví i takty jednoduché  
     - Takty se mohou ve skladbě měnit  
     - Předchozí takt se ručí až uvedením dalšího  
