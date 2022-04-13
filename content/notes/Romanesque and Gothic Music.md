@@ -56,13 +56,13 @@ date: 2022-04-13
 	- Rozdíl založený pouze na intervalovém poměru mezi oběma hlasy
 	- 1. **organum přísné**
 		- Mezi oběma hlasy stejný odstup, buď čisté kvinty (*organum in diapente*) nebo čisté kvarty (*in diatessaron*)
-		- ![[Pasted image 20220412150452.webp]]
+			- ![[Pasted image 20220413225313.webp]]
 			- (*Musica Enchirandis*)
 	- 2. **organum volné**
 		- Mluv se o něm taky jako o organu straném (laterálním)
 		- Vyvinulo se z přísného organa jako kompoziční metoda pro vytvoření protihlasu i u melodií, kde by paralelním pohybem jinak vznikli nepřípustné intervaly
 			- Nicméně je možné, že volné organum je dokonce původnější (podobnost bourdonově technice, heterofonie z antiky)
-		- ![[Pasted image 20220412150451.webp]]
+		- ![[Pasted image 20220413225340.webp]]
 			- (*Musica Enchirandis*)
 		- [Ukázka](https://youtu.be/E6CVxtPcW78)
 
@@ -78,7 +78,7 @@ date: 2022-04-13
  - Křížení hlasů už je mnohem obvyklejší
  - Během 11. století obecně docházelo k podstatnějšímu uvolnění závislosti na *cantu firmu* (dané chorální melodii)
 	 - Vznikají vyšší formy orgána historicky vázaná na kulturní okruh kláštera Saint Martial blíže Limoges v 1. polovině 12. století
-	 - ![[Pasted image 20220412150453.webp]]
+	 - ![[Pasted image 20220413225418.webp]]
 	 - [Ukázka 1](https://youtu.be/ktF3vi74d8o), [ukázka 2](https://youtu.be/hTvMQgfygDY)
 
 ### Ars antiqua a notredamská škola
@@ -92,7 +92,7 @@ date: 2022-04-13
 		- Opatřil Leóninova orgána třetím nebo i čtvrtým hlasem a spoutal volnější melodiku do rytmicky určitějších obrysů
 		- Kvintakord ještě záměrně nepoužívá
 		- Můžeme už mluvit třeba o těžkých a lehkých dobách 
-	- ![[Pasted image 20220412153107.webp]]
+	- ![[Pasted image 20220413225452.webp]]
 		- (Pérotin, *Magnus Liber*)
 
 Vedle organa (resp. discantu) se vytvořili i další dva typy organové skladby
@@ -102,7 +102,7 @@ Vedle organa (resp. discantu) se vytvořili i další dva typy organové skladby
 - Vícehlasý conductus je uspořádaný tak, že všechny jeho hlasy postpují ve zhruba stejném rytmu a přednášejí tudíž tyté slabiky textů
 - Jeho podkladem už není melodie převzatá z chorálu, nýbrž melodie vytvořená autorem samým
 	- Metoda skladby se tím však nemění, stále vzniká hlas po hlase
-- ![[Pasted image 20220412154627.webp]]
+- ![[Pasted image 20220413225627.webp]]
 	- (Conductus *Roma gaudens*)
 
 #### *Motetus*
@@ -118,16 +118,16 @@ Vedle organa (resp. discantu) se vytvořili i další dva typy organové skladby
 - Většinou tanečního charakteru
 	- Takže je více rytmická a obecně blíže hudebnímu chápání dnešní doby
 - Užívá nejčastěji techniky vícehlasého conductu
-- ![[Pasted image 20220413121843.webp]]
+- ![[Pasted image 20220413225657.webp]]
 	- (Rondeau *Amour et ma dame aussi*)
 #### Jednohlasá světská hudba
 - I sem už proniká chápání tonality blízké naší době
-- ![[Pasted image 20220413123009.webp]]
+- ![[Pasted image 20220413225745.webp]]
 	- (začátek *Man mei longe him lives wene*)
 #### Anglický vícehlas
 - Vzhledem k úzkému propojení francouzské a anglické kultury, je anglická hudba už od 12. století jistým průkopníkem nových forem
 	- Terciové souzvuky v dvojhlase, vedení hlasů protipohybem atd.
-- ![[Pasted image 20220413123633.webp]]
+- ![[Pasted image 20220413225802.webp]]
 	- (*Jesu Cristes milde moder*)
 	- Jeden z prvních dokladů tzv. *gymelu*
 		- V tom převládají tercie a nemusí jít vždy o tercie paralelní
@@ -152,4 +152,3 @@ Vedle organa (resp. discantu) se vytvořili i další dva typy organové skladby
 	- Reprodukční praxe při které použijeme půltón, tam kde měl být celý tón a naopak
 		- Příležitostné snížení a zvýšení tónu v melodii
 		- Zárodky této techniky jsou již v gregoriánském chorálu, kde se užívala k odstranění nepřípustného melodického tritonu
-		- 
