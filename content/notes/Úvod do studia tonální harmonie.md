@@ -16,8 +16,11 @@ title: Úvod do studia tonální harmonie
 
 ## Notes
 Kniha je celkově na dvě části, část historickou a část systematickou.
+
+### Historická část
 - [[Ars Antiqua]]
 - [[Ars Nova]]
 - [[Renaissance Music]]
 
+### Systematická část
 - [[Introduction to Harmony]]

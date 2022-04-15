@@ -1,5 +1,6 @@
 ---
-date: 2022-04-14
+date: 2022-04-15
+series: Úvod do studia tonální harmonie
 ---
 (hudba doby románské a gotické)
 

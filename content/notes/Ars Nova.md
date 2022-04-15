@@ -1,5 +1,6 @@
 ---
 date: 2022-04-15
+series: Úvod do studia tonální harmonie
 ---
 (hudba na přelomu doby gotické a renesanční)
 
