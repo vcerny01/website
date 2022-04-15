@@ -1,7 +1,7 @@
 ---
 cover: "/images/misc/2022/hradecky-harmonie.webp"
 source: books
-date: 2022-04-13
+date: 2022-04-15
 title: Úvod do studia tonální harmonie
 ---
 #Book 
@@ -16,5 +16,8 @@ title: Úvod do studia tonální harmonie
 
 ## Notes
 Kniha je celkově na dvě části, část historickou a část systematickou.
-- [[Romanesque and Gothic Music]]
-- [[Late Gothic Music]]
+- [[Ars Antiqua]]
+- [[Ars Nova]]
+- [[Renaissance Music]]
+
+- [[Introduction to Harmony]]

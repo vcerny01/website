@@ -1,5 +1,5 @@
 ---
-date: 2022-04-13
+date: 2022-04-14
 ---
 (hudba doby románské a gotické)
 
@@ -81,7 +81,7 @@ date: 2022-04-13
 	 - ![[Pasted image 20220413225418.webp]]
 	 - [Ukázka 1](https://youtu.be/ktF3vi74d8o), [ukázka 2](https://youtu.be/hTvMQgfygDY)
 
-### Ars antiqua a notredamská škola
+### Notredamská škola
 - Proud hudební tvorby na kůru pařížské katedrály Notre Dame ve 2. polovině 12. a 13. století
 #### Leónin a Pérotin
 - Dva hlavní představitelé
@@ -117,6 +117,7 @@ Vedle organa (resp. discantu) se vytvořili i další dva typy organové skladby
 #### Vícehlasá kantiléna
 - Většinou tanečního charakteru
 	- Takže je více rytmická a obecně blíže hudebnímu chápání dnešní doby
+	- Např. *virelai*, *chanson*, *balladée*
 - Užívá nejčastěji techniky vícehlasého conductu
 - ![[Pasted image 20220413225657.webp]]
 	- (Rondeau *Amour et ma dame aussi*)

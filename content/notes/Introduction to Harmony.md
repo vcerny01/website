@@ -1,0 +1,27 @@
+---
+date: 2022-04-15
+---
+- **Harmonický jev**
+	- Není ani čistě fyziologická ani čistě akustická kvalita
+	- Je to určitá bezprostřední vnitřní zkušenost
+		- Každý pro ní může mít jiné nadání
+- **Harmonická funkce**
+	- Harmonický jev v kontextu harmonických vztahů
+	- Např. určitý interval má jiné harmonické vlastnosti v různých tóninách
+- **Harmonická jednotka**
+	- Pro práci v oboru harmonie je třeba najít nejmenší podnět, co v nás vyvolává harmonický jev
+		- Tím je *trojzvuk* (nikoliv dvojzvuk)
+		- Nejjednoduší trojzvuk je durový kvintakord
+			- K tomuto postulátu se dá dojít jak matematicky (tóny jejichž číselné vyjádření je navzájem v co nejjednoduším poměru), nebo akusticky (v řadě alikvótních tónů)
+			- V něm také budeme hledat nejmenší harmonickou jednotku
+	- Rozdíl mezi *konsonancí* a *disonancí*
+		- Psychologie vidí příčinu konsonance v tom, že vnímající subjekt bez potíží spojuje složitý akustický podnět (vícezvuk) v prostou jednotu, mezitím co u disonance rozpory dvou akustických jevů při zpracovávání setrvávají
+	- Z hudební praxe vyplívá, že konsonantní trojzvuky (= kvintakord s oběma obraty) jsou pouze dva: trojzvuk durový (tvrdý) a trojzvuk mollový (měkký)
+		-  Durový trojzvuk může být libozvučnější, ale ne konsonantnější než mollový
+		- Obě jednotky jsou navzájem nepřevoditelné (intervaly jsou konsantní, protože náleží konsonantnímu trojzvuku, nikoliv naopak)
+	- => Základní harmonická jednotka je dvojí: durový a mollový trojzvuk
+		- Systém, který na tomto základě sestrojíme bude tudíž dualistický
+			- Všechny koncepty v harmonie budeme muset vztahovat k oběma těmto jednotkám
+- Harmonická funkce harmonické jednotky
+	- Tónina je harmonickým jevem nejvyššího řádu, takže když vyjádříme pomocí harmonické jednotky, vystihneme tím i harmonickou funkci harmonické jednotky
+	- 
