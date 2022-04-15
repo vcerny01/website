@@ -22,8 +22,19 @@
         <ul id="listToFilter" class="list-image">
         {{range where .Site.Pages ".Params.source" (lower .Params.title)}}
             {{if .Params.cover}}
+            {{if eq .Params.source "books"}}
             <li class="source-item">
                 <a href="{{.Page.RelPermalink}}"><img alt="{{.Params.title}}" src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;"><span style="display: none;">{{.Params.title}}</span></a></li>
+            {{else}}
+            <li class="source-item">
+                <a href="{{.Page.RelPermalink}}">
+                    <div class="img-container">
+                    <img alt="{{.Params.title}}" src="{{.Params.cover}}" style="max-width: 100%; max-height: 100%;">
+                    </div>
+                <div class="img-text">{{.Params.title}}</div>
+                </a>
+            </li>
+            {{end}}
             {{end}}
             {{if not .Params.cover}}
             <li class="source-item">

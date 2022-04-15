@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 
 #filter {
 	display: block;
@@ -38,22 +37,60 @@ li {
 
 .source-item {
     margin: 0.5rem;
-    width: fit-content;
-    max-width: 10rem;
+    width: calc(11rem + 10px);
     list-style: none;
     padding: 10px;
     text-align: center;
     border: 1px var(--terciary-bg-color) solid;
     dislay: block;
+    max-height: 18rem;
+}
+
+.source-item a:hover {
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 800px){
     .source-item {
         width: 30vw;
     }
+    .img-text {
+        font-size: small;
+    }
+}
+
+.img-container {
+    max-width: auto;
+    height: 8rem;
+}
+.img-text {
+    padding: 5px;
+    width: 100%;
+    color: white;
+    min-height: 3rem;
+    margin: 0;
+    width: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    font-weight: 700;
+    font-family: "Noto Serif", serif;
+}
+
+.img-container img {
+    border: none;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    object-fit: cover;
 }
 
 .source-item img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
     padding: 0;
     margin: 0;
 }
