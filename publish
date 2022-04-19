@@ -11,6 +11,7 @@ case $moveon in
         exit 0
         ;;
      "")
+        python makeBacklinks.py content/notes/ data
         git add . &&
         git status &&
         git commit -m $1 &&

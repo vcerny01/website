@@ -1,15 +1,22 @@
 {{$index_name := (printf "%s%s" (replace .File.Dir "notes/" "") .File.BaseFileName)}}
 {{$all_backlinks := getJSON "/data/backlinks.json"}}
 {{$backlinks := (index $all_backlinks $index_name)}}
-{{if $backlinks}}
-{{if not (eq (len $backlinks) 0)}}
-<div><span>Mentioned in: </span>
-    <ul style="padding-left: 1rem;">
+
+{{$folder_link := (replace .File.Dir "notes/" "")}}
+{{$folder_name := trim (delimit (last 2 (split $folder_link "/")) "") " "}}
+
+{{if or $backlinks $folder_link}}
+<div class="backlinks"><span>Mentioned in: </span>
+    <ul>
+    {{if not (eq $folder_link "")}}
+    <li><a href="/notes/{{urlize $folder_link}}">{{$folder_name}}</a></li>
+    {{end}}
+{{if or (not (eq (len $backlinks) 0))}}
 {{range $backlinks}}
     {{$note_name := delimit (last 1 (split . "/")) ""}}
-    <li style="list-style-type: none; "><a style="color: #A7A8CD;" href="/notes/{{urlize $note_name}}">{{$note_name}}</a></li>
+    <li><a href="/notes/{{urlize $note_name}}">{{$note_name}}</a></li>
+{{end}}
 {{end}}
 </ul>
 </div>
-{{end}}
 {{end}}

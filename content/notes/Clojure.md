@@ -1,0 +1,8 @@
+---
+---
+-   Programming language created by Rich Hickey
+-   Clojure is a [[Lisp]] dialect
+-   Clojure compiler is an executable JAR file, _clojure.jar_, which takes code written in the Clojure language and compiles it to [[Java]] Virtual Machine (JVM) bytecode
+-   Clojure is a hosted language
+    -   Its programs are executed within a JVM and rely on the JVM for core features
+    -   Clojure also targets JavaScript and Microsoft Common Language Runtime (CLR)

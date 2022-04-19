@@ -107,6 +107,9 @@
     "T\u00f3nov\u00e9 v\u00fd\u0161ky a soustavy lad\u011bn\u00ed": [
         "ABC hudebn\u00ed nauky"
     ],
+    "Clojure Core Functions": [
+        "Clojure for the Brave and True"
+    ],
     "Minoan Civilization": [
         "Mycenaean Civilization",
         "Ancient Greece"
@@ -132,6 +135,9 @@
         "Atomic Habits"
     ],
     "Research": [],
+    "Clojure Macros": [
+        "Clojure for the Brave and True"
+    ],
     "Cleisthenes": [
         "Cleomenes",
         "Archaic Greece",
@@ -224,6 +230,9 @@
         "Hellenistic Greece"
     ],
     "Health & Productivity": [],
+    "Clojure Development": [
+        "Clojure for the Brave and True"
+    ],
     "Books": [],
     "Notopis": [
         "ABC hudebn\u00ed nauky"
@@ -245,6 +254,9 @@
     "Design Philosophy of Steve Jobs": [
         "Steve Jobs (book)"
     ],
+    "Clojure Syntax": [
+        "Clojure for the Brave and True"
+    ],
     "Alcibiades": [
         "Classical Greece",
         "Peloponnesian War"
@@ -254,6 +266,9 @@
     ],
     "notes/school": [],
     "_index": [],
+    "Functional Programming in Clojure": [
+        "Clojure for the Brave and True"
+    ],
     "The Power Law of Venture Capital": [
         "Zero to One"
     ],
@@ -294,6 +309,13 @@
     "Akordy": [
         "ABC hudebn\u00ed nauky",
         "Introduction to Harmony"
+    ],
+    "Clojure": [
+        "Clojure Core Functions",
+        "Clojure Development",
+        "Functional Programming in Clojure",
+        "Clojure for the Brave and True",
+        "Project Organization in Clojure"
     ],
     "Persian Wars": [
         "Macedonian Conquest of Greece",
@@ -372,6 +394,7 @@
     "Intervaly": [
         "ABC hudebn\u00ed nauky"
     ],
+    "Clojure for the Brave and True": [],
     "Peloponnesian War": [
         "Lysander",
         "Pericles",
@@ -387,6 +410,9 @@
         "Athens"
     ],
     "Sand Talk": [],
+    "Project Organization in Clojure": [
+        "Clojure for the Brave and True"
+    ],
     "Contrarian Thinking": [
         "Zero to One"
     ],
