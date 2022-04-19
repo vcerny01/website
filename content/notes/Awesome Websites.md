@@ -1,7 +1,8 @@
 ---
-title: Cool Websites
+title: Awesome Websites
 layout: article
 disable_toc: true
+date: 2022-04-17
 ---
 
 <style>
@@ -15,6 +16,10 @@ disable_toc: true
 
 
 (continually updated post)
+
+*Added on April 17th, 2022*
+- Useful book recommendation
+	- https://www.kevinrooke.com/book-recommendations
 
 *Added on March 7th, 2022*
 - Summer vibe

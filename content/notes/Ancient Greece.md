@@ -1,13 +1,12 @@
 ---
 layout: note
 source: research
-cover: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Discurso_funebre_pericles.PNG"
+cover: "/images/main/cover-ancient-greece.webp"
 title: Ancient Greece
-date: 2022-04-15
+date: 2022-04-17
 ---
 
 #Research
-"/images/main/cover-ancient-greece.webp"
 ## Introduction
 
 From Decemeber of 2021 to March of 2022 I studied the ancient Greek history. I made some notes along the way.

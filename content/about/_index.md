@@ -5,7 +5,7 @@ title: About
 ---
 
 ## About me
-<img src="/images/main/me.png" style="float:right; max-width: 140px">
+<img src="/images/main/me.jpg" style="float:right; border-radius: 100%; max-width: 140px">
 
 I'm a high school student interested in technology, music, history and everything contrarian.
 
