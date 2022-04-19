@@ -1,6 +1,7 @@
 {{$index_name := (printf "%s%s" (replace .File.Dir "notes/" "") .File.BaseFileName)}}
 {{$all_backlinks := getJSON "/data/backlinks.json"}}
 {{$backlinks := (index $all_backlinks $index_name)}}
+{{if $backlinks}}
 {{if not (eq (len $backlinks) 0)}}
 <div><span>Mentioned in: </span>
     <ul style="padding-left: 1rem;">
@@ -10,4 +11,5 @@
 {{end}}
 </ul>
 </div>
+{{end}}
 {{end}}
