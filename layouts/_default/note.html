@@ -4,6 +4,8 @@
 {{if .Params.title}}{{$title = .Params.title}}{{else}}{{$title = .File.BaseFileName}}{{end}}
 {{$date := .Lastmod.Format "Jan 2, 2006"}}
 
+
+
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
@@ -27,14 +29,8 @@
     <div class="meta-container">
         <!-- Series, date metadata -->
         <div class="metadata" {{if $disable_toc}} style="margin: 0 auto; float: none; margin-bottom: 20px; padding: 10px;"{{end}}>
-            {{if or (.Params.series) (.Params.date)}}
-                {{if .Params.series}}
-                    <div><span>Series:</span> <a href="/notes/{{if in .File.Path "kvinta"}}kvinta/{{end}}{{.Params.series | urlize}}">{{.Params.series}}</a></div>
-                {{end}}
-                {{if .Params.date}}
-                    <div style="padding-top: 3px;"><span>Last updated:</span> {{$date}}</div>
-                {{end}}
-            {{end}}
+            <div style="padding-top: 3px;"><span>Last updated:</span> {{$date}}</div>
+            {{partial "partials/note-backlinks.html" .}}
         </div>
             <!-- Table of Contents -->
             {{if not $disable_toc}}
