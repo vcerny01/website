@@ -6,7 +6,7 @@
 {{$folder_name := trim (delimit (last 2 (split $folder_link "/")) "") " "}}
 
 {{if or $backlinks $folder_link}}
-<div class="backlinks"><span>Mentioned in: </span>
+<div class="backlinks"><span>Mentioned in:&#32;</span>
     <ul>
     {{if not (eq $folder_link "")}}
     <li><a href="/notes/{{urlize $folder_link}}">{{$folder_name}}</a></li>
