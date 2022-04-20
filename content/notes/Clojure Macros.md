@@ -1,3 +1,6 @@
+---
+date: 2022-04-20
+---
 ## Clojure's Evaluation Model
 - Two-phase system
 	- Reads textual code, producing data structures

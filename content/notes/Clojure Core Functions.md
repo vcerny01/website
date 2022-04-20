@@ -1,4 +1,5 @@
 ---
+date: 2022-04-20
 ---
 Some functions from [[Clojure]] `clojure.core`
 

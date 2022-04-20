@@ -1,4 +1,6 @@
 ---
+date: 2022-04-20
+disable_toc: true
 ---
 -   [Leningen](https://leiningen.org/)
     -   Mostly used for managing [[Clojure]] projects today

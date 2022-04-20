@@ -1,3 +1,6 @@
+---
+date: 2022-04-20
+---
 ## Pure functions
 -   A function is pure if it:
 	-   Always return the same result if given the same arguments

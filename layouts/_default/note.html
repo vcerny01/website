@@ -2,7 +2,7 @@
 <html lang="{{.Site.LanguageCode}}">
 {{$title := ""}}
 {{if .Params.title}}{{$title = .Params.title}}{{else}}{{$title = .File.BaseFileName}}{{end}}
-{{$date := .Lastmod.Format "Jan 2, 2006"}}
+{{$date := .Params.date.Format "Jan 2, 2006"}}
 
 
 

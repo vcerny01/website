@@ -1,3 +1,6 @@
+---
+date: 2022-04-20
+---
 ## Namespaces
 - [[Clojure]] uses *namespaces* to organize code
 	- Namespaces contain maps between human friendly symbolds and references to *vars*

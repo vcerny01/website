@@ -193,6 +193,9 @@
         "Ancient Greece",
         "Peloponnesian War"
     ],
+    "Philosophy of BAP": [
+        "Bronze Age Mindset"
+    ],
     "Wim Hof Method": [
         "What Doesn't Kill Us"
     ],
@@ -306,6 +309,9 @@
     "P\u0159ednesov\u00e1 a jin\u00e1 ozna\u010den\u00ed": [
         "ABC hudebn\u00ed nauky"
     ],
+    "Christianity of Tolstoy": [
+        "The Gospel in Brief"
+    ],
     "Akordy": [
         "ABC hudebn\u00ed nauky",
         "Introduction to Harmony"
@@ -354,6 +360,7 @@
         "Ancient Greece",
         "Hellenistic Greece"
     ],
+    "The Gospel in Brief": [],
     "Athens": [
         "Pericles",
         "Macedonian Conquest of Greece",
@@ -384,6 +391,9 @@
     ],
     "Seven Questions Every Business Must Answer": [
         "Zero to One"
+    ],
+    "Bronze Age Mindset": [
+        "Philosophy of BAP"
     ],
     "Globalization Means Substitution, Technology Means Complementarity": [
         "Zero to One"
@@ -416,6 +426,9 @@
     "Contrarian Thinking": [
         "Zero to One"
     ],
+    "Basic Concepts in Harmony": [
+        "\u00davod do studia ton\u00e1ln\u00ed harmonie"
+    ],
     "Steve Jobs on Managment and Presentations": [
         "Steve Jobs (book)"
     ],
@@ -423,6 +436,7 @@
         "What Doesn't Kill Us"
     ],
     "Introduction to Harmony": [
-        "\u00davod do studia ton\u00e1ln\u00ed harmonie"
+        "\u00davod do studia ton\u00e1ln\u00ed harmonie",
+        "Basic Concepts in Harmony"
     ]
 }

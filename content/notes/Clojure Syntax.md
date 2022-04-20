@@ -1,3 +1,6 @@
+---
+date: 2022-04-20
+---
 Clojure's syntax, like of all Lisps, is very simple.
 ## Forms
 -   All Clojure code is written in a uniform structure

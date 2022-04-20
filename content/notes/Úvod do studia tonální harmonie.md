@@ -24,3 +24,4 @@ Kniha je celkově na dvě části, část historickou a část systematickou.
 
 ### Systematická část
 - [[Introduction to Harmony]]
+- [[Basic Concepts in Harmony]]
