@@ -2,7 +2,6 @@
 title: Awesome Websites
 layout: article
 disable_toc: true
-date: 2022-04-17
 ---
 
 <style>

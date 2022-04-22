@@ -28,7 +28,7 @@
                 </li>
             </ul>
         </div>
-        <div class="column">
+<!--         <div class="column">
             <h3>Recent posts</h3>
             <ul>
                 {{range (first 3 (where .Site.RegularPages ".Page.Params.layout" "not in" (slice "note" "source")).ByDate.Reverse)}}
@@ -36,7 +36,7 @@
                 {{end}}
             </ul>
             <p style="font-size: 0.75em"><a href="/about/updates-on-notes">Why aren't new notes included here?</a></p>
-        </div>
+        </div> -->
     </div>
     {{partial "analytics.html" .}}
 </body>

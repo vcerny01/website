@@ -75,10 +75,8 @@
         {{end}}
 
         {{/* REMOVE SOME TAGS */}}
-        {{if .Params.source}}
-            {{range (split "#Book,#Research" ",")}}
+        {{range (split "#Book,#Research,#Article" ",")}}
                 {{$content = replace $content . ""}}
-            {{end}}
         {{end}}
 
         {{$content | safeHTML}}
