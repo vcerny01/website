@@ -58,6 +58,9 @@
     "Four Ways to See the Future": [
         "Zero to One"
     ],
+    "How to Choose a Charity to Donate to": [
+        "Doing Good Better"
+    ],
     "Doing Good Better": [
         "Effective Altruism"
     ],
@@ -227,6 +230,7 @@
         "Hellenistic Greece"
     ],
     "Classical Greece": [
+        "Introduction to Ancient Greece",
         "Sparta",
         "Ancient Greece",
         "Athens"
@@ -279,7 +283,6 @@
     "Spend Time Alone": [
         "Digital Minimalism"
     ],
-    "notes/school": [],
     "_index": [],
     "Functional Programming in Clojure": [
         "Clojure for the Brave and True"
@@ -350,6 +353,7 @@
         "Athens"
     ],
     "Archaic Greece": [
+        "Introduction to Ancient Greece",
         "Sparta",
         "Ancient Greece",
         "Athens"
@@ -363,6 +367,7 @@
         "Athens"
     ],
     "Hellenistic Greece": [
+        "Introduction to Ancient Greece",
         "Ancient Greece"
     ],
     "Steve Jobs (book)": [],
@@ -392,6 +397,9 @@
         "Archaic Greece",
         "Themistocles",
         "Draco"
+    ],
+    "What Is Effective Altruism": [
+        "Doing Good Better"
     ],
     "Sales": [
         "Zero to One"

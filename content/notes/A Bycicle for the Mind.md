@@ -1,3 +1,6 @@
+---
+date: 2022-04-22
+---
 #Article 
 ## Metadata
 -   **Author**: [[Alan Kay]] (interview from Electronic Learning, 1994)

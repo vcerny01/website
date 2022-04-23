@@ -30,16 +30,16 @@ Behind the big stories there are a few subtle things useful to know.
 - ## Timeline
 	- Bronze age
 		- Based mostly on archeological research
-		- The [Minoan civilization](Minoan%20Civilization.md)
+		- The [[Minoan civilization]]
 			- ~1800 – 1500 BC
-		- The [Mycenaean civilization](Mycenaean%20Civilization.md)
+		- The [[Mycenaean civilization]]
 			- ~1500 – 1100 BC
 	- Bronze age collapse
-		- [Greek dark ages](Greek%20Dark%20Ages.md)
+		- [[Greek dark ages]]
 			- ~1100 – 800 BC
-	- [Archaic Greece](Archaic%20Greece.md)
+	- [[Archaic Greece]]
 		- ~800 – 500 BC
-	- [Classical Greece](Classical%20Greece.md)
+	- [[Classical Greece]]
 		- 508 BC – 323 BC
-	- [Hellenistic Greece]()
+	- [[Hellenistic Greece]]
 		- 323 – 146 BC

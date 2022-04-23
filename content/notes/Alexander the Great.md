@@ -13,4 +13,3 @@ date: 2022-03-28
 ## Rule
 - Only 18, he led army that won in the decisive [[Macedonian Conquest of Greece#Battle of Chaeronea|battle of Chaeronea]]
 - Led [[Macedonian Conquest of Persia]]
-- 

@@ -161,7 +161,7 @@ img {
     flex-direction: row-reverse;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 950px){
     .meta-container {
         justify-content: center;
     }

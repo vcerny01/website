@@ -4,8 +4,6 @@
 {{if .Params.title}}{{$title = .Params.title}}{{else}}{{$title = .File.BaseFileName}}{{end}}
 {{$date := .Params.date.Format "Jan 2, 2006"}}
 
-
-
 <head>
     {{partial "meta-head" .}}
     {{partial "default-style.html" .}}
@@ -44,7 +42,6 @@
         {{end}}
     </div>
     <article>
-        
         {{$relDir := replace .RelPermalink (printf "%s/" (.File.BaseFileName | urlize)) ""}}
         {{$content := .Content}}
         

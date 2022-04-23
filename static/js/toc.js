@@ -141,6 +141,11 @@ var tableOfContents = function (content, target, options) {
                                 heading.textContent.trim() +
                             '</a>';
 
+                    
+                    // Small hack, no wikilinks in toc 
+                    html = html.replaceAll("[[", "").replaceAll("]]", "");
+                    //
+
                     // If the last item, close it all out
                     if (index === len) {
                         html += getOutdent(Math.abs(startingLevel - currentLevel));
