@@ -16,4 +16,6 @@ date: 2022-04-17
 This book introduced me to EA. While I'm not 100% sold on all arguments made in the book, t's certainly worth reading. 
 ## Notes
 - [[What Is Effective Altruism]]
-- [[How to Choose a Charity to Donate to]]
+- [[How to Choose a Charity]]
+- [[Moral Licensing]]
+- [[How to Choose a Career]]
