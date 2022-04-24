@@ -1,1 +1,1 @@
-<a href="{{ .Destination }}" {{ with .Title }} title="{{ . }}"{{ end }} {{ if strings.HasPrefix .Destination "http" }} style="color: #D67D6E;" {{ end }}>{{.Text}}</a>
+<a href="{{ .Destination }}" {{ with .Title }} title="{{.}}"{{ end }}{{ if strings.HasPrefix .Destination "http" }}style="color: var(--external-link-color);"{{ end }}>{{.Text}}</a>
