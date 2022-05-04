@@ -8,7 +8,7 @@ date: 2022-04-17
 
 Research on effective altruism and applied rationality.
 
-## NBotes
+## Notes
 ### Altruism
 - [[What Is Effective Altruism]]
 - [[How to Choose a Charity]]

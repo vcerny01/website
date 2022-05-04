@@ -18,6 +18,7 @@
         "Music Theory"
     ],
     "How to Choose a Charity": [
+        "Effective Altruism",
         "Doing Good Better"
     ],
     "Takt a Rytmus": [
@@ -249,6 +250,7 @@
         "Hellenistic Greece"
     ],
     "Moral Licensing": [
+        "Effective Altruism",
         "Doing Good Better"
     ],
     "Health & Productivity": [],
@@ -287,6 +289,7 @@
         "Digital Minimalism"
     ],
     "How to Choose a Career": [
+        "Effective Altruism",
         "Doing Good Better"
     ],
     "_index": [],
@@ -309,24 +312,29 @@
     "kvinta/D\u011bjepis/_index": [],
     "kvinta/D\u011bjepis/Antick\u00fd \u0158\u00edm 2": [],
     "kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka v\u011bty": [],
+    "kvinta/\u010cesk\u00fd jazyk/Renesan\u010dn\u00ed literatura": [],
     "kvinta/\u010cesk\u00fd jazyk/_index": [],
-    "kvinta/\u010cesk\u00fd jazyk/Renesance": [],
+    "kvinta/\u010cesk\u00fd jazyk/Grafick\u00e1 str\u00e1nka jazyka": [],
     "kvinta/\u010cesk\u00fd jazyk/Husitsk\u00e1 literatura": [],
     "kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka jazyka": [],
+    "kvinta/\u010cesk\u00fd jazyk/Barokn\u00ed literatura": [],
     "kvinta/Fyzika/Skl\u00e1d\u00e1n\u00ed sil": [],
     "kvinta/Fyzika/Pohyby t\u011bles v centr\u00e1ln\u00edm gravita\u010dn\u00ed poli": [],
     "kvinta/Fyzika/Gravita\u010dn\u00ed pole": [],
     "kvinta/Fyzika/_index": [],
     "kvinta/Fyzika/T\u011b\u017ei\u0161t\u011b t\u011bles": [],
     "kvinta/_index": [],
+    "kvinta/Matematika/Troj\u00faheln\u00edky": [],
     "kvinta/Matematika/Z\u00e1kladn\u00ed planimetrick\u00e9 pojmy (opakov\u00e1n\u00ed)": [],
     "kvinta/Matematika/_index": [],
     "kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/Pr\u016f\u0159ez histori\u00ed architektury": [],
     "kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/_index": [],
+    "kvinta/Biologie/\u010celedi rostlin": [],
     "kvinta/Biologie/Kv\u011bt": [],
     "kvinta/Biologie/Genetika": [],
     "kvinta/Biologie/_index": [],
     "kvinta/Chemie/\u00davod do elektrochemie": [],
+    "kvinta/Chemie/\u00davod do analytick\u00e9 chemie": [],
     "kvinta/Chemie/_index": [],
     "Industrial Revolution and Capitalism": [
         "Sapiens"
@@ -405,6 +413,7 @@
         "Draco"
     ],
     "What Is Effective Altruism": [
+        "Effective Altruism",
         "Doing Good Better",
         "How to Choose a Career"
     ],
