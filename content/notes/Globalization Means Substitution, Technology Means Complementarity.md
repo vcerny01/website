@@ -2,6 +2,7 @@
 date: 2022-03-10
 layout: note
 series: Zero to One
+disable_toc: true
 title: Globalization Means Substitution, Technology Means Complementarity
 ---
 
@@ -21,4 +22,4 @@ title: Globalization Means Substitution, Technology Means Complementarity
     - People miss the power of complementarity because we exoticize technology
         - > Just look at the trendiest fields in computer science today. The very term “machine learning” evokes imagery of replacement, and its boosters seem to believe that computers can be taught to perform almost any task, so long as we feed them enough training data.
         - > The other buzzword that epitomizes a bias toward substitution is “big data.” Today’s companies have an insatiable appetite for data, mistakenly believing that more data always creates more value. But big data is usually dumb data. ^^Computers can find patterns that elude humans, but they don’t know how to compare patterns from different sources or how to interpret complex behaviors. Actionable insights can only come from a human analyst^^ (or the kind of generalized artificial intelligence that exists only in science fiction).
-    - > ^^As we find new ways to use computers, they won’t just get better at the kinds of things people already do; they’ll help us to do what was previously unimaginable.^^
+    - > ==As we find new ways to use computers, they won’t just get better at the kinds of things people already do; they’ll help us to do what was previously unimaginable.==

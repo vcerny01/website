@@ -1,6 +1,7 @@
 ---
 date: 2022-03-10
 layout: note
+disable_toc: true
 series: Zero to One
 title: Four Ways to See the Future
 ---

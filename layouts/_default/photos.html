@@ -8,8 +8,7 @@
     {{partial "favicon.html" .}}
     <title>{{ .Params.title}}</title>
     <!-- Gallery specific things -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
-	<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+	{{partial "lightbox.html" .}}
 </head>
 
 <body>
@@ -38,7 +37,7 @@
 				{{end}}
 			{{end}}
 				<div class="gallery">
-					<a href="{{$filename}}" class="glightbox" data-title="{{$desc}}">
+					<a href="{{$filename}}" class="glightbox" dsata-title="{{$desc}}">
 						<img src="{{$filename}}" alt="{{$desc}}">
 					</a>
 				</div>

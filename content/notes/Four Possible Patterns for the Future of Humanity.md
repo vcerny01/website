@@ -2,10 +2,11 @@
 date: 2022-03-10
 layout: note
 series: Zero to One
+disable_toc: true
 title: Four Possible Patterns for the Future of Humanity
 ---
 
-- According to philosopher Nick Bostrom, from Peter Thiel
+- According to philosopher Nick Bostrom, interpreted Peter Thiel
 - 1. **Recurrent Collapse**
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F_hY6JSz8ZS.png?alt=media&token=6a52519e-8b8e-4254-9c76-f1770498b0b4)
         - > The ancients saw all of history as a neverending alternation between prosperity and ruin. Only recently have people dared to hope that we might permanently escape misfortune, and it’s still possible to wonder whether the stability we take for granted will last.

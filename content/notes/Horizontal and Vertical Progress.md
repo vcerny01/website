@@ -1,6 +1,7 @@
 ---
 date: 2022-03-10
 layout: note
+disable_toc: true
 series: Zero to One
 title: Horizontal and Vertical Progress
 ---
@@ -10,7 +11,7 @@ title: Horizontal and Vertical Progress
 - The contrarian question
     - > Whenever I interview someone for a job, I like to ask this question: “What important truth do very few people agree with you on?”
         - > My own answer to the contrarian question is that most people think the future of the world will be defined by globalization, but the truth is that technology matters more.
-    - > “Madness is rare in individuals—but in groups, parties, nations, and ages it is the rule,” Friedrich Nietzsche wrote (before he went mad).
+	- > “Madness is rare in individuals—but in groups, parties, nations, and ages it is the rule,” Friedrich Nietzsche wrote (before he went mad).
 - Progress has slowed down
     - > Any generation excepting our parents’ and grandparents’, that is: in the late 1960s, they expected this progress to continue. They looked forward to a four-day workweek, energy too cheap to meter, and vacations on the moon. But it didn’t happen. The smartphones that distract us from our surroundings also distract us from the fact that our surroundings are strangely old: only computers and communications have improved dramatically since midcentury.
 midcentury.

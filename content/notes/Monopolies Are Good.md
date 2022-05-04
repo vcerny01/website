@@ -1,6 +1,7 @@
 ---
 date: '2022-02-11'
 layout: note
+disable_toc: true
 series: Zero to One
 title: Monopolies Are Good
 ---

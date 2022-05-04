@@ -38,4 +38,108 @@ date: 2022-04-20
 	- Trojzvuk ve čtyřhlase se tudíž vyjadřuje zdvojením jednoho z tónů
 		- Kdyby vycházela ze schématu zmíněného v první části, mohla by zdvojit c a g, ale taková diskriminace (u D a S lze jeden tón, u tóniky dva) jinak stejných trojzvuků je neúnosná
 		- Praxe se potom snaží vyjádřit každou ze tří harmonických jednotek jedinou technikou
-			- 
+			- Basový (nejhlubší) tón celého vícezvuku považuje za tón základní (nositel harmonické funkce)
+			- Zdvojuje se tedy hlavně prima harmonické jednotky
+				- Jak vychází ze schématu i praxe, tercie nemůže být nikdy zdvojena (ostatně tercie úrčuje tónorod jednotky a už proto se nehodí ke zdvojení dvěma hlasy)
+				- Tento postup se tolik nehodí u subdominanty (protože S1 != (T1 || T5))
+					- V praxi je však v pořádku, protože obecně byla dominanta (T5=D1) historicky upředňostnována nad subdominantou
+						- => Hudební praxe preferuje závěr autentický (kvůli *zákonu gradace*, maximalizace napětí před uvolnění tónikou) a subdominanta má jisou podřízenou roli
+- => V klasické hudební praxe se vyskytuje tzv. *tonální  kadence*, kde jsou všechny tři jednotky uvedené v jedné souvisloti: ==S–D–T==
+	- V rámci harmonických jednotek není jiné sestavení kadence možné, existují však obměny
+	- Kadence je nejúspornějším dokonalým vyjádřením tóniny
+		- Nejobecnější vyjádření tonální kadence ve čtyřhlasu:
+			- ![[Pasted image 20220425162836.webp]]
+	- Kadence velmi často tvoří páteř celého harmonického průběhu formálních článků skladby (které se dle ní i nejlépe člení)
+		- => Tonální kadence je normou klasického harmonického myšlení
+- Spoje v rámci tonální kadence
+	- **Dominantní**: stoupající kvarta/klesající kvinta
+	- **Subdominantní**: klesající kvarta/stoupající kvinta
+	-  V praxi mluvíme prostě o spojování trozjvuků ve kvintovém poměru
+	- Pokud je spoj realizován se společným tónem (tj. tónem, který je zastoupen v obou trojzvucích), jedná se o spoj *příbuzných* trojzvuků
+		- Spoj dvou nepříbuzných trojzvuků (v rámci harmonických jednotek) nelze vytvořit jinak než intervalem velké sekundy
+	- Spoj S a D je sám o sobě charakteristický pro určitou tonalitu
+		- Lze dokázat jak mechanicky, tak harmonicky (viz kniha)
+		- Tím není ohrožena teze tří harmonických jednotek jako elementárními pro tóninu, jelikož tónika se stále vyskytuje v představě
+		- => *spoj poloviční*
+			- S–D v poměru velké sekundy
+
+## Melodické prvky v harmonické větě
+- V praxi se samozřejmě harmonie vymyká z rámců jednoduchých teoretických kategorií
+	- Například se málokdy setkáme s výrazově neutrálním čtyřhlasem jako je ukázaný v předchozí části
+	- Proto se v praxi:
+		- Místo spojitého vedení hlasů ve strohých vertikálních akordech často dává přednost akordickým rozkladům, figuracím a různě rytmizovaným přiznávkám (a dalším konvenčním prvkům)
+		- Užívá často zdvojování a znásobování hlasů (např. v oktávách)
+		- => Kombinace těchto dvou způsobů způsobuje, že je často poměrně těžké vypreparovat z notového zápisu harmonické jádro v reálném čtyřhlase
+- ![[Pasted image 20220428063347.webp]]
+	- Ve všech těchto případech jde o jednoduché střídání tóniky s dominantou po taktech
+- Drobné disonantní tóny chápeme jako pouhý průběžný melodický pohyb, který nevstupuje do harmonické podstaty
+	- V praxi *(disonantními) melodickými tóny* oproti tzv. *tónům akordickým*
+- Pocit konsonance nastane tehdy, vzbuzuje-li daný akustický podnět toliko jednoduchý harmonický jev, jemuž odpovídá jediná harmonická jednotka
+	- => Interval (dvojzvuk) je konsonantní je-li chápán jako složka jediné harmonické jednotky
+- Práce s disonantními útvary
+	- Klasický vkus pozoruje disonantní útvary jako něco vyjímečného, a proto vázal jejich použití na splnění určitých podmínek
+		- Disonantnímu útvaru předchází *příprava*
+		- Disonantní útvar je uveden v *úpravě*
+		- Jim vyvolané napětí se usmíří *rozvedením*
+
+### Melodické tóny
+- Můžou být buď *diatonické* (náležící k dané tónině) nebo *chromatické* (odkudkoliv)
+- Melodické tóny jsou primárně buď na *lehké* nebo *těžké* době
+	- Nicméně můžou být někdy i na jiných
+#### Střídavý tón
+- ![[Pasted image 20220429103016.webp]]
+- ==Střídá sekundovým krokem akordický tón a pak se do něj zase vrací==
+- Nastupuje na **lehké době**
+- Chápeme jako harmonicky nedeterminované vychýlení hlasu
+	- Střídavý tón po dobu svého trvání do jisté míry zastupuje tón akordický
+		- Proto je nutné aby nezněl zároveň s ním
+			- => Poučka klasické harmonie: Tón ozdobený střídavým tónem nesmí být zdvojen v téže nebo vyšší poloze
+				- Zdvojení se toleruje pouze v nižší poloze a to nejspíše když jde o základní tón
+- Netvoří nutně disonantní útvar
+- Rozlišujeme mezi vrchním a spodním střídavým tónem
+	- U vrchního volíme malou/velkou sekundu dle tónického materiálu
+	- U spodního volíme kategorickyu vždy malou sekundu 
+- Např. *a* nebo *fis* ve 40 c)
+- *Opuštěný střídavý tón*
+	- Nevrací se na původní akordický tón, ale odskakuje k jinému tónu
+		- => Chybí mu rozvedení
+	- Vyskytuje se už klasiků u útváru, kdy střídavým tónem vznikl útvar, který by sám o sobě mohl být považován za konsonanci
+
+#### Průtažný tón (průtah)
+- ![[Pasted image 20220429102921.webp]]
+- ==Protahuje předchozí tón na úkor dalšího==
+	- Rozvadí se potom sekundovým krokem do toho dalšího akordického tónu 
+- Nastupuje **těžké době** 
+- Pokud my chybí přípravný tón (tj. neprotahuje tón ve stejné oktávě), nazývá se *volně nastupující*
+- Průtah snadno získáme ze střídavého tónu vypustíme-li u pravidelného střídavého tónu akordický tón, který mu předchazí
+	- ![[Pasted image 20220428174446.webp]]
+
+#### Průchodný tón (průchod)
+- ![[Pasted image 20220429102938.webp]]
+- ==Vyplňuje stupňovitým (diatonickým nebo chromatickým) postupem mezeru mezi dvěma akordickými tóny==
+- Nastupuje na **lehké době**
+- Jsou-li průchodní tóny obsaženy v souvislých stupnicových chodech (jak tomu v klasické hudbě velmi často bývá), uvažujeme i tóny akordické jako průchodné, jelikož jako vlastní akordické tóny pociťujeme jen krajní (výchozí a cílní) tóny chodu
+- Příklad ve 40 b)
+
+#### Předjímka (anticipace)
+- ![[Pasted image 20220429103201.webp]]
+- ==Je součástí následujícího akordu, protahuje akordický tón==
+	- Prostě jako průtah na druhou stranu
+- Nastupuje na **lehké době**
+- Pokud se nerozvádí do stejného akordického tónu, ale odskakuje k jinému, jedná se o *opuštěnou předjímku*
+- Dává smysl pouze tehdy, ukazuje-li na akord, který je posluchačem opravdu očekávám
+
+### Kvartsextakordy
+- Samozřejmě můžeme kombinovat i více melodických tónů a v tomto případě vznikají různé vertikální útvary
+	- Např. už ve 42 se kvintakord přechodně proměnil na *sextakord* zavedením svrchního melodického tónu (průtažného nebo střídavého)
+- Zavedením melodických tónů na tercii i kvintu akordu vzniká *kvartsextakord*
+	- Riziko, že by se melodický postup mohl jevit jako kvalifikovaný harmonický spoj je zde mnohem větší
+	 - Pro melodické chápání těxhto úvarů dělíme kvartsextakordy na následující:
+		 - *Střídavé*
+			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_stridavy.png)
+		 - *Průtažné*
+			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_prutazny.png)
+		 - *Průchodné* 
+			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_pruchodny.png)
+		 - *Následné*
+			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_nasledny.png)
