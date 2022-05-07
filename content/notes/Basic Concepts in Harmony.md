@@ -129,17 +129,31 @@ date: 2022-04-20
 - Pokud se nerozvádí do stejného akordického tónu, ale odskakuje k jinému, jedná se o *opuštěnou předjímku*
 - Dává smysl pouze tehdy, ukazuje-li na akord, který je posluchačem opravdu očekávám
 
-### Kvartsextakordy
+### Akordy
 - Samozřejmě můžeme kombinovat i více melodických tónů a v tomto případě vznikají různé vertikální útvary
 	- Např. už ve 42 se kvintakord přechodně proměnil na *sextakord* zavedením svrchního melodického tónu (průtažného nebo střídavého)
+
+#### Sextakordy
+- Méně uspokojivá forma vyjádření konsonantního než kvintakord (působí méně stabilním dojmem)
+- Pokud má harmonickou funkci
+	- Při zdvojování tónu sextakordu je nejlepší řídit se stejnými pravidly jako u kvintakordu, pouze dát správné označení jednotlivým stupňům (např. prima v sextakordu je tónická tercie)
+	- Pozor na zdvojení citlivého tónu, pokud je v base
+#### Kvartsextakordy
 - Zavedením melodických tónů na tercii i kvintu akordu vzniká *kvartsextakord*
 	- Riziko, že by se melodický postup mohl jevit jako kvalifikovaný harmonický spoj je zde mnohem větší
-	 - Pro melodické chápání těxhto úvarů dělíme kvartsextakordy na následující:
+	- Problém konsonantnosti kvartsextakordu
+		 - Na kvartsextakord se nevztahují stejná pravidla jako na kvintakord a sextakord
+			 - Kvartsextakord byl v předklasické době brán jako disonantní (bez harmonické funkce)
+				 - Protože kvartový interval mezi basem a některým ze svrchních tónů působí disonantně
+					 - => Kvarta se nezdvojuje
+				 - Dnešní chápání je trochy šírší, kvartsextakord považujeme za konsonantní útvar pokud dokáže přesvědčivě a nedvojsmyslně vyjadřovat harmonickou funkci
+	 - => Pro melodické chápání těchto úvarů (vycházející z klasického vnímání tonality) dělíme kvartsextakordy na následující:
 		 - *Střídavé*
-			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_stridavy.png)
+			 - ![[Pasted image 20220507095357.webp]]
 		 - *Průtažné*
-			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_prutazny.png)
+			 - ![[Pasted image 20220507095419.webp]]
 		 - *Průchodné* 
-			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_pruchodny.png)
+			 - ![[Pasted image 20220507095441.webp]]
 		 - *Následné*
-			 - ![](https://www.harm.cz/static//pics/maturita/klasika/02_trojzvuky/kvartsextakord_nasledny.png)
+			 - Střídá akord se stejnou funkcí, ale jiným obratem (tj. jeho přípravou je 5 nebo 6 se stejnou harmonickou funkcí)
+			 - ![[Pasted image 20220507095456.webp]]
