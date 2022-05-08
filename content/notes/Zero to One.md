@@ -12,7 +12,7 @@ title: Zero to One
 - **Published**: 2014
 - **Read in**: 2021
 ## Review
-Best book I read in 2021, very thought-provoking. A must-read for everyone in tech.
+The best book I read in 2021, very thought-provoking. A must-read for everyone in tech.
 ## Notes
 
 - [[Horizontal and Vertical Progress]]

@@ -29,9 +29,10 @@ math: true
 - 4. Po kontrole přítomnosti amonných kationtů zahájíme vlastní analýzu – přidáme kyselinu chlorovodíkovou – pokud vznikne sraženina, jsou přítomny kationty I. třídy; případnou sraženinu odfiltrujeme
 - 5. K filtrátu (= kapalině, která zbyla po filtraci) přidáme sulfan – pokud vznikne sraženina, jsou přítomny kationty II. třídy; případnou sraženinu kationtů II. třídy odfiltrujeme a následně promýváme roztokem sulfidu sodného $Na_{2}S$ – v sulfidu sodném se rozpouštějí kationty II.b podtřídy, kationty II.a podtřídy zůstávají nerozpuštěné ve sraženině
 - 6. K filtrátu přidáme sulfid amonný $(NH_{4})_{2}S$ – pokud vznikne sraženina, jsou přítomny kationty III. třídy; sraženinu odfiltrujeme
-- 7. K filtrátu přidáme uhličitan amonný $(NH_{4})_{2}CO_{3}$ – pokud vznikne sraženina, jsou přítomny kationty IV. třídy; sraženinu odfiltrujeme
+- 7. K filtrátu přidáme uhličitan amonný $(NH_4)_2 CO_3$ – pokud vznikne sraženina, jsou přítomny kationty IV. třídy; sraženinu odfiltrujeme
 - 8. Ve filtrátu by mohly být přítomny kationty V. třídy
-- Reakce s $HCl$, $H_2S$, $(NH_{4})_{2}S$ a $(NH_{4})_{2}CO_{3}$ jsou skupinové reakce; reakce s $Na_{2}S$ je reakce selektivní.
+- Reakce s $HCl$, $H_2S$,  $(NH_{4})_{2}S$ a $(NH_4)_2 CO_3$ jsou skupinové reakce, reakce s $Na_2 S$ je reakce selektivní
+
 
 #### Rozdělení nejčastějších kationtů
 
@@ -52,9 +53,9 @@ math: true
 - 1. Vzorek převedeme do roztoku
 - 2. Roztok určený k analýze aniontů rozdělíme na dvě části – v první provádíme vlastní analýzu a ve druhé analýzu kontrolní
 - 3. Nejprve přidáme dusičnan barnatý $Ba(NO_3)_2$, pokud vznikne sraženina, jsou přítomny anionty I. třídy, případnou staženinu odfiltrujeme a následně promýváme zředěnou kyselinou octovou $CH_3COOH$ – v kyselině octové se rozpouštějí anionty I.c podtřídy; pokud po promytí kyselinou octovou zbude ještě nějaká sraženina, promýváme ji zředěnou kyselinoudusičnou $HNO_3$ – v kyselině dusičné se rozpouštějí anionty I.b podtřídy; pokud zbude ještě nějaká sraženina, jsou v ní přítomny anionty I.a podtřídy
-- 4. K filtrátu po odfiltrování sraženiny aniontů I. třídy přidáme dusičnan stříbrný AgNO3, pokud vznikne sraženina, jsou přítomny anionty II. třídy; případnou sraženinu odfiltrujeme
+- 4. K filtrátu po odfiltrování sraženiny aniontů I. třídy přidáme dusičnan stříbrný $AgNO_3$, pokud vznikne sraženina, jsou přítomny anionty II. třídy; případnou sraženinu odfiltrujeme
 - 5. Ve filtrátu by mohly být přítomny anionty III. třídy
-- Reakce s $Ba(NO_3)_2$ a $AgNO_3$ jsou reakce skupinové; reakce s CH3COOH a $HNO_3$ jsou reakce selektivní.
+- Reakce s $Ba(NO_3)_2$ a $AgNO_3$ jsou reakce skupinové; reakce s $CH_3 COOH$ a $HNO_3$ jsou reakce selektivní.
 
 #### Rozdělení nejčastějších aniontů
 | **Třída** | **Podtřída** | **Anionty**                                       |
