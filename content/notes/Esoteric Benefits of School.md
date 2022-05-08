@@ -17,7 +17,7 @@ date: 2022-05-07
 
 ### Esoteric benefits of school
 - 1. **It's a bare minimum**
-	- The "surrender control and receive a guaranteed outcome" is present in many institutions in our society
+	- The "surrender control and receive a guaranteed outcome" tradeoff is present in many institutions in our society
 	- School provides one of the best minimums (after graduating, you can become an average member of society)
 	- > As much as I resent the over-optimizing mindset, and strive for the purposeful creation for slack, there's a certain amount of coercion that's necessary to lay the foundation for that freedom. Slipping into unproductive catatonia is a real failure mode when you're relying on self-directed effort, and one that having fixed minimums helps avoid. Even if I did absolutely nothing else, the minimums ensure that I keep moving towards what I want.
 - 2. **You're not in charge**
