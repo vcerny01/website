@@ -171,3 +171,16 @@ series: Český jazyk
 	- 2. **Spisy pedagogické**
 		- 
 	- 3. **Spisy pansofické**
+		- Pansofie
+			- = Univerzální věda, co obsáhne všechno lidské vědění
+		- *Všeobecná porada o nápravě věcí lidských*
+			- Byl přesvědčený, že když lidé budou mít univerzální vzdělání, tak ve světě bude mír a pokrok
+			- Propojení vědy a náboženství
+			- Univerzální vědecký jazyk
+			- Vyšli 2 díly, plánoval 7
+		- *Kšaft umírající matky jednoty bratrské*
+			- Kšaft je staročeské slovo pro závěť
+			- Umírající matka je alegorie pro jednotu bratrskou
+				- Matka odkazuje svým dětem (=Čechům) své myšlenky
+				- Povzbuzuje Čechy, aby věřili, že se zase jedno vrátí k ní
+					- Vír a v budoucí samostatnost českého národa
