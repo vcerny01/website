@@ -154,6 +154,12 @@ date: 2022-04-20
 			 - ![[Pasted image 20220507095419.webp]]
 		 - *Průchodné* 
 			 - ![[Pasted image 20220507095441.webp]]
+			 - Ve čtyřhlase
+				 - ![[Pasted image 20220510081042.png]]
 		 - *Následné*
 			 - Střídá akord se stejnou funkcí, ale jiným obratem (tj. jeho přípravou je 5 nebo 6 se stejnou harmonickou funkcí)
 			 - ![[Pasted image 20220507095456.webp]]
+
+## Vedlejší trojzvuky
+- Dualistický systém popsaný v [[Introduction to Harmony]] (S,T,D) vyčerpává všechen diatonický materiál, takže se všechny ostatní trojzvuky chápou jako odvozené (tj. trojzvuky 2., 3., 6. a 7. stupně)
+- 

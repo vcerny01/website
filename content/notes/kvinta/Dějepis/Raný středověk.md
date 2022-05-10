@@ -114,6 +114,15 @@ date: 2022-05-09
 - 622 vyhnán do Mediny
 	- Počátek islámského kalendáře
 
+### Sjednocení Arabů
+- Mohamed sjednotil Araby, dobyl Mekku, konec polyteismu
+- 632 Mohamed umíra, nástupce je chalífa
+	- Nástupci byli 4
+	- 661 rozdělení muslimů na:
+		- Šíity
+			- Věří ve volbu chalífy
+		- Sunnity
+			- Věří v pokračování rodu
 ### Ummajová (dynastie)
 - Muávia
 	- Choval se jako král

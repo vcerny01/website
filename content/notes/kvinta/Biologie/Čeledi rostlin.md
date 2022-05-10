@@ -55,3 +55,33 @@
 	- Tropické oblasti
 	- Zástupci
 		- Lianovcovité, chvojníkovité, welwitschiovité
+
+## Makovité
+- Čeleď dvouděložných rostlin
+- Listy jsou jednoduché, střídavé
+- Plod je lysá tobolka (makovice)
+- Semena jsou bohatá na olej
+- Rostliny obsahují alkaloidy
+	- Využití v lékařství/podzemní činnosti
+- Zástupci
+	- Mák vlčí, vlaštovičník větší
+
+## Růžovité
+- Vůni jejich květů způsobují vonné silice nacházející se v pletivech
+- Často opatřeny palisty (někdy přeměněny v listy)
+- Plody mohou být měchýřky, nažky, peckovice nebo malvice
+- Zástupci
+	- _růže_
+	- _maliník_
+	- _třešeň_
+	-  _kontryhel_
+
+## Leknínovité
+- Nížší dvouděložné rostliny
+- Sladkovodní a vytrvalé byliny
+	- Mají jednoduché plovoucí, nebo ponořené listy
+	- Nápadité květy, které se rozvíjejí nad hladinou
+- Zástupci
+	- Leknín bílý
+
+## Břízovité

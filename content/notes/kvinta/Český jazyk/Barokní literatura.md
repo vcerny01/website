@@ -169,7 +169,21 @@ series: Český jazyk
 				- Bohatí na chudé, že neplní svoje povinnosti
 				- V závěru všem píše Ježíš a nabádá je, aby žili podle božích přikázání
 	- 2. **Spisy pedagogické**
-		- 
+		- Nové koncepty ve vzdělávání
+			- Škola hrou
+			- Učení na příkladech
+			- Od konkrétního k abstraktnímu
+			- 4 stupně vzdělávání
+				- Po 6 letech: mateřská, národní, latinská, univerzita
+		- *Velká didaktika*
+			- Obsáhlá, psaná latinsky
+		- *Didaktika*
+			- Psaná česky
+			- Výtažek z důležitých částí Velké didaktiky
+		- *Orbis pictus*
+			- = Svět v obrazech
+			- Latinsko/česká ilustrovaná učebnice
+			- Oblíbená, udělali se mezinárodní překlady
 	- 3. **Spisy pansofické**
 		- Pansofie
 			- = Univerzální věda, co obsáhne všechno lidské vědění
