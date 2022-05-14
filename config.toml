@@ -2,6 +2,8 @@ baseUrl="https://vitcerny.xyz"
 languageCode = "en-us"
 title = "Vít Černý"
 defaultContentLanguage = "en"
+[output]
+  home = ["HTML", "RSS", "JSON"]
 [params]
   description = "Personal website of Vít Černý"
 [markup]

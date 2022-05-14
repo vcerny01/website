@@ -20,4 +20,10 @@ date: 2022-04-21
 - 2. Výpočtem
 	- S využitím [momentové věty](/notes/kvinta/fyzika/skládání-sil) (celkový moment sil působících na dané těleso vzhledem k těžišti je roven nule)
 ## Rovnovážné pohyby tuhého tělesa
-- Podle vzájemného polohy těžiště T a bodu upevnění O rozlišují tři druhy rovnovážné polohy
+- Podle vzájemného polohy těžiště $T$ a bodu upevnění $O$ rozlišují 3 druhy rovnovážné polohy
+	- 1.
+		- ![[Pasted image 20220511164937.webp]]
+	- 2. 
+		- ![[Pasted image 20220511164959.webp]]
+	- 3.
+		- ![[Pasted image 20220511165015.webp]]

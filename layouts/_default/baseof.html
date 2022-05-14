@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{partial "meta-head.html" .}}
+	{{partial "default-style.html" .}}
+	{{block "custom-head" .}}
+
+	{{end}}
+	{{partial "favicon.html" .}}
+	<title>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</title>
+</head>
+<body>
+	<div id="main-container">
+		<header>
+			{{partial "navbar.html" .}}
+			{{block "custom-header" .}}
+			{{end}}
+		</header>
+		<div id="main-content">
+			{{block "main" .}}
+			{{end}}
+		</div>
+	</div>
+	<div>
+		{{block "footer" .}}
+		{{end}}
+	</div>
+	{{partial "analytics.html" .}}
+</body>
+</html>

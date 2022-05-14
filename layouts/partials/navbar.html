@@ -1,19 +1,28 @@
-<div class="navbar">
-	<a class="site" href="/"><span style="font-size: 1.75em; font-weight: 600;">Vít Černý</span></a>
-	&emsp;
-	<a href="/about">About</a>
-	&ensp;
-	<a href="/notes/research">Notes</a>
-	<!-- <div class="dropdown">
-		<div class="drop">Notes</div>
-		<div class="dropdown-content">
-			<a href="/notes/books">Books</a>
-			<a href="/notes/research">Research</a>
-			<a href="/notes/kvinta">School</a>
+<div id="navbar">
+	<div class="navbar-name"><a style="color: inherit;" href="/">Vít Černý</a></div>
+	<div style="display: flex; flex-direction: row;">
+		<div style="flex-grow: 4;">
+			<a href="/about">About</a>
+			&ensp;
+			<a href="/notes/research">Notes</a>
+			<!-- <div class="dropdown">
+				<div class="drop">Notes</div>
+				<div class="dropdown-content">
+					<a href="/notes/books">Books</a>
+					<a href="/notes/research">Research</a>
+					<a href="/notes/kvinta">School</a>
+				</div>
+			</div> -->
+			&ensp;
+			<a href="/articles">Articles</a>
+			&ensp;
+			<a href="/photos">Photos</a>
+			&ensp;
+			<!-- <script src="https://rawcdn.githack.com/nextapps-de/flexsearch/0.7.2/dist/flexsearch.compact.js" async></script> -->
 		</div>
-	</div> -->
-	&ensp;
-	<a href="/articles">Articles</a>
-	&ensp;
-	<a href="/photos">Photos</a>
+		<div style="text-align: right;">
+			<script src="/js/search.js" async></script>
+			<button class="searchbtn" onclick="loadSearch()">🔎</button>
+		</div>
+	</div>
 </div>

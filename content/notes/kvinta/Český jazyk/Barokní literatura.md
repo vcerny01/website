@@ -23,7 +23,7 @@ series: Český jazyk
 - 1544–1595
 - Itálie
 - Básník a dramatik
-- *Osvobozený Jeruzalém*
+- **_Osvobozený Jeruzalém_**
 	- Duchovní epos
 	- Dobytí Jeruzaléma při první křížové výpravě
 
@@ -31,25 +31,32 @@ series: Český jazyk
 - 1600–1681
 - Španělsko
 - Dramatik a básník
-- *Život je sen*
+- **_Život je sen_**
 	- Duchovní hra
-	- Obrací se do nitra a hledá duchovní hodnoty
+	- Vypraví příběh prince Segismunda, který je odsouzen kvůli špatně věštbě do pobytu ve věži
+	- Pochopí, že v životě kde nejsou jistoty, jsou duchovní hodnoty
 
 #### John Milton
 - 1608–1674
 - Anglie
 - Básník
-- *Ztracený ráj*
+- **_Ztracený ráj_**
 	- Duchovní epos
-	- Vyhnání lidí z ráje
+	- Vyhnání lidí z ráje, motivy z knihy Genesis
+	- Hlavní postavou je Satan
+	- Tématem je svár dobra a zla v každém člověku 
 
 #### Christoffel von Grimmelshausen
 - 1621–1676
 - Německo
 - Prozaik
-- *Dobrodružný Simplicius Simplicissimus*
+- **_Dobrodružný Simplicius Simplicissimus_**
 	- Román
-	- Líčí osudy třicetileté války
+	- Pikareskní román
+		- Parodie na rytíře
+	- 6 knih
+	- Líčí osudy třicetileté války z pohledu prosťáčka, kterého unesli vojáci do armády
+		- V podstatě autobiografie
 
 ## V českých zemích
 - 17 –18. století
@@ -90,7 +97,9 @@ series: Český jazyk
 	- Mystické, filosofické
 	- Převážně poezie
 	- Sestavoval i kancionály
-	- *Co Bůh? Člověk?*
+	- ***Co Bůh? Člověk?***
+		- Dlouhá lyrická báseň
+		- Promlouvání k Bohu a hledání smyslu života
 
 #### Bohuslav Balbín
 - 1621–1688
@@ -98,12 +107,14 @@ series: Český jazyk
 - Věnoval se historii a spisovatelské činnosti
 - Dílo
 	- Psal legendy, historické spisy atd.
-	- *Rozmanitosti z historie království českého*
+	- ***Rozmanitosti z historie království českého***
 		- Velmi obsáhlé dílo
+			- 20 dílů
 			- Nashromáždil hodně materiálu
 		- Vlastivědné, historické
-		- Bylo přeloženo i do němčiny a dalších jazyků
-	- *Obrana jazyka slovanského, zvláště českého*
+		- Psáno latinsky
+			- Bylo přeloženo i do němčiny a dalších jazyků
+	- ***Obrana jazyka slovanského, zvláště českého***
 		- Psáno latinsky (_Dissertatio apologetica pro lingua Slavonica, praecipue Bohemica_)
 			- Určené pro vzdělance
 		- Nevyšlo za Balbínova života, zůstalo v rukopisu a přepisem
@@ -117,11 +128,13 @@ series: Český jazyk
 - Dílo
 	- Náboženské obrazy spojené s běžným životem
 	- Nejznámnější je *Loutna česká*
+		- Mystická erotika
+		- Některé písně ještě dnes na svatbách
 
 #### Antonín Koniáš
 - 1691–1760
 - Jezuitský kněz
-- Soupis zakázané literatury *Klíč*
+- Soupis zakázané literatury ***Klíč***
 ### Exilová tvorba
 - Důsledkem násilné rekatolizace spoustu protestantů emigrovalo
 	- Většinou do Polska, ale i třeba do Slovenska
@@ -145,7 +158,7 @@ series: Český jazyk
 		- Taky jim říkáme útěšné (nabádají lidi, aby se obrátili k Bohu a našli v něm útěchu)
 		- Barokní myšlenky
 			- Pozemský život je plný strastí, jedinou jistotu máme v Bohu
-		- *Labyrint světa a ráj srdce*
+		- ***Labyrint světa a ráj srdce***
 			- Alegorický spis
 			- Celý svět je zobrazen jako středověké město
 			- Rozdělený na dvě části
@@ -155,15 +168,15 @@ series: Český jazyk
 					- 2. Všezvěd všudybud (alegorie touhy člověka po poznání)
 				- Poutník na základu svého pozorování dochází k tomu, že svět je plný nepravostí
 					- Chce proto spáchat sebevraždu, ale nakonec utíka do svého nitra, k Bohu, kde nalézá klid
-		- *Hlubina bezpečnosti*
+		- ***Hlubina bezpečnosti***
 			- Alegorický spis
 			- Svět je přirovnáván ke kolotoči
 			- Ve středu je Bůh
 				- Toho se musíme držet, aby jsme žili správně
-		- *Truchlivý*
+		- ***Truchlivý***
 			- Píše ve 20. letech 16. století, kde prožíval těžkou dobu
 			- Důraz na život s Bohem
-		- *Listové do nebe*
+		- ***Listové do nebe***
 			- Soubor fiktivních dopisů, kde si lidé stěžují
 				- Chudí na bohaté a útlak
 				- Bohatí na chudé, že neplní svoje povinnosti
@@ -175,24 +188,24 @@ series: Český jazyk
 			- Od konkrétního k abstraktnímu
 			- 4 stupně vzdělávání
 				- Po 6 letech: mateřská, národní, latinská, univerzita
-		- *Velká didaktika*
+		- ***Velká didaktika***
 			- Obsáhlá, psaná latinsky
-		- *Didaktika*
+		- ***Didaktika***
 			- Psaná česky
 			- Výtažek z důležitých částí Velké didaktiky
-		- *Orbis pictus*
+		- ***Orbis pictus***
 			- = Svět v obrazech
 			- Latinsko/česká ilustrovaná učebnice
 			- Oblíbená, udělali se mezinárodní překlady
 	- 3. **Spisy pansofické**
 		- Pansofie
 			- = Univerzální věda, co obsáhne všechno lidské vědění
-		- *Všeobecná porada o nápravě věcí lidských*
+		- ***Všeobecná porada o nápravě věcí lidských***
 			- Byl přesvědčený, že když lidé budou mít univerzální vzdělání, tak ve světě bude mír a pokrok
 			- Propojení vědy a náboženství
 			- Univerzální vědecký jazyk
 			- Vyšli 2 díly, plánoval 7
-		- *Kšaft umírající matky jednoty bratrské*
+		- ***Kšaft umírající matky jednoty bratrské***
 			- Kšaft je staročeské slovo pro závěť
 			- Umírající matka je alegorie pro jednotu bratrskou
 				- Matka odkazuje svým dětem (=Čechům) své myšlenky

@@ -1,29 +1,21 @@
-<!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}">
-{{$title := ""}}
-{{if .Params.title}}{{$title = .Params.title}}{{else}}{{$title = .File.BaseFileName}}{{end}}
-{{$date := .Params.date.Format "Jan 2, 2006"}}
-
-<head>
-    {{partial "meta-head" .}}
-    {{partial "default-style.html" .}}
+{{define "custom-head"}}
     <link rel='stylesheet' type='text/css' href="/css/note.css">
-    {{partial "favicon.html" .}}
-    <title>{{$title}}</title>
     {{if .Params.math}}
         {{partial "math.html" .}}
     {{end}}
-</head> 
-
-{{$disable_toc := .Params.disable_toc}}
-{{if .Params.source}}
-    {{$disable_toc = true}}
 {{end}}
-<body>
-    <header>
-        {{partial "partials/navbar.html" .}}
-        <h1>{{$title}}</h1>
-    </header>
+
+{{define "custom-header"}}
+   <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</h1>
+{{end}}
+
+{{define "main"}}
+    {{$date := .Params.date.Format "Jan 2, 2006"}}
+
+    {{$disable_toc := .Params.disable_toc}}
+    {{if .Params.source}}
+        {{$disable_toc = true}}
+    {{end}}
     <div class="meta-container">
         <!-- Series, date metadata -->
         <div class="metadata" {{if $disable_toc}} style="margin: 0 auto; float: none; margin-bottom: 20px; padding: 10px;"{{end}}>
@@ -78,14 +70,13 @@
 
         {{$content | safeHTML}}
     </article>
-    {{partial "footer.html" .}}
     <script defer>
         var blocks = document.querySelectorAll("img");
         for(let i = 0; i < blocks.length; i++){
             blocks[i].parentElement.style.listStyleType = "none";
         }
     </script>
-    {{partial "analytics.html" .}}
-</body>
-
-</html>
+{{end}}
+{{define "footer"}}
+    {{partial "footer.html" .}}
+{{end}}

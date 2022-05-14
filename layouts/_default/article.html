@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}">
-<head>
-    {{partial "meta-head" .}}
-    {{partial "default-style.html" .}}
-    {{partial "favicon.html" .}}
-    <title>{{.Params.title}}</title>
+{{define "custom-head"}}
     {{if .Params.math}}
         {{partial "math.html" .}}
     {{end}}
-</head>
+{{end}}
 
+{{define "custom-header"}}
+    <h1>{{.Params.title}}</h1>
+{{end}}
 
-<body>
-    <header>
-        {{partial "navbar.html" .}}
-        <h1>{{.Params.title}}</h1>
-    </header>
+{{define "main"}}
     {{if not (and (not .Params.date) .Params.disable_toc)}}
     <div class="meta-container">
         <!-- Series, date metadata -->
@@ -33,7 +26,8 @@
     <article>
         {{.Content}}
     </article>
+{{end}}
+
+{{define "footer"}}
     {{partial "footer.html" .}}
-    {{partial "analytics.html" .}}
-</body>
-</html>
+{{end}}

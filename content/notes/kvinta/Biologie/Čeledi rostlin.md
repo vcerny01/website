@@ -82,6 +82,6 @@
 	- Mají jednoduché plovoucí, nebo ponořené listy
 	- Nápadité květy, které se rozvíjejí nad hladinou
 - Zástupci
-	- Leknín bílý
+	- Leknín bílýx
 
 ## Břízovité

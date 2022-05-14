@@ -155,7 +155,7 @@ date: 2022-04-20
 		 - *Průchodné* 
 			 - ![[Pasted image 20220507095441.webp]]
 			 - Ve čtyřhlase
-				 - ![[Pasted image 20220510081042.png]]
+				 - ![[Pasted image 20220510081042.webp]]
 		 - *Následné*
 			 - Střídá akord se stejnou funkcí, ale jiným obratem (tj. jeho přípravou je 5 nebo 6 se stejnou harmonickou funkcí)
 			 - ![[Pasted image 20220507095456.webp]]

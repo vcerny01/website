@@ -1,26 +1,19 @@
-<!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}">
-
-<head>
-    {{partial "meta-head" .}}
-    {{partial "default-style.html" .}}
+{{define "custom-head"}}
     <link rel='stylesheet' type='text/css' href="/css/list.css">
-    {{partial "favicon.html" .}}
-    <title>{{.Params.title}}</title>
-</head>
+{{end}}
 
-<style>
+{{define "custom-header"}}
+<h1>{{.Params.title}}</h1>
+{{end}}
+
+
+{{define "main"}}
+    <style>
     li {
         padding: auto;
         margin: auto;
     }
-</style>
-
-<body>
-    <header>
-        {{partial "navbar.html" .}}
-        <h1>{{.Params.title}}</h1>
-    </header>
+    </style>
     <section>
         <a href="/notes/{{.Params.source}}"><img src="{{.Params.cover}}" style="max-width: 20vw; max-height: 15rem; float: right; margin: 2rem;"></a>
         {{.Content}}
@@ -40,7 +33,4 @@
         {{end}}
         </ul>
     </div>
-    {{partial "analytics.html" .}}
-</body>
-
-</html>
+{{end}}

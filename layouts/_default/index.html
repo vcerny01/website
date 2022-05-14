@@ -1,43 +1,32 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
 
-<head>
-    {{partial "meta-head.html" .}}
-	{{partial "default-style.html" .}}
-	<link rel='stylesheet' type='text/css' href='/css/home.css'>
-	{{ partial "favicon.html" .}}
-	<title>{{ .Site.Title }}</title>
-</head>
+{{define "custom-head"}}
+    <link rel='stylesheet' type='text/css' href='/css/home.css'>
+{{end}}
 
-<body>
-    <header>
-        {{partial "navbar.html" .}}
-    </header>
-        <div style="width: fit-content; margin: 0 auto">Work in progress... (currently importing my notes)</div>
-    <div class="container">
-        <div class="column">
-        <h3>Links</h3>
-            <ul>
-                <li><a href="https://twitter.com/VitCerny1"><strong>Twitter</strong></a></li>
-                <li><a href="https://github.com/vcerny01"><strong>GitHub</strong></a></li>
-                <li>Get updated with my RSS feeds
-                    <ul>
-                        <li>For <a href="/articles/index.xml"><strong>articles</strong></a></li>
-                        <li>For <a href="/gallery/index.xml"><strong>photos</strong></a>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-         <div class="column">
-            <h3>Recent posts</h3>
-            <ul>
-                {{range (first 3 (where .Site.RegularPages ".Page.Params.layout" "not in" (slice "note" "source")).ByDate.Reverse)}}
-                    <li>{{time.Format "Jan 2" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
-                {{end}}
-            </ul>
-            <p style="font-size: 0.75em"><a href="/about/updates-on-notes">Why aren't new notes included here?</a></p>
-        </div>
+{{define "main"}}
+<div style="width: fit-content; margin: 0 auto">Work in progress... (currently importing my notes)</div>
+<div class="container">
+    <div class="column">
+    <h3>Links</h3>
+        <ul>
+            <li><a href="https://twitter.com/VitCerny1"><strong>Twitter</strong></a></li>
+            <li><a href="https://github.com/vcerny01"><strong>GitHub</strong></a></li>
+            <li>Get updated with my RSS feeds
+                <ul>
+                    <li>For <a href="/articles/index.xml"><strong>articles</strong></a></li>
+                    <li>For <a href="/gallery/index.xml"><strong>photos</strong></a>
+                </ul>
+            </li>
+        </ul>
     </div>
-    {{partial "analytics.html" .}}
-</body>
-</html>
+     <div class="column">
+        <h3>Recent posts</h3>
+        <ul>
+            {{range (first 3 (where .Site.RegularPages ".Page.Params.layout" "not in" (slice "note" "source")).ByDate.Reverse)}}
+                <li>{{time.Format "Jan 2" .Params.date}} – <a href="{{.RelPermalink}}">{{.Params.title}}</a></li>
+            {{end}}
+        </ul>
+        <p style="font-size: 0.75em"><a href="/about/updates-on-notes">Why aren't new notes included here?</a></p>
+    </div>
+</div>
+{{end}}

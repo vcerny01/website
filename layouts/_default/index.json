@@ -1,0 +1,14 @@
+{{$list := slice}}
+[    
+{{ range .Site.RegularPages}}
+    {{$title := ""}}
+    {{if .Params.title}}
+    {{$title = .Params.title}}
+    {{else}}
+    {{$title = .File.BaseFileName}}
+    {{end}}
+    {{$item := printf "%s%s%s%s%s%s%s%s%s" "{ \"title\": " "\"" $title "\""  ", \"link\": " "\"" .RelPermalink "\"" "}"}}
+    {{$list = $list | append $item}}
+{{ end }}
+{{delimit $list ",\n"}}
+]

@@ -1,22 +1,20 @@
-<!DOCTYPE html>
-<html lang="{{.Site.LanguageCode}}">
-
-<head>
-    {{partial "meta-head" .}}
-    {{partial "default-style.html" .}}
-    <link rel='stylesheet' type='text/css' href="/css/photos.css">
-    {{partial "favicon.html" .}}
-    <title>{{ .Params.title}}</title>
-    <!-- Gallery specific things -->
+{{define "custom-head"}}
+	<link rel='stylesheet' type='text/css' href="/css/photos.css">
 	{{partial "lightbox.html" .}}
-</head>
+{{end}}
 
-<body>
-    <header>
-        {{partial "navbar.html" .}}
-        <h1>{{ .Params.title }}</h1>
-        {{partial "date.html" .}}
-    </header>
+{{define "custom-header"}}
+	<h1>{{.Params.title}}</h1>
+	{{if .Params.date}}
+	<div class="meta-container">
+	<div class="metadata">
+    <div style="padding-top: 3px;"><span>Published:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+	</div>
+</div>
+	{{end}}
+{{end}}
+
+{{define "main"}}
     <section>
         {{.Content}}
     </section>
@@ -43,13 +41,13 @@
 				</div>
 		{{end}}
 	</article>
-    {{partial "footer.html" .}}
     <script>
     	const lightbox = GLightbox({
     		touchNavigation: true,
     		loop: false,
     	});
     </script>
-    {{partial "analytics.html" .}}
-</body>
-</html>
+{{end}}
+{{define "footer"}}
+    {{partial "footer.html" .}}
+{{end}}
