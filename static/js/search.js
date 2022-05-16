@@ -6,7 +6,7 @@ searchBox.style.display = "none";
 var otherElements = document.getElementById("main-container");
 
 document.addEventListener("keydown", (event) => {
-	if (event.ctrlKey && event.key === "p"){
+	if (event.ctrlKey && event.key === "o"){
 		event.preventDefault();
 		console.log("Initializing search");
 		loadSearch();
@@ -29,6 +29,18 @@ async function loadSearch()
 		searchBox.appendChild(inputField);
 		searchBox.appendChild(resultsField);
 		inputField.focus();
+		document.addEventListener("click", (event) => {
+			let i = 0;
+			for(; i<event.path.length; i++)
+			{
+				if(event.path[i].id === "searchBox"){
+					break;
+				}
+			}
+			if (i === event.path.length){
+				closeSearchBox();
+			}
+		})
 		inputField.addEventListener('input', function()
 		{
 			resultsField.innerHTML = "";

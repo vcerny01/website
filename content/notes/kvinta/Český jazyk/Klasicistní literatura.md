@@ -7,7 +7,7 @@ date: 2022-05-12
 - Na počátku klasicismu, místy barokní prvky
 - Částý motiv konfliktu povinnosti a citu (povinnost vítěží)
 	- Postavy se chovají navenek vždy racionálně
-- ***_Cid_*
+- ***_Cid_***
 	- Inspirováno *Písní o Cidovi*
 	- Hlavní postava je Jiména a její milý Don Rodrigo
 	- Otec Jimény urazí otce Dona Rodriga
