@@ -3,9 +3,12 @@ var searchBox = document.createElement("div");
 searchBox.id = "searchBox";
 document.body.prepend(searchBox);
 searchBox.style.display = "none";
-var otherElements = document.getElementById("main-container");
-
-document.addEventListener("keydown", (event) => {
+var allContent = document.getElementById("main-container");
+var otherElements = document.getElementById("main-content");
+var data;
+fetchJSON('/index.json').then(resp => {
+	data = resp;
+	document.addEventListener("keydown", (event) => {
 	if (event.ctrlKey && event.key === "o"){
 		event.preventDefault();
 		console.log("Initializing search");
@@ -15,29 +18,33 @@ document.addEventListener("keydown", (event) => {
 		closeSearchBox();
 	}
 	});
+});
 
-async function loadSearch()
+function loadSearch()
 {
 	if(searchBox.style.display === "none")
 	{
 		var inputField = document.createElement("input");
 		var resultsField = document.createElement("div");
-		otherElements.style.filter = "blur(4px)";
+		resultsField.id = "resultsField";
+		allContent.style.filter = "blur(4px)";
 		searchBox.style.display = "flex";
 
-		const data = await fetchJSON('/index.json');
 		searchBox.appendChild(inputField);
 		searchBox.appendChild(resultsField);
 		inputField.focus();
 		document.addEventListener("click", (event) => {
 			let i = 0;
+			let temp = false;
 			for(; i<event.path.length; i++)
 			{
-				if(event.path[i].id === "searchBox"){
+				let id = event.path[i].id
+				if(id === "searchBox" || id === "searchbtn"){
+					temp = true;
 					break;
 				}
 			}
-			if (i === event.path.length){
+			if (!temp){
 				closeSearchBox();
 			}
 		})
@@ -52,7 +59,7 @@ async function loadSearch()
 					)
 				});
 				for(let i=0; i < filteredData.length && i < 10; i++){
-					itemHTML = "<a href=\"" + filteredData[i].link + "\">" + filteredData[i].title + "</a>";
+					itemHTML = "<div class=\"result\"><a href=\"" + filteredData[i].link + "\">" + filteredData[i].title + "</a><span>"+ filteredData[i].path + "</span></div>";
 					resultsField.innerHTML += itemHTML; 	
 				}
 				// SELECT BY ARROWS TODO
@@ -73,13 +80,11 @@ async function loadSearch()
 		closeSearchBox();
 	}
 }
-
 function closeSearchBox() {
-	otherElements.style.filter = "none";
+	allContent.style.filter = "none";
 	searchBox.innerHTML = "";
 	searchBox.style.display = "none";
 }
-
 async function fetchJSON(url) {
 	const response = await fetch(url);
 	const data = await response.json();

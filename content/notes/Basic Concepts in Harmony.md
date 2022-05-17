@@ -162,4 +162,34 @@ date: 2022-04-20
 
 ## Vedlejší trojzvuky
 - Dualistický systém popsaný v [[Introduction to Harmony]] (S,T,D) vyčerpává všechen diatonický materiál, takže se všechny ostatní trojzvuky chápou jako odvozené (tj. trojzvuky 2., 3., 6. a 7. stupně)
-- 
+	- Pro souběžné vedlejší trojzvuky přidává k půbvodní (zastupované) funkci písmeno *z*
+		- V dur: Tz (6), Dz (3) a Sz (2)
+		- V moll: Tz (3), Dz (7), Sz (6)
+		- 7. stupneň v duru a 2. stupeň v molu Riemann vykládá jako neúplné čtyřzvuky (zmenšené kvintakordy)
+	- Vyjádřeno tímto schématem
+		- ![[Pasted image 20220516111242.webp]]
+			- Pro 3.a 7. stupeň
+				- Kombinace statické a kinetické jednotky (odpovídá závěrům plagálním a autentickým)
+			- Nejlepé se u odvozených jednotek zdvojuje tercie
+			- Založené na stejném tónorodu, odvozené durové trojzvuky budou mollové, mollové durové
+				- Když nezaložíme trojzvuky na stejném tónorodu, použijeme harmonickou stupnici, vzniká disonantní zvětšený kvintakord
+		- ![[Pasted image 20220516115042.webp]]
+			- Pro 2. a 7. stupeň
+				- Což jsou kombinace dvou kinetických jednotek (odpovídá tonální kadenci)
+			- Jedná se o charakteristické disonantní útvary (narozdíl od 3 a 7 jsou schopny vyjádřit stupnici)
+- Každý trojzvuk v hudbě má dvě funkce
+	- Funkci *absolutní*
+		- Tonální funkce výplývající ze schématismu základních harmonických vztahů
+	- Funkci *relativní*
+		- Přechodná funkce závislá na okamžitém prostředím trojzvuku (viz akordické spoje)
+		-  Z podstaty odvozených trojzvuků vyplývá *princip analogičnosti harmonických vztahů*
+			- I odvozené trojzvuky můžou být v různých spojích (například dominantním)
+			- Vztah těchto útvarů k tónice je definován několikanásobným vztahem zprostředkovaným okolními útvary (viz třeba harmonická progrese
+		- Krom výše jich zmíněných spojů vzniká zavedením vedlejších trojzvuků i spoj terciový
+			- Klasická harmonie mu nedává moc velkou důležitost (snadno se redukuje na pouhou melodickou změnu)
+				- Připouští tento spoj pouze v rámci taktu
+- Celkově se všech sedm trojzvuků (základn i odvozené) rozpadá na 4 skupiny
+	- ![[Pasted image 20220516124208.webp]]
+		- Stěžejní tóny jsou znázorněny vyplněnými kroužky
+
+## Charakteristické disonantní útvary

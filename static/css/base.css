@@ -148,6 +148,11 @@ img {
     max-width: 90%;
     border: 1px solid var(--secondary-bg-color);
 }
+mark {
+    margin: 0px 2px;
+    padding: 0px 2px;
+    border-radius: 8%;
+}
 
 /* METADATA*/
 .meta-container {
@@ -258,12 +263,12 @@ img {
 
 /*SEARCH*/
 
-.searchbtn {
+#searchbtn {
     text-align: right;
     background-color: inherit;
     border: none;
 }
-.searchbtn:hover {
+#searchbtn:hover {
     cursor: pointer;
 }
 #searchBox {
@@ -277,23 +282,23 @@ img {
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0);
-    background-color: black; 
-    border-radius: 4px;
+    background-color: black;
+    border-radius: 6px;
     z-index: 100;
 }
 #searchBox input {
-    border-top-radius: 4px;
+    border-radius: 6px 6px 0 0;
     display: var(--bg-color);
     background-color: inherit;
     border: none;
-    border-bottom: 3px solid var(--terciary-bg-color);
+    border-bottom: 5px solid var(--terciary-bg-color);
     height: fit-content;
-    font-size: 1.7em;
-    padding: 6px;
+    padding: 10px;
+    font-size: 1.6em;
     font-family: 'IBM Plex Sans', sans-serif;
     color: var(--text-color);
 }
-#searchBox div {
+#resultsField {
     overscroll-behavior: contain;
     display: flex;
     overscroll-behavior: contain;
@@ -302,21 +307,31 @@ img {
     overflow-x: hidden;
     scrollbar-width: 0;
 }
-#searchBox div::-webkit-scrollbar {
+#resultsField::-webkit-scrollbar {
     width: 0;
     background: transparent;
 }
-#searchBox div a {
-    color: var(--secondary-link-color);
+.result {
+    display: flex;
     border-bottom: solid 2px var(--terciary-bg-color);
-    display: block;
-    width: auto;
-    font-size: 1.2em;
-    padding: 1rem;
 }
-#searchBox div a:hover {
+.result:hover, .result:focus-within{
     background-color: var(--secondary-bg-color);
 }
-#searchBox div a:focus {
-    background-color: var(--secondary-bg-color);
+.result a {
+    white-space: nowrap;
+    color: var(--secondary-link-color);
+    font-size: 1.3em;
+    padding: 0.75rem;
+}
+.result a:focus {
+    outline: 0 none;
+}
+.result span {
+    align-self: center;
+    color: gray;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.9em;
 }

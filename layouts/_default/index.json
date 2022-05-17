@@ -3,12 +3,20 @@
 {{ range .Site.RegularPages}}
     {{$title := ""}}
     {{if .Params.title}}
-    {{$title = .Params.title}}
+        {{$title = .Params.title}}
     {{else}}
-    {{$title = .File.BaseFileName}}
+        {{$title = .File.BaseFileName}}
     {{end}}
-    {{$item := printf "%s%s%s%s%s%s%s%s%s" "{ \"title\": " "\"" $title "\""  ", \"link\": " "\"" .RelPermalink "\"" "}"}}
-    {{$list = $list | append $item}}
+    {{$item := slice}}
+    {{range (slice (dict "title" $title) (dict "link" .RelPermalink) (dict "path" (printf "%s%s" "/" (replace .File.Path ".md" ""))))}}
+        {{range $ek, $ev := .}}
+            {{$sub := (printf "%s%s%s%s%s" "\"" $ek "\": \"" $ev "\"" )}}
+            {{$item = $item | append $sub}}
+        {{end}}
+    {{end}}
+    {{$item = delimit $item ", "}}
+        {{$item = printf "%s%s%s" "{" $item "}"}}
+        {{$list = $list | append $item}}
 {{ end }}
 {{delimit $list ",\n"}}
 ]
