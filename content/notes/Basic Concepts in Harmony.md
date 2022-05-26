@@ -1,5 +1,5 @@
 ---
-date: 2022-04-20
+date: 2022-05-17
 ---
 ## Stupnice a tónina
 - Strukturu [[Introduction to Harmony|základních tonálních vztahů]] nejlépe vystihuje toto grafické znázornění
@@ -161,14 +161,14 @@ date: 2022-04-20
 			 - ![[Pasted image 20220507095456.webp]]
 
 ## Vedlejší trojzvuky
-- Dualistický systém popsaný v [[Introduction to Harmony]] (S,T,D) vyčerpává všechen diatonický materiál, takže se všechny ostatní trojzvuky chápou jako odvozené (tj. trojzvuky 2., 3., 6. a 7. stupně)
+- Dualistický systém (popsaný v [[Introduction to Harmony]]) (S,T,D) vyčerpává všechen diatonický materiál, takže se všechny ostatní trojzvuky chápou jako odvozené (tj. trojzvuky 2., 3., 6. a 7. stupně)
 	- Pro souběžné vedlejší trojzvuky přidává k půbvodní (zastupované) funkci písmeno *z*
 		- V dur: Tz (6), Dz (3) a Sz (2)
 		- V moll: Tz (3), Dz (7), Sz (6)
 		- 7. stupneň v duru a 2. stupeň v molu Riemann vykládá jako neúplné čtyřzvuky (zmenšené kvintakordy)
 	- Vyjádřeno tímto schématem
 		- ![[Pasted image 20220516111242.webp]]
-			- Pro 3.a 7. stupeň
+			- Pro 3. a 7. stupeň
 				- Kombinace statické a kinetické jednotky (odpovídá závěrům plagálním a autentickým)
 			- Nejlepé se u odvozených jednotek zdvojuje tercie
 			- Založené na stejném tónorodu, odvozené durové trojzvuky budou mollové, mollové durové
@@ -191,5 +191,3 @@ date: 2022-04-20
 - Celkově se všech sedm trojzvuků (základn i odvozené) rozpadá na 4 skupiny
 	- ![[Pasted image 20220516124208.webp]]
 		- Stěžejní tóny jsou znázorněny vyplněnými kroužky
-
-## Charakteristické disonantní útvary

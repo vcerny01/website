@@ -20,7 +20,7 @@ $$S=\sqrt{s \cdot (s-a) \cdot (s-b) \cdot (s-c)}$$
 
 - Kde $s=\frac{a+b+c}{2}$
 
-### 3. Výpočet sinu úhlu
+### 3. Pomocí sinu úhlu
 - V případě, že v trojúhelníku známe délku dvou stran a velikost úhlu jimi sevřeného, pak můžeme obsah tohoto trojúhelníku vypočítat pomocí jednoho ze vztahů:
 	- $\large{S=\frac{1}{2} \cdot b \cdot c \cdot sin \alpha}$
 	- $\large{S=\frac{1}{2} \cdot a \cdot c \cdot sin \beta}$
@@ -72,3 +72,38 @@ $$|KM| = k \cdot |AC|$$
 	- $k < 1$  => **zmenšení**
 
 - Platí věty uu, sus, Ssu o podobnosti trojúhelníku
+
+## Goniometrické funkce
+
+$$sin(\alpha) = \frac{\text{délka protilehlé odvěsny}}{\text{délka přepony}}$$
+
+$$cos(\alpha) = \frac{\text{délka přilehlé odvěsny}}{\text{délka přepony}}$$
+
+$$tan(\alpha) = \frac{\text{délka protilehlé odvěsny}}{\text{délka přilehlé odvěsny}}$$
+
+- $cot$ je v podstatě jen převrácený tangens.
+
+
+
+|            | $sin$                | $cos$                | $tan$                | $cot$                |
+| ---------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| $0^\circ$  | $0$                  | $1$                  | $0$                  | $\times$             |
+| $30^\circ$ | $\frac{1}{2}$        | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{3}}{3}$ | $\sqrt{3}$           | 
+| $45^\circ$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | $1$                  | $1$                  |
+| $60^\circ$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$        | $\sqrt{3}$           | $\frac{\sqrt{3}}{3}$ |
+| $90^\circ$ | $1$                  | $0$                  | $\times$             | $0$                  |
+
+### Inverzní goniometrické funkce
+- K nalezení úhlu díky poměru dvou stran
+- $sin^{-1}$, $cos^{-1}$, $tan^{-1}$, $cot^{-1}$
+
+## Euklidovy věty
+- ![](https://www.matweb.cz/pictures/euklid1.png)
+- **Euklidova věta o výšce**
+	- $v_c^2 = c_a \cdot c_b$
+		- => $v_c = \sqrt{c_b \cdot c_a}$
+- **Euklidova věta o odvěsně**
+	- $a^2 = c \cdot c_a$
+		- => $a=\sqrt{c \cdot c_a}$
+	- $b^2 = c \cdot c_b$
+		- => $b=\sqrt{c \cdot c_b}$
