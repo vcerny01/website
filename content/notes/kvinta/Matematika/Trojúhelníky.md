@@ -61,18 +61,14 @@ $$S=r \cdot \frac{a+b+c}{2}$$
 
 ## Podobnost trojúhelníků
 - $\triangle ABC$ je podobný $\triangle KLM$,  jestliže existuje číslo $k$ tak, že:
-
-$$|KL| = k \cdot |AB|$$
-$$|LM| = k \cdot |BC|$$
-$$|KM| = k \cdot |AC|$$
-
+	- $|KL| = k \cdot |AB|$
+	- $|LM| = k \cdot |BC|$
+	- $|KM| = k \cdot |AC|$
 - $k$ je poměr (koeficient) podobnosti $\triangle ABC$ a $\triangle KLM$
 	- $k > 1$  => **zvětšení**
 	- $k = 1$ => **shodnost**
 	- $k < 1$  => **zmenšení**
-
 - Platí věty uu, sus, Ssu o podobnosti trojúhelníku
-
 ## Goniometrické funkce
 
 $$sin(\alpha) = \frac{\text{délka protilehlé odvěsny}}{\text{délka přepony}}$$
