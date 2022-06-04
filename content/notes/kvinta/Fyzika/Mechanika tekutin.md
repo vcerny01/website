@@ -62,3 +62,15 @@ $$P_h = \frac{F_h}{S} = h \rho g$$
 		- Lis, zvedák, brzdy u aut
 	- Pneumatická zařízení
 		- Buchary, kladivo, brzdy u vlaků
+
+## Archimedův zákon
+- > Těleso ponořené do kapaliny je nadlehčováno vztlakovou silou jejíž velikost je rovna tíze kapaliny stejného objemu, jako je objem ponořeného tělesa
+
+$$F_g = F + F_{vz}$$
+$$F_{vz} = \rho S h g = \rho V g$$ 
+### Chování těles v kapalině
+- ![[Pasted image 20220602145552.webp]]
+
+## Proudění
+Objemový průtok i rovnice kontinuity:
+https://docs.google.com/document/d/1t3VDGckUw8u2ku8iKkF4JeFpLi0WeXlNzv1tRJjwcHQ/edit?usp=sharing

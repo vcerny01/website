@@ -137,3 +137,62 @@ series: Český jazyk
 	- Ale ubral v nich hodně prostoru pro improvizaci
 	- Potlačil taky typizaci postav (např. zrušil masky)
 - **_Sluha dvou pánů_**
+
+## Osvícenství
+- Myšlenkový směr
+- Důraz na rovnoprávnost, svobodu a rozum
+	- Kritizuje absolutismus
+- Nejvíce ve Francii
+- Literatura těsně spojená s filosofií
+	- Hlavní žánry: filosofický román, dobrodružný román, román v dopisech
+ ### Velká Encyklopedie
+ - Vychází ve Francii mezi lety 1751 a 1772
+ - Kolektiv autorů (encyklopedistů)
+	 - Hlavní redaktoři: Denis Diderot, Jean d'Alambert
+ - 17 svazků textů a 11 svazků ilustrací
+	 - Shrnutí dosavadních poznatků o přírodě a společnosti
+	 - Cílem je racionální přístup a vzdělání vede k pokroku
+
+### Autoři
+#### Denis Diderot
+- 1713–1784
+- Materialistický filosof, kritik a spisovatel
+- **_Jeptiška_**
+	- Román
+	- Psaný formou dopisů
+	- Vyprávění dívky Zuzany zavlečené proti své vůli do kláštera (kritika církve)
+- **_Jakub fatalista_**
+	- Filosofický román
+	- Putování Jakuba (sluhy) a jeho pána (šlechtice)
+	- Konfrontace dvou životních postojů fatalismu a svobody
+		- Fatalismus = Víra v osud, odevzdání se osudu, přesvědčení, že vše v životě důležité je dáno osude
+### Voltaire
+- 1649–1778
+- Vlastním jménem Francois-Marie Arouet
+- Filosof, historik, spisovatel
+- Přední osobnost té doby, bohatá korespondence
+	- Vystupoval proti despocii a náboženství
+		- Zastánce tolerance
+- **_Candide neboli Optimismus_**
+	- Filosofický román
+	- Hlavní hrdina, Candide (morálně "čistý"), prochází různými životními situacemi a dobrodružstvými, mnohdy velmi bizarními
+		- Kritika zvůle absolutistické moci a církve
+		- Candide nakonec poznává, že závisí na něm samotném, jaký bude on sám i jeho život 
+### Charles Louis de Montesquieu
+- 1689–1755
+- Spisovatel
+- **_O duch zákonuů_**
+	- Rozebírá společenská řízení
+		- Vystopuje proti despocii a za ideální považuje republiku
+- **_Perské listy_**
+	- Formou dopisů
+	- Peršan Uzbek cestuje po Evropě
+		- Cestuje za vzděláním
+		- Píše o svém poznázní z Evropy dopisy
+			- Přijímá myšlenky osvícenství, ale nežije podle nich
+### Daniel Defoe
+- 1660–1731
+- Spisovatel a tajný agent působící ve Skotsku
+	- Kromě dobrodružných knih psal i politické pamflety a eseje
+- **_Robinson Crusoe_**
+	- V ic

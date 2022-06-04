@@ -486,6 +486,7 @@
     "Beyond Smart": [
         "Articles"
     ],
+    "Structure and Interpretation of Computer Programs": [],
     "Draco": [
         "Archaic Greece",
         "Athens"
@@ -501,6 +502,9 @@
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory",
         "Complex Harmonical Relationships"
+    ],
+    "Building Abstractions with Procedures": [
+        "Structure and Interpretation of Computer Programs"
     ],
     "Steve Jobs on Managment and Presentations": [
         "Steve Jobs (book)"
