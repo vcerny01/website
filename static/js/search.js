@@ -59,7 +59,7 @@ function loadSearch()
 					)
 				});
 				for(let i=0; i < filteredData.length && i < 10; i++){
-					itemHTML = "<div class=\"result\"><a href=\"" + filteredData[i].link + "\">" + filteredData[i].title + "</a><span>"+ filteredData[i].path + "</span></div>";
+					itemHTML = "<a class=\"result\" href=\"" + filteredData[i].link  + "\">" + "<span class=\"title\">" + filteredData[i].title + "</span><span class=\"path\">" + filteredData[i].path + "</span></a>";
 					resultsField.innerHTML += itemHTML; 	
 				}
 				// SELECT BY ARROWS TODO

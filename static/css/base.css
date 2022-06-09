@@ -286,6 +286,12 @@ mark {
     border-radius: 6px;
     z-index: 100;
 }
+@media only screen and (max-width: 500px){
+    #searchBox {
+        width: 95%;
+        height: 80%;        
+    }
+}
 #searchBox input {
     border-radius: 6px 6px 0 0;
     display: var(--bg-color);
@@ -315,20 +321,30 @@ mark {
     display: flex;
     border-bottom: solid 2px var(--terciary-bg-color);
 }
+.result:hover {
+    text-decoration: none;
+}
+.result:focus {
+    outline: 0 none;
+}
 .result:hover, .result:focus-within{
     background-color: var(--secondary-bg-color);
+    cursor: pointer;
 }
-.result a {
+.result .title {
+    align-self: flex-start;
+    display: block;
     white-space: nowrap;
     color: var(--secondary-link-color);
     font-size: 1.3em;
     padding: 0.75rem;
 }
-.result a:focus {
-    outline: 0 none;
+.result .title:hover {
+    text-decoration: underline;
 }
-.result span {
+.result .path {
     align-self: center;
+    display: block;
     color: gray;
     white-space: nowrap;
     overflow: hidden;
