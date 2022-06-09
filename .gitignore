@@ -2,3 +2,4 @@ public
 .gitignore
 .hugo_build.lock
 .obsidian
+*.code-workspace

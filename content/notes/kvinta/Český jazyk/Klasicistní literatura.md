@@ -195,4 +195,18 @@ series: Český jazyk
 - Spisovatel a tajný agent působící ve Skotsku
 	- Kromě dobrodružných knih psal i politické pamflety a eseje
 - **_Robinson Crusoe_**
-	- V ic
+	- Osud trosečníka, který 28 let obývá pustý ostrov
+	- Velice populární
+		- Izolovala další autory k napsání tzv. robinsionád
+	- Boj a vítězství jako atributy životní filosofie anglické buržoazie
+
+### Jonathan Swift
+- 1677–1745
+- Jeden z největších anglických satiriků
+	- Psal politické články a pamflety (většinou ostře satirické)
+- Téměř celý svůj život strávil v Irsku
+	- Jeho konec byl poznamenán duševní chorobou
+- **_Gulliverovi cesty_**
+	- Čtyřdílný utopický alegoricky a zejména satirický a parodický román
+	- Hlavním hrdinou je kapitán Lemuel Gulliver
+		- Postupně podniká cestu do Liliputu (mezi trpaslíky), Brobdingnagu (mezi obry) a do dalších zemí

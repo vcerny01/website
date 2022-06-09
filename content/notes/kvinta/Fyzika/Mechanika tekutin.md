@@ -25,7 +25,6 @@ $$p = \frac{F}{S}$$
 - V tíhovém poli působí na všechny částice kapalného tělesa tíhová síla
 - Výsledkem tohoto působení je *hydrostatická tlaková síla* $F_h$, kterou působí kapalina na dno a stěny nádob, na tělesa ponořená do kapaliny...
 - Pro velikost hydrostatické tlakové síly působící na plochu $S$ v hloubce $h$ pod volným povrchem kapaliny o hustotě $\rho$ platí:
-
 $$F_h = S h \rho g$$
 
 ### Hydrostatický paradox
@@ -34,9 +33,7 @@ $$F_h = S h \rho g$$
 
 ### Hydrostatický tlak
 - Tlak vyvolaný hydrostatickou tlakovou silou
-
 $$P_h = \frac{F_h}{S} = h \rho g$$
-
 - Princip spojených nádob
 	- U dna je všude stejný hydrostatický tlak
 	- ![[Pasted image 20220517082218.webp]]
@@ -54,8 +51,7 @@ $$P_h = \frac{F_h}{S} = h \rho g$$
 		- $p = \frac{F_1}{S_1}$, $p = \frac{F_2}{S_2}$ =>
 		
 		$$\frac{F_1}{S_1} = \frac{F_2}{S_2}$$
-
-- => Malou silou působící na užší píst lze vyvolat mnohonásobně větší sílu působící na širší píst
+- => Malou silou působící na užší píst lze vyvolat mnohonásobně větší sílu půsopbící na širší píst
 - => Pascalův zákon platí i v plynech
 - Využití v technické praxi:
 	- Hydraulická zařízení
@@ -66,8 +62,11 @@ $$P_h = \frac{F_h}{S} = h \rho g$$
 ## Archimedův zákon
 - > Těleso ponořené do kapaliny je nadlehčováno vztlakovou silou jejíž velikost je rovna tíze kapaliny stejného objemu, jako je objem ponořeného tělesa
 
-$$F_g = F + F_{vz}$$
+$$F_{vz} = F_2 - F_1 = \rho S h_2 g - \rho S h_1 g = \rho S g (h_2 - h_1)$$ 
 $$F_{vz} = \rho S h g = \rho V g$$ 
+$$F_G = \rho _t Vg$$
+
+- ![[2022-06-05-15-16-14.webp]]
 ### Chování těles v kapalině
 - ![[Pasted image 20220602145552.webp]]
 

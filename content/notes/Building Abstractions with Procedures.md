@@ -54,13 +54,17 @@ date: 2022-05-30
 		- ![[Pasted image 20220531092143.webp]]
 		- The amount of information needed to keep track of the process grows linearly
 		- This is an example of *linear recursive process*
+			- Time complexity: O(x), space complexity: O(x)
 	- 2.
 		- ![[Pasted image 20220531092605.webp]]
 		- The number of steps required to get the result grows linearly
 		- This is an example of *linear iterative process*
+			- Time complexity: O(x), space complexity: O(1)
 - We need to differentiate between recursive procedures and processes 
 	- Most implementations of common languages are designed in such a way that the interpretation of any recursive procedure consumes an amount of memory that grows with the number of procedure calls, even though the process is in principle iterative, thus they have to resor to special-purpose "looping constructs"
 - ![[Pasted image 20220531145605.webp]]
-	- Tree-recursive processes are useless with numbers as they their memory consumption grows exponentially with the input (linear iteration serves better here)
-		- However they can be useful for operating on hierarchically structured data
-	- 
+	- Every node in the tree has to be examined (thus the same subtrees have to be evaluated more times)
+		- This process grows exponentially
+			- It has a time complexity of O(fib(n)) (space complexity: O(n))
+		- That's why it's inefficent to use this processes on numbers
+			- But they can be useful when working with hiearachically structured data
