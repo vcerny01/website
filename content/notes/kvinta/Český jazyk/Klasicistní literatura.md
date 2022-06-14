@@ -1,5 +1,5 @@
 ---
-date: 2022-05-12
+date: 2022-06-02
 series: Český jazyk
 ---
 ## Charakteristika
