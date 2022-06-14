@@ -25,7 +25,7 @@ series: Český jazyk
 
 ## Zahraniční autoři
 ### Jean Jacques Rousseau
-- 1712 
+- 1712–1778
 - Filosof, spisovatel
 - Žil ve Francii v době osvícenství (příspaval i trochu do encyklopedie)
 - Teoreticky se věnoval výuce
@@ -45,6 +45,7 @@ series: Český jazyk
         - Julie teda tragicky umírá
 
 ### Antoine Francois Prévost
+- 1697–1763
 - Spisovatel a překladatel
 - Nějaký čas působil u jezuitů
 - Poté odjel do Anglie, kde se živil psaním a překládáním
