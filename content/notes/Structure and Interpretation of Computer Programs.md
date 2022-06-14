@@ -13,4 +13,6 @@ date: 2022-05-30
 To Do
 
 ## Notes
+Here's the [book](https://sarabander.github.io/sicp/). I highly recommend you do the exercises.
+
 - [[Building Abstractions with Procedures]]

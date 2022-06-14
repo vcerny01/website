@@ -166,7 +166,7 @@ series: Český jazyk
 	- Putování Jakuba (sluhy) a jeho pána (šlechtice)
 	- Konfrontace dvou životních postojů fatalismu a svobody
 		- Fatalismus = Víra v osud, odevzdání se osudu, přesvědčení, že vše v životě důležité je dáno osude
-### Voltaire
+#### Voltaire
 - 1649–1778
 - Vlastním jménem Francois-Marie Arouet
 - Filosof, historik, spisovatel
@@ -178,7 +178,7 @@ series: Český jazyk
 	- Hlavní hrdina, Candide (morálně "čistý"), prochází různými životními situacemi a dobrodružstvými, mnohdy velmi bizarními
 		- Kritika zvůle absolutistické moci a církve
 		- Candide nakonec poznává, že závisí na něm samotném, jaký bude on sám i jeho život 
-### Charles Louis de Montesquieu
+#### Charles Louis de Montesquieu
 - 1689–1755
 - Spisovatel
 - **_O duch zákonuů_**
@@ -190,7 +190,7 @@ series: Český jazyk
 		- Cestuje za vzděláním
 		- Píše o svém poznázní z Evropy dopisy
 			- Přijímá myšlenky osvícenství, ale nežije podle nich
-### Daniel Defoe
+#### Daniel Defoe
 - 1660–1731
 - Spisovatel a tajný agent působící ve Skotsku
 	- Kromě dobrodružných knih psal i politické pamflety a eseje
@@ -200,7 +200,7 @@ series: Český jazyk
 		- Izolovala další autory k napsání tzv. robinsionád
 	- Boj a vítězství jako atributy životní filosofie anglické buržoazie
 
-### Jonathan Swift
+#### Jonathan Swift
 - 1677–1745
 - Jeden z největších anglických satiriků
 	- Psal politické články a pamflety (většinou ostře satirické)

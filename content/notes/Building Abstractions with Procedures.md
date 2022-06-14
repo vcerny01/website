@@ -68,3 +68,7 @@ date: 2022-05-30
 			- It has a time complexity of O(fib(n)) (space complexity: O(n))
 		- That's why it's inefficent to use this processes on numbers
 			- But they can be useful when working with hiearachically structured data
+
+## Formulating Abstractions with Higher-Order Procedures
+- Procedures that manipulate procedures are called higher-order procedure
+- Useful abstractions when we have procedures that share an underlying pattern

@@ -81,7 +81,7 @@ series: Český jazyk
         - Tam se zamiloval jako starý do sedmnáctileté dívky (která ho odmítla)
 - Věnoval se hodně věcem (anatomii, barvám atd.)
 - Poezie
-    - **_Trilogie vášně**
+    - **_Trilogie vášně_**
 - Próza
     - **_Utrpení mladého Wertera_**
         - Sentimentální román formou dopisů
